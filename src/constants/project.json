@@ -1,0 +1,44 @@
+{
+    "project_24_02_2023" : [
+        {
+            "title": "Sale Online Platform",
+            "text": "Hoàn thành buổi demo cho a Hải \n Phối hợp với tester test lại các tính năng trên UAT",
+            "date": 1674537052000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Dialo",
+            "text": "Đã hoàn thành các tasks sprint 21",
+            "date": 1674537052000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Omnichannel",
+            "text": "Đã họp trao đổi với team BA hồ sơ URD cho các chức năng phase 2. Team BA đang hoàn thành SRS sau các góp ý trong buổi họp",
+            "date": 1674537052000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Hệ thống giám sát mới",
+            "text": "PM đã gửi mail KH triển khai production",
+            "date": 1674537052000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "OnCX",
+            "text": "Fix hết các bug trong ver140 \nThêm tính năng resubscribe ws chat sau khi reconnect \n Thêm log disconnect ws chat \nReview đóng gói ver140",
+            "date": 1674537052000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        }
+    ]
+}

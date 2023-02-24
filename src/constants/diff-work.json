@@ -1,0 +1,44 @@
+{
+    "diff_work_24_02_2023" : [
+        {
+            "title": "Nghiên cứu",
+            "text": "ĐứcNC10 - Đã demo web tích hợp Voice Search Optimization vào ngày 23.2 \n LộcNTX, HuyHQ29: Đã demo vào ngày 23.2 \nKhánhTV21: Chrome extension (40%) \n TàiVP: Nâng performance dự án Dialo (75%): Đã gửi mail bản đánh giá \nThànhNV97: Triển khai tool cho đội Dịch vụ (100%)",
+            "date": 1674537052000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Bàn giao công việc",
+            "text": "Tiến độ bàn giao UyTKG: Đã hoàn thành bàn giao và update tài liệu lên thư mục bàn giao",
+            "date": 1674537052000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Phong trào",
+            "text": "Team tham gia thử thách Health or Heo trên Foxstep. Có 10/10 nhân sự trong team đã đạt > 20km đầu tiên (50%). HuyHG3 đã đạt chỉ tiêu đầu tiên trong phong trào. HuyHG3 và ThànhNV97 đạt trên 70km",
+            "date": 1674537052000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Công việc tuần tới",
+            "text": "OnCX: Test lại sản phẩm trên UAT, fix bug phát sinh \n SOP: Join test cùng với team tester, tích hợp integration test vào dự án SOP, support BE refactor ở dev \n Dialo: 'Check môi trường production 27,28 (deploy ngày 24) Dự kiến start sprint ngày 01.03' \nHệ thống giám sát mới: Phối hợp với PM và system test khi triển khai lên môi trường production",
+            "date": 1674537052000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Innovation",
+            "text": "Trình bày ý tưởng, nhận góp ý từ BGĐ",
+            "date": 1674537052000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        }
+    ]
+}

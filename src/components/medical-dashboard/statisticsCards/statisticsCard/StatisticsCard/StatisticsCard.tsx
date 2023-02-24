@@ -41,7 +41,7 @@ export const StatisticsCard: React.FC<StatisticsCardProps> = ({ name, value, pre
             </BaseCol>
 
             <BaseCol>
-              <StatisticsProgress color={themeObject[theme][color]} unit={unit} value={value} total={11} />
+              <StatisticsProgress color={themeObject[theme][color]} unit={unit} value={value} total={13} />
             </BaseCol>
           </BaseRow>
         </BaseCol>

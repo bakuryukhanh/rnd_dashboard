@@ -15,19 +15,19 @@ const fakeData = [
     name: 'Tuần 1',
     type: 'bar',
     stack: 'Ad',
-    data: [20, 21, 22, 24, 26, 28, 30, 30, 25],
+    data: [29, 27, 30, 29, 29, 28, 29, 28, 29],
   },
   {
     name: 'Tuần 2',
     type: 'bar',
     stack: 'Ad',
-    data: [20, 21, 23, 24, 26, 28, 30, 30, 25],
+    data: [29, 28, 30, 29, 30, 29, 30, 30, 31],
   },
   {
     name: 'Tuần 3',
     type: 'bar',
     stack: 'Ad',
-    data: [20, 21, 25, 24, 26, 28, 30, 30, 25],
+    data: [32, 29, 31, 31, 31, 31, 30, 31, 31],
   },
 ];
 
@@ -37,7 +37,6 @@ interface ActivityChartProps {
 
 export const ActivityChart: React.FC<ActivityChartProps> = ({ data }) => {
   const theme = useAppSelector((state) => state.theme.theme);
-
 
   // const days = Dates.getDays();
 

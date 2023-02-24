@@ -141,16 +141,17 @@ export const AppRouter: React.FC = () => {
           {/* <Route index element={<NftDashboard />} /> */}
           {/* <Route path={MEDICAL_DASHBOARD_PATH} element={<MedicalDashboard />} /> */}
           <Route path={MEDICAL_DASHBOARD_PATH} element={<MedicalDashboard />} />
-          <Route path="apps">
+        </Route>
+        {/* <Route path="apps">
             <Route path="feed" element={<NewsFeed />} />
             <Route path="kanban" element={<Kanban />} />
-          </Route>
-          <Route path="forms">
+          </Route> */}
+        {/* <Route path="forms">
             <Route path="advanced-forms" element={<AdvancedForm />} />
-          </Route>
-          <Route path="data-tables" element={<DataTables />} />
-          <Route path="charts" element={<Charts />} />
-          <Route path="maps">
+          </Route> */}
+        {/* <Route path="data-tables" element={<DataTables />} /> */}
+        {/* <Route path="charts" element={<Charts />} /> */}
+        {/* <Route path="maps">
             <Route path="google-maps" element={<Google />} />
             <Route path="leaflet-maps" element={<Leaflet />} />
             <Route path="react-simple-maps" element={<ReactSimple />} />
@@ -201,8 +202,8 @@ export const AppRouter: React.FC = () => {
             <Route path="rf" element={<WorkKanban />} />
             <Route path="okr" element={<OKR />} />
           </Route>
-        </Route>
-        <Route path="/auth" element={<AuthLayoutFallback />}>
+        </Route> */}
+        {/* <Route path="/auth" element={<AuthLayoutFallback />}>
           <Route path="login" element={<LoginPage />} />
           <Route path="sign-up" element={<SignUpPage />} />
           <Route
@@ -216,8 +217,8 @@ export const AppRouter: React.FC = () => {
           <Route path="forgot-password" element={<ForgotPasswordPage />} />
           <Route path="security-code" element={<SecurityCodePage />} />
           <Route path="new-password" element={<NewPasswordPage />} />
-        </Route>
-        <Route path="/logout" element={<LogoutFallback />} />
+        </Route> */}
+        {/* <Route path="/logout" element={<LogoutFallback />} /> */}
       </Routes>
     </BrowserRouter>
   );

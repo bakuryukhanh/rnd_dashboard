@@ -1,7 +1,7 @@
 {
-    "project_24_02_2023" : [
+    "diff_work_24_02_2023" : [
         {
-            "title": "Sale Online Platform",
+            "title": "OKR",
             "text": "Đang triển khai",
             "date": 1677820252000,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
@@ -9,7 +9,7 @@
             "author": "Dr. Dan Reed"
         },
         {
-            "title": "Dialo",
+            "title": "KPI",
             "text": "Đang triển khai",
             "date": 1677820252000,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
@@ -17,7 +17,7 @@
             "author": "Dr. Dan Reed"
         },
         {
-            "title": "Omnichannel",
+            "title": "Bàn giao công việc",
             "text": "Đang triển khai",
             "date": 1677820252000,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
@@ -25,7 +25,7 @@
             "author": "Dr. Dan Reed"
         },
         {
-            "title": "Hệ thống giám sát mới",
+            "title": "Phong trào",
             "text": "Đang triển khai",
             "date": 1677820252000,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
@@ -33,7 +33,15 @@
             "author": "Dr. Dan Reed"
         },
         {
-            "title": "OnCX",
+            "title": "Innovation",
+            "text": "Đang triển khai",
+            "date": 1677820252000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Công việc tuần tới",
             "text": "Đang triển khai",
             "date": 1677820252000,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",

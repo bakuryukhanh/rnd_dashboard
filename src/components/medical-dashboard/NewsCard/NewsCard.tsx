@@ -26,7 +26,7 @@ export const NewsCard: React.FC = (props) => {
         return w3Data.project_24_02_2023;
     }
   }, [props.week]);
-  console.log(data);
+  // console.log(data);
   return (
     <DashboardCard title={t('medical-dashboard.project')}>
       <S.Wrapper>

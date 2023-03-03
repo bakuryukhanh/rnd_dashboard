@@ -1,6 +1,6 @@
 import React, { useMemo } from 'react';
 // import { dashboardNews } from '@app/constants/dashboardNews';
-import { dashboardNewsDiffWork } from '@app/constants/dashboardNewsDiffWork';
+// import { dashboardNewsDiffWork } from '@app/constants/dashboardNewsDiffWork';
 import { DashboardCard } from '../DashboardCard/DashboardCard';
 import * as S from './NewsCard.styles';
 import { useTranslation } from 'react-i18next';
@@ -9,28 +9,28 @@ import w1Data from 'constants/diff-work.json';
 import w2Data from 'constants/diff-workw2.json';
 import w3Data from 'constants/diff-workw3.json';
 
-type Props = {
-  week: string;
-};
+// type Props = {
+//   week: string;
+// };
 
 export const NewsWork: React.FC = (props) => {
   const { t } = useTranslation();
 
   const data = useMemo(() => {
     switch (props.week) {
-      case 'w1':
+      case '20/02/2023 - 24/02/2023':
         return w2Data.diff_work_24_02_2023;
 
-      case 'w2':
+      case '13/02/2023 - 17/02/2023':
         return w1Data.diff_work_24_02_2023;
 
-      case 'w3':
+      case '27/02/2023 - 3/03/2023':
         return w3Data.diff_work_24_02_2023;
     }
   }, [props.week]);
 
   return (
-    <DashboardCard title={t('medical-dashboard.diff-work')}>
+    <DashboardCard title={t('rnd-dashboard.diff-work')}>
       {/* <S.Wrapper>
         {dashboardNewsDiffWork.map((advice, index) => (
           <BaseArticle

@@ -11,26 +11,26 @@ export const getStatistics = (): Promise<Statistic[]> => {
       res([
         {
           id: 1,
-          value: 13,
-          prevValue: 13,
+          value: 12,
+          prevValue: 12,
           unit: 'người',
         },
         {
           id: 2,
-          value: 13,
-          prevValue: 13,
+          value: 12,
+          prevValue: 12,
           unit: 'người',
         },
         {
           id: 3,
-          value: 1,
-          prevValue: 13,
+          value: 0,
+          prevValue: 12,
           unit: 'người',
         },
         {
           id: 4,
-          value: 78,
-          prevValue: 90,
+          value: 12,
+          prevValue: 12,
           unit: 'người',
         },
       ]);

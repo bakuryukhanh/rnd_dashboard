@@ -1,13 +1,15 @@
 import React from 'react';
-import { useTranslation } from 'react-i18next';
+// import { useTranslation } from 'react-i18next';
 import { BaseChart, getDefaultTooltipStyles } from '@app/components/common/charts/BaseChart';
-import { dashboardPaddings } from '@app/components/medical-dashboard/DashboardCard/DashboardCard';
+import { dashboardPaddings } from '@app/components/rnd-dashboard/DashboardCard/DashboardCard';
 import { useResponsive } from '@app/hooks/useResponsive';
 // import { Dates } from '@app/constants/Dates';
-import { ChartData, ChartSeriesData } from '@app/interfaces/interfaces';
+// import { ChartData, ChartSeriesData } from '@app/interfaces/interfaces';
+// comment ChartSeriesData
+import { ChartData } from '@app/interfaces/interfaces';
 import { useAppSelector } from '@app/hooks/reduxHooks';
 import { themeObject } from '@app/styles/themes/themeVariables';
-import { graphic } from 'echarts';
+// import { graphic } from 'echarts';
 import dataNSNS from '../../../constants/nsns.json';
 
 const fakeData = [
@@ -27,17 +29,16 @@ const fakeData = [
     name: 'Tuần 3',
     type: 'bar',
     stack: 'Ad',
-    data: [32, 29, 31, 31, 31, 31, 30, 31, 31],
+    data: [48, 35, 40, 34, 61, 43, 39, 33, 31],
   },
 ];
 
-interface ActivityChartProps {
-  data: ChartData;
-}
+// interface ActivityChartProps {
+//   data: ChartData;
+// }
 
-export const ActivityChart: React.FC<ActivityChartProps> = ({ data }) => {
+export const ActivityChart: React.FC = (props) => {
   const theme = useAppSelector((state) => state.theme.theme);
-
   // const days = Dates.getDays();
 
   const name = dataNSNS.name_nsns_24_02_2023;

@@ -2,7 +2,7 @@
     "diff_work_24_02_2023" : [
         {
             "title": "OKR",
-            "text": "Đang triển khai",
+            "text": "1. Nghiên cứu công nghệ \n - ĐứcNC10 - Đã demo web tích hợp Voice Search Optimization vào ngày 23.2 \n - LộcNTX, HuyHQ29: Đã demo vào ngày 23.2 \n - KhánhTV21: Chrome extension (40%)\n - TàiVP: Nâng performance dự án Dialo (75%): Đã gửi mail bản đánh giá \n - ThànhNV97: Triển khai tool cho đội Dịch vụ (100%) \n 2. Hoàn thành khoá học, chứng chỉ \n - PhiLK: Khoá học mobile flutter: 60%, Demo Flutter: (50%) dự kiến tháng 3 demo ứng dụng \n 3. Hoàn thành tool \n - - Nghiên cứu xây dựng tool thống kê KPI, OKR: 80% hoàn thành nghiên cứu api fproject và taiga",
             "date": 1677820252000,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
             "avatarUrl": "avatar1",
@@ -10,23 +10,15 @@
         },
         {
             "title": "KPI",
-            "text": "Đang triển khai",
+            "text": "1. Hoàn thành docs về tính năng - API (Flow, data schema, swimlane logic) trên mỗi task được nhận (trừ trường hợp được SA-BA confirm không cần làm): Đạt \n 2. Hoàn thành update đủ thông tin task trên taiga 1. Mô tả task (input-output), 2. bằng chứng hoàn thành khi chuyển từ ingrogress sang ready to test - FE screenshot UI trên mt dev, merge request; BE screenshot Postman API trên mt dev, merge request; 3.integration test/ unit test: Đạt \n 3. Có số bugs được report trong mỗi tính năng của 1 sprint dự án <= 2 (Bug tính theo miss logic, miss require, miss task, miss communication): Đạt \n 4. Đảm bảo số lần CBQL nhắc nhở, khiển trách về công việc, thái độ trách nhiệm của bản thân = 0 lần: Đạt",
             "date": 1677820252000,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
             "avatarUrl": "avatar1",
             "author": "Dr. Dan Reed"
         },
         {
-            "title": "Bàn giao công việc",
-            "text": "Đang triển khai",
-            "date": 1677820252000,
-            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
-            "avatarUrl": "avatar1",
-            "author": "Dr. Dan Reed"
-        },
-        {
-            "title": "Phong trào",
-            "text": "Đang triển khai",
+            "title": "Vấn đề phát sinh khác",
+            "text": "1. Phong trào RnD \n - Kết thúc phong trào tham gia thử thách Health or Heo trên Foxstep. ThànhNV97 đạt giải vô địch, HuyHG3 đạt giải tăng tốc \n 2. Tiếp nhận SVTT ở HNI \n - Đã đánh giá và gửi cho HR \n 3. Autocall đội VH phát IVR bị delay \n - Đã clone source code test autocall",
             "date": 1677820252000,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
             "avatarUrl": "avatar1",
@@ -34,7 +26,7 @@
         },
         {
             "title": "Innovation",
-            "text": "Đang triển khai",
+            "text": "Trình bày ý tưởng lần 1 vào ngày 28/2 nhận góp ý từ BGĐ, đang chỉnh sửa và hoàn thiện slide, trình bày lại vào ngày 7/3",
             "date": 1677820252000,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
             "avatarUrl": "avatar1",
@@ -42,7 +34,7 @@
         },
         {
             "title": "Công việc tuần tới",
-            "text": "Đang triển khai",
+            "text": "1. Dự án \n - OnCX: Test lại sản phẩm trên môi trường UAT, fix bug phát sinh. Nghiên cứu sprint 30 \n - SOP: Join test cùng với team tester, tích hợp integration test vào dự án SOP, support BE refactor ở dev \n - Dialo: Check môi trường production 27,28 (deploy ngày 24) Dự kiến start sprint ngày 01.03 \n - Hệ thống giám sát mới: Phối hợp với PM và system test khi triển khai lên môi trường production \n - Happy Connect: PM chưa có kế hoạch cho tuần sau \n 2. Nghiên cứu xây dựng tool thống kế KPI, OKR \n - Thống nhất data cần sync, trao đổi với PM và DươngNTT63 thông nhất các trường data cần sync: status, spent time, duedate \n",
             "date": 1677820252000,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
             "avatarUrl": "avatar1",

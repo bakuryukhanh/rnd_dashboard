@@ -348,6 +348,31 @@
       "nw": "27/02/2023 - 03/02/2023"
     }
   },
+  "rnd-dashboard": {
+    "activity": {
+      "kcalBurned": "kcal burned on",
+      "title": "Activity",
+      "nsns": "Năng suất"
+    },
+    "news": "News",
+    "treatmentPlan": {
+      "noVisits": "No visits for that day",
+      "title": "Treatment plan"
+    },
+    "water": "Water",
+    "project": "Dự án",
+    "diff-work": "Công việc khác",
+    "ns": "Nhân sự",
+    "ns-health": "Tình hình sức khỏe",
+    "ns-out": "Nhân sự out",
+    "ns-in": "Nhân sự in",
+    "search" : {
+      "date": "Search",
+      "lw": "13/02/2023 - 17/02/2023",
+      "w": "20/02/2023 - 24/02/2023",
+      "nw": "27/02/2023 - 03/02/2023"
+    }
+  },
   "dataDisplay": {
     "avatars": {
       "badge": "Avatar with badge",

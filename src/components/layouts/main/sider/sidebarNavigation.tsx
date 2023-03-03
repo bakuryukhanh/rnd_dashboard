@@ -1,17 +1,17 @@
 import React from 'react';
 import {
-  CompassOutlined,
+  //CompassOutlined,
   DashboardOutlined,
-  FormOutlined,
-  HomeOutlined,
-  LayoutOutlined,
-  LineChartOutlined,
-  TableOutlined,
-  UserOutlined,
-  BlockOutlined,
+  // FormOutlined,
+  // HomeOutlined,
+  // LayoutOutlined,
+  // LineChartOutlined,
+  // TableOutlined,
+  // UserOutlined,
+  // BlockOutlined,
   //UnorderedListOutlined,
 } from '@ant-design/icons';
-import { ReactComponent as NftIcon } from '@app/assets/icons/nft-icon.svg';
+// import { ReactComponent as NftIcon } from '@app/assets/icons/nft-icon.svg';
 
 export interface SidebarNavigationItem {
   title: string;
@@ -66,8 +66,8 @@ export const sidebarNavigation: SidebarNavigationItem[] = [
   {
     // title: 'common.medical-dashboard',
     title: 'common.report',
-    key: 'medical-dashboard',
-    url: '/medical-dashboard',
+    key: 'rnd-dashboard',
+    url: '/rnd-dashboard',
     icon: <DashboardOutlined />,
   },
   // {

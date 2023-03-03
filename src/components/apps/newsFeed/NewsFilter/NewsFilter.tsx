@@ -2,7 +2,9 @@ import React, { ReactNode, useState, useEffect, useCallback, useMemo } from 'rea
 import { useTranslation } from 'react-i18next';
 import { RangeValue } from 'rc-picker/lib/interface.d';
 import { BaseHashTag, IHashTag } from '@app/components/common/BaseHashTag/BaseHashTag';
-import { AuthorValidator, TitleValidator, DatesValidator, TagsValidator } from '../Validator';
+// import { AuthorValidator, TitleValidator, DatesValidator, TagsValidator } from '../Validator';
+// comment TagsValidator
+import { AuthorValidator, TitleValidator, DatesValidator } from '../Validator';
 import { useResponsive } from '@app/hooks/useResponsive';
 import { newsTags as defaultTags } from '@app/constants/newsTags';
 import { AppDate, Dates } from '@app/constants/Dates';

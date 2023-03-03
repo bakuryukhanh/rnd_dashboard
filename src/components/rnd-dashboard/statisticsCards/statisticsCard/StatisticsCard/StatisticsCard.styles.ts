@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 import { default as AntIcon } from '@ant-design/icons';
-import { DashboardCard } from '@app/components/medical-dashboard/DashboardCard/DashboardCard';
+import { DashboardCard } from '@app/components/rnd-dashboard/DashboardCard/DashboardCard';
 import { StatisticColor } from '@app/constants/config/statistics';
 import { Text } from '../StatisticsInfo/StatisticsInfo.styles';
 

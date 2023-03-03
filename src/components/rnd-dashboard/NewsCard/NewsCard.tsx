@@ -1,5 +1,5 @@
 import React, { useMemo } from 'react';
-import { dashboardNews } from '@app/constants/dashboardNews';
+// import { dashboardNews } from '@app/constants/dashboardNews';
 import { DashboardCard } from '../DashboardCard/DashboardCard';
 import * as S from './NewsCard.styles';
 import { useTranslation } from 'react-i18next';
@@ -8,27 +8,27 @@ import w1Data from 'constants/project.json';
 import w2Data from 'constants/projectw2.json';
 import w3Data from 'constants/projectw3.json';
 
-type Props = {
-  week: string;
-};
+// type Props = {
+//   week: string;
+// };
+
 export const NewsCard: React.FC = (props) => {
   const { t } = useTranslation();
-
   const data = useMemo(() => {
     switch (props.week) {
-      case 'w1':
+      case '20/02/2023 - 24/02/2023':
         return w1Data.project_24_02_2023;
 
-      case 'w2':
+      case '13/02/2023 - 17/02/2023':
         return w2Data.project_24_02_2023;
 
-      case 'w3':
+      case '27/02/2023 - 3/03/2023':
         return w3Data.project_24_02_2023;
     }
   }, [props.week]);
-  // console.log(data);
+
   return (
-    <DashboardCard title={t('medical-dashboard.project')}>
+    <DashboardCard title={t('rnd-dashboard.project')}>
       <S.Wrapper>
         {data.map((advice, index) => (
           <BaseArticle

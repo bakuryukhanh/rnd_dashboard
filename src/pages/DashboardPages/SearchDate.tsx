@@ -36,10 +36,10 @@ export const SearchDate: React.FC<Props> = (props) => {
             20/02/2023 - 24/02/2023
           </BaseSpace>
         </Option>
-        <Option value="27/02/2023 - 3/03/2023">
+        <Option value="27/02/2023 - 28/02/2023">
           <BaseSpace align="center">
             <CalendarOutlined />
-            27/02/2023 - 03/03/2023
+            27/02/2023 - 28/02/2023
           </BaseSpace>
         </Option>
         <Option value="01/03/2023 - 3/03/2023">

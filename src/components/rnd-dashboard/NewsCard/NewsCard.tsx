@@ -7,6 +7,7 @@ import { BaseArticle } from '@app/components/common/BaseArticle/BaseArticle';
 import w1Data from 'constants/project.json';
 import w2Data from 'constants/projectw2.json';
 import w3Data from 'constants/projectw3.json';
+import w4Data from 'constants/projectw4.json';
 
 // type Props = {
 //   week: string;
@@ -24,6 +25,9 @@ export const NewsCard: React.FC = (props) => {
 
       case '27/02/2023 - 3/03/2023':
         return w3Data.project_24_02_2023;
+
+      case '27/02/2023 - 28/02/2023':
+        return w4Data.project_28_02_2023;
       case '01/03/2023 - 3/03/2023':
         return w3Data.project_24_02_2023;
     }

@@ -59,9 +59,12 @@ const RnDDashboardPage: React.FC = () => {
     secondMonth = lastDayMonth;
   }
   // show info this week
-  const calender = `${firstDay.getDate() + 1}/${fistMonth}/${nowYear} - ${
-    lastDay.getDate() - 1
-  }/${secondMonth}/${nowYear}`;
+  let calender;
+  if (fistMonth !== secondMonth) {
+    calender = `01/${secondMonth}/${nowYear} - ${lastDay.getDate() - 1}/${secondMonth}/${nowYear}`;
+  } else {
+    calender = `${firstDay.getDate() + 1}/${fistMonth}/${nowYear} - ${lastDay.getDate() - 1}/${secondMonth}/${nowYear}`;
+  }
 
   const [week, setWeek] = React.useState(calender);
 
@@ -108,13 +111,13 @@ const RnDDashboardPage: React.FC = () => {
   const mobileAndTabletLayout = (
     <>
       <BaseCol id="searchDate" xs={24} md={12} order={(isTablet && 8) || 0}>
-        <SearchDate value={week} onChange={(week) => setWeek(week)} />
+        <SearchDate value={calender} onChange={(week) => setWeek(week)} />
       </BaseCol>
       <BaseRow gutter={[20, 20]}>
         <StatisticsCards />
 
         <BaseCol id="activity" xs={24} md={24} order={(isTablet && 8) || 0}>
-          <ActivityCard />
+          <ActivityCard week={week} />
         </BaseCol>
 
         <BaseCol id="news" xs={24} md={24} order={(isTablet && 10) || 0}>

@@ -8,6 +8,7 @@ import { BaseArticle } from '@app/components/common/BaseArticle/BaseArticle';
 import w1Data from 'constants/diff-work.json';
 import w2Data from 'constants/diff-workw2.json';
 import w3Data from 'constants/diff-workw3.json';
+import w4Data from 'constants/diff-workw4.json';
 
 // type Props = {
 //   week: string;
@@ -26,6 +27,8 @@ export const NewsWork: React.FC = (props) => {
 
       case '27/02/2023 - 3/03/2023':
         return w3Data.diff_work_24_02_2023;
+      case '27/02/2023 - 28/02/2023':
+        return w4Data.diff_work_28_02_2023;
       case '01/03/2023 - 3/03/2023':
         return w3Data.diff_work_24_02_2023;
     }

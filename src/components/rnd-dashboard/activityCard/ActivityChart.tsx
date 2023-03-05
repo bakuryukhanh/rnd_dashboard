@@ -12,27 +12,6 @@ import { themeObject } from '@app/styles/themes/themeVariables';
 // import { graphic } from 'echarts';
 import dataNSNS from '../../../constants/nsns.json';
 
-const fakeData = [
-  {
-    name: 'Tuần 1',
-    type: 'bar',
-    stack: 'Ad',
-    data: [29, 27, 30, 29, 29, 28, 29, 28, 29],
-  },
-  {
-    name: 'Tuần 2',
-    type: 'bar',
-    stack: 'Ad',
-    data: [29, 28, 30, 29, 30, 29, 30, 30, 31],
-  },
-  {
-    name: 'Tuần 3',
-    type: 'bar',
-    stack: 'Ad',
-    data: [48, 35, 40, 34, 61, 43, 39, 33, 31],
-  },
-];
-
 // interface ActivityChartProps {
 //   data: ChartData;
 // }
@@ -40,7 +19,50 @@ const fakeData = [
 export const ActivityChart: React.FC = (props) => {
   const theme = useAppSelector((state) => state.theme.theme);
   // const days = Dates.getDays();
-
+  let fakeData;
+  if (props.week === '01/03/2023 - 3/03/2023') {
+    fakeData = [
+      {
+        name: 'Tuần 1',
+        type: 'bar',
+        stack: 'Ad',
+        data: [10, 10, 7, 15, 10, 10, 12, 15, 12],
+      },
+      {
+        name: 'Tuần 2',
+        type: 'bar',
+        stack: 'Ad',
+        data: [0, 0, 0, 0, 0, 0, 0, 0, 0],
+      },
+      {
+        name: 'Tuần 3',
+        type: 'bar',
+        stack: 'Ad',
+        data: [0, 0, 0, 0, 0, 0, 0, 0, 0],
+      },
+    ];
+  } else {
+    fakeData = [
+      {
+        name: 'Tuần 1',
+        type: 'bar',
+        stack: 'Ad',
+        data: [29, 27, 30, 29, 29, 28, 29, 28, 29],
+      },
+      {
+        name: 'Tuần 2',
+        type: 'bar',
+        stack: 'Ad',
+        data: [29, 28, 30, 29, 30, 29, 30, 30, 31],
+      },
+      {
+        name: 'Tuần 3',
+        type: 'bar',
+        stack: 'Ad',
+        data: [48, 35, 40, 34, 61, 43, 39, 33, 31],
+      },
+    ];
+  }
   const name = dataNSNS.name_nsns_24_02_2023;
 
   const { isTablet, isDesktop, isMobile } = useResponsive();

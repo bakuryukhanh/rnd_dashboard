@@ -34,32 +34,34 @@ const RnDDashboardPage: React.FC = () => {
   //const date= new Date('Fri Mar 03 2023 09:28:23 GMT+0700');
   const friday = date.getDay();
   let numberDay: number;
-  if ((friday + 1 !== 6)) {
-    numberDay = 6
+  if (friday + 1 !== 6) {
+    numberDay = 6;
   } else {
-    numberDay = 0
+    numberDay = 0;
   }
   const curr = subtractDays(date, numberDay);
   const nowYear = curr.getFullYear();
   const firstDay = new Date(curr.setDate(curr.getDate() - curr.getDay()));
-  const lastDay = new Date(curr.setDate(curr.getDate() - curr.getDay()+6));
+  const lastDay = new Date(curr.setDate(curr.getDate() - curr.getDay() + 6));
   const firstDayMonth = firstDay.getMonth() + 1;
   const lastDayMonth = lastDay.getMonth() + 1;
   let fistMonth, secondMonth;
   // check first month < 9 or > 9 to add '0'
   if (firstDayMonth <= 9) {
-    fistMonth = `0${firstDayMonth}`
+    fistMonth = `0${firstDayMonth}`;
   } else {
-    fistMonth = firstDayMonth
+    fistMonth = firstDayMonth;
   }
   // check second month < 9 or > 9 to add '0'
   if (lastDayMonth <= 9) {
-    secondMonth = `0${lastDayMonth}`
+    secondMonth = `0${lastDayMonth}`;
   } else {
-    secondMonth = lastDayMonth
+    secondMonth = lastDayMonth;
   }
   // show info this week
-  const calender = `${firstDay.getDate() + 1}/${fistMonth}/${nowYear} - ${lastDay.getDate() - 1}/${secondMonth}/${nowYear}`
+  const calender = `${firstDay.getDate() + 1}/${fistMonth}/${nowYear} - ${
+    lastDay.getDate() - 1
+  }/${secondMonth}/${nowYear}`;
 
   const [week, setWeek] = React.useState(calender);
 
@@ -105,44 +107,44 @@ const RnDDashboardPage: React.FC = () => {
 
   const mobileAndTabletLayout = (
     <>
-    <BaseCol id="searchDate" xs={24} md={12} order={(isTablet && 8) || 0}>
+      <BaseCol id="searchDate" xs={24} md={12} order={(isTablet && 8) || 0}>
         <SearchDate value={week} onChange={(week) => setWeek(week)} />
       </BaseCol>
       <BaseRow gutter={[20, 20]}>
-      <StatisticsCards />
+        <StatisticsCards />
 
-      <BaseCol id="activity" xs={24} md={24} order={(isTablet && 8) || 0}>
-        <ActivityCard />
-      </BaseCol>
+        <BaseCol id="activity" xs={24} md={24} order={(isTablet && 8) || 0}>
+          <ActivityCard />
+        </BaseCol>
 
-      <BaseCol id="news" xs={24} md={24} order={(isTablet && 10) || 0}>
-      <NewsCard week={week} />
-      </BaseCol>
+        <BaseCol id="news" xs={24} md={24} order={(isTablet && 10) || 0}>
+          <NewsCard week={week} />
+        </BaseCol>
 
-      <BaseCol id="work" xs={24} md={24} order={(isTablet && 9) || 0}>
-      <NewsWork week={week} />
-      </BaseCol>
+        <BaseCol id="work" xs={24} md={24} order={(isTablet && 9) || 0}>
+          <NewsWork week={week} />
+        </BaseCol>
 
-      {/* <BaseCol id="patient-timeline" xs={24} md={12} order={(isTablet && 11) || 0}>
+        {/* <BaseCol id="patient-timeline" xs={24} md={12} order={(isTablet && 11) || 0}>
         <PatientResultsCard />
       </BaseCol> */}
 
-      {/* <BaseCol id="blood-screening" xs={24} md={12} order={(isTablet && 6) || 0}>
+        {/* <BaseCol id="blood-screening" xs={24} md={12} order={(isTablet && 6) || 0}>
         <BloodScreeningCard />
       </BaseCol> */}
 
-      {/* <BaseCol id="favorite-doctors" xs={24} md={24} order={(isTablet && 13) || 0}>
+        {/* <BaseCol id="favorite-doctors" xs={24} md={24} order={(isTablet && 13) || 0}>
         <FavoritesDoctorsCard />
       </BaseCol> */}
 
-      {/* <BaseCol id="covid" xs={24} md={12} order={(isTablet && 12) || 0}>
+        {/* <BaseCol id="covid" xs={24} md={12} order={(isTablet && 12) || 0}>
         <CovidCard />
       </BaseCol> */}
 
-      {/* <BaseCol id="news" xs={24} md={24} order={(isTablet && 14) || 0}>
+        {/* <BaseCol id="news" xs={24} md={24} order={(isTablet && 14) || 0}>
         <NewsCard />
       </BaseCol> */}
-    </BaseRow>
+      </BaseRow>
     </>
   );
 

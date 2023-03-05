@@ -15,7 +15,15 @@ type Props = {
 export const SearchDate: React.FC<Props> = (props) => {
   return (
     <BaseButtonsForm.Item name="search">
-      <BaseSelect value={props.value} onChange={props.onChange} placeholder={(<><CalendarOutlined /> {props.value}</>)}>
+      <BaseSelect
+        value={props.value}
+        onChange={props.onChange}
+        placeholder={
+          <>
+            <CalendarOutlined /> {props.value}
+          </>
+        }
+      >
         <Option value="13/02/2023 - 17/02/2023">
           <BaseSpace align="center">
             <CalendarOutlined />
@@ -31,7 +39,13 @@ export const SearchDate: React.FC<Props> = (props) => {
         <Option value="27/02/2023 - 3/03/2023">
           <BaseSpace align="center">
             <CalendarOutlined />
-            27/02/2023 - 03/02/2023
+            27/02/2023 - 03/03/2023
+          </BaseSpace>
+        </Option>
+        <Option value="01/03/2023 - 3/03/2023">
+          <BaseSpace align="center">
+            <CalendarOutlined />
+            01/03/2023 - 03/03/2023
           </BaseSpace>
         </Option>
       </BaseSelect>

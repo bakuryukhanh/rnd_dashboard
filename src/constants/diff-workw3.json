@@ -18,7 +18,7 @@
         },
         {
             "title": "Vấn đề phát sinh khác",
-            "text": "1. Phong trào RnD \n - Kết thúc phong trào tham gia thử thách Health or Heo trên Foxstep. ThànhNV97 đạt giải vô địch, HuyHG3 đạt giải tăng tốc \n 2. Tiếp nhận SVTT ở HNI \n - Đã đánh giá và gửi cho HR \n 3. Autocall đội VH phát IVR bị delay \n - Đã clone source code test autocall",
+            "text": "1. Phong trào RnD \n - Kết thúc phong trào tham gia thử thách Health or Heo trên Foxstep. ThànhNV97 đạt giải vô địch, HuyHG3 đạt giải tăng tốc \n 2. Tiếp nhận SVTT ở HNI \n - Đã đánh giá và gửi cho HR. Chưa phù hợp để tiếp tục làm việc tại SCC  \n 3. Autocall đội VH phát IVR bị delay \n - Đã clone source code test autocall",
             "date": 1677820252000,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
             "avatarUrl": "avatar1",

@@ -15,6 +15,7 @@ export const getStatistics = (): Promise<Statistic[]> => {
           value: 9,
           prevValue: 9,
           unit: 'người',
+          off: 'Chính thức: 8, SVCNTS: 1'
         },
         {
           id: 2,
@@ -49,6 +50,7 @@ export const getStatisticsBefore = (): Promise<Statistic[]> => {
           value: 9,
           prevValue: 9,
           unit: 'người',
+          off: 'Chính thức: 8, SVCNTS: 1'
         },
         {
           id: 2,

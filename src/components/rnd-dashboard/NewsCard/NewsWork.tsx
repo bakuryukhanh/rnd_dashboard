@@ -36,6 +36,9 @@ export const NewsWork: React.FC = (props) => {
 
       case '6/03/2023 - 10/03/2023':
         return w1Data.diff_work_10_03_2023;
+
+      default:
+        return w1Data.diff_work_10_03_2023;
     }
   }, [props.week]);
 

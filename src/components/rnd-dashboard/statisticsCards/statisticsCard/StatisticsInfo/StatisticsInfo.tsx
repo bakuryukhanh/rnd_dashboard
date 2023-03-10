@@ -8,19 +8,24 @@ interface StatisticsInfoProps {
   name: string;
   value: number;
   prevValue: number;
+  off?: string;
 }
 // name, value, prevValue
-export const StatisticsInfo: React.FC<StatisticsInfoProps> = ({ name }) => {
+export const StatisticsInfo: React.FC<StatisticsInfoProps> = ({ name, off }) => {
+  let health = '';
+  if (off) {
+    health = off;
+  }
   return (
     <BaseSpace direction="vertical" size={6}>
       <S.Title>{name}</S.Title>
-
       {/* {prevValue && (
         <S.Text>
           <S.IconWrapper> {value > prevValue ? <CaretUpOutlined /> : <CaretDownOutlined />}</S.IconWrapper>
           {getDifference(value, prevValue)}
         </S.Text>
       )} */}
+      <S.Text>{health}</S.Text>
     </BaseSpace>
   );
 };

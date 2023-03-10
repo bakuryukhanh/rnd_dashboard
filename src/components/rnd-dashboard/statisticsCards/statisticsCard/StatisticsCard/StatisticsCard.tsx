@@ -17,14 +17,20 @@ interface StatisticsCardProps {
   color: StatisticColor;
   unit: 'người';
   Icon?: React.FC;
+  off?: string;
 }
 
-export const StatisticsCard: React.FC<StatisticsCardProps> = ({ name, value, prevValue, color, unit, Icon }) => {
+export const StatisticsCard: React.FC<StatisticsCardProps> = ({ name, value, prevValue, color, unit, Icon, off }) => {
   const theme = useAppSelector((state) => state.theme.theme);
   const { isTablet: isTabletOrHigher } = useResponsive();
 
   const { t } = useTranslation();
-
+  const employees = 9;
+  const sumEmployees = 12;
+  let rate = employees;
+  if (name === 'medical-dashboard.ns-out') {
+    rate = sumEmployees;
+  }
   return (
     <S.StatisticCard padding="0.5rem" $color={color}>
       <BaseRow wrap={false} gutter={[isTabletOrHigher ? 10 : 5, 0]}>
@@ -37,11 +43,11 @@ export const StatisticsCard: React.FC<StatisticsCardProps> = ({ name, value, pre
         <BaseCol flex={1}>
           <BaseRow justify="space-between" align="middle" wrap={false}>
             <BaseCol>
-              <StatisticsInfo name={t(name)} value={value} prevValue={prevValue} />
+              <StatisticsInfo name={t(name)} value={value} prevValue={prevValue} off={off} />
             </BaseCol>
 
             <BaseCol>
-              <StatisticsProgress color={themeObject[theme][color]} unit={unit} value={value} total={9} />
+              <StatisticsProgress color={themeObject[theme][color]} unit={unit} value={value} total={rate} />
             </BaseCol>
           </BaseRow>
         </BaseCol>

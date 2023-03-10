@@ -1,18 +1,25 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import { useResponsive } from 'hooks/useResponsive';
 import { StatisticsCard } from './statisticsCard/StatisticsCard/StatisticsCard';
-import { getStatistics, Statistic } from 'api/statistics.api';
+import { getStatistics, Statistic, getStatisticsBefore } from 'api/statistics.api';
 import { statistics as configStatistics } from 'constants/config/statistics';
 import { BaseCol } from '@app/components/common/BaseCol/BaseCol';
 
-export const StatisticsCards: React.FC = () => {
+export const StatisticsCards: React.FC = (props) => {
   const [statistics, setStatistics] = useState<Statistic[]>([]);
-
   const { isTablet } = useResponsive();
 
+  // useEffect(() => {
+  //   getStatisticsBefore().then((res) => setStatistics(res));
+  // }, []);
+  const date = props.week;
   useEffect(() => {
-    getStatistics().then((res) => setStatistics(res));
-  }, []);
+    if (date === '6/03/2023 - 10/03/2023') {
+      getStatistics().then((res) => setStatistics(res));
+    } else {
+      getStatisticsBefore().then((res) => setStatistics(res));
+    }
+  }, [date]);
 
   const statisticsCards = useMemo(
     () =>
@@ -33,6 +40,7 @@ export const StatisticsCards: React.FC = () => {
               prevValue={st.prevValue}
               color={currentStatistic.color}
               unit={st.unit}
+              off={st.off}
               // Icon={currentStatistic.Icon}
             />
           </BaseCol>

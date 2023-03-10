@@ -80,7 +80,7 @@ const RnDDashboardPage: React.FC = () => {
             </BaseCol>
             <BaseCol span={24}>
               <BaseRow gutter={[30, 30]}>
-                <StatisticsCards />
+                <StatisticsCards week={week} />
               </BaseRow>
             </BaseCol>
             <BaseCol id="activity" xl={24}>

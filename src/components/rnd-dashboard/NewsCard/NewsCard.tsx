@@ -16,7 +16,6 @@ import w1 from 'constants/project_10_03.json';
 
 export const NewsCard: React.FC = (props) => {
   const { t } = useTranslation();
-  console.log({ a: props.week });
   const data = useMemo(() => {
     switch (props.week) {
       case '06/02/2023 - 24/02/2023':

@@ -114,7 +114,7 @@ const RnDDashboardPage: React.FC = () => {
         <SearchDate value={calender} onChange={(week) => setWeek(week)} />
       </BaseCol>
       <BaseRow gutter={[20, 20]}>
-        <StatisticsCards />
+        <StatisticsCards week={week} />
 
         <BaseCol id="activity" xs={24} md={24} order={(isTablet && 8) || 0}>
           <ActivityCard week={week} />

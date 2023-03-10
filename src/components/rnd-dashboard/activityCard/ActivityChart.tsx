@@ -15,7 +15,7 @@ import dataNSNS from '../../../constants/nsns.json';
 // interface ActivityChartProps {
 //   data: ChartData;
 // }
-
+// ["Sang", "Thanh", "Phi" , "Khanh", "Tai", "HuyHG", "Loc", "Duc", "HuyHQ"]
 export const ActivityChart: React.FC = (props) => {
   const theme = useAppSelector((state) => state.theme.theme);
   // const days = Dates.getDays();
@@ -33,6 +33,27 @@ export const ActivityChart: React.FC = (props) => {
         type: 'bar',
         stack: 'Ad',
         data: [0, 0, 0, 0, 0, 0, 0, 0, 0],
+      },
+      {
+        name: 'Tuần 3',
+        type: 'bar',
+        stack: 'Ad',
+        data: [0, 0, 0, 0, 0, 0, 0, 0, 0],
+      },
+    ];
+  } else if (props.week === '6/03/2023 - 10/03/2023') {
+    fakeData = [
+      {
+        name: 'Tuần 1',
+        type: 'bar',
+        stack: 'Ad',
+        data: [10, 10, 7, 15, 10, 10, 12, 15, 12],
+      },
+      {
+        name: 'Tuần 2',
+        type: 'bar',
+        stack: 'Ad',
+        data: [25, 18, 15, 0, 19, 22, 33, 0, 26],
       },
       {
         name: 'Tuần 3',

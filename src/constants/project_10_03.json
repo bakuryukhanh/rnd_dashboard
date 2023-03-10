@@ -1,0 +1,44 @@
+{
+    "project_10_03_2023" : [
+        {
+            "title": "Sale Online Platform",
+            "text": "- Phối hợp với tester test lại các tính năng trên UAT. FE còn 8 bugs sẽ fix trong ngày 10/3",
+            "date": 1678414553023,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Dialo",
+            "text": "- Đang thực hiện sprint 22  \n - Ngày 6 họp với TLS thống nhất các issue gặp phải - FE hỗ trợ kiểm tra, không pic lỗi \n - Ngày 8 họp với ISC xác nhận lỗi không gọi được trên stg - Kết quả: Team voice nhận support",
+            "date": 1678414553023,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Happy Connect",
+            "text": "- Chờ kế hoạch pharse 2 từ PM \n - Cấu hình lại biến môi trường cho domain mới \n - Chờ kế hoạch tích hợp SSO vào dự án",
+            "date": 1678414553023,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Hệ thống giám sát mới",
+            "text": "PM đang phối hợp test luồng api. Cần join dev trong thời gian sắp tới",
+            "date": 1678414553023,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "OnCX",
+            "text": "- Nghiên cứu và viết tài liệu cho các task ở sprint 30 \n - Fix một số bug trên môi trường LongChau-UAT \n - Long Châu - FTI: issue copy paste text bị mất xuống dòng. Đã fix và deploy lên production ngày 7/3/2023 \n - Hoàn thành sprint 29",
+            "date": 1678414553023,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        }
+    ]
+}

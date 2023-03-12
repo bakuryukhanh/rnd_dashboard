@@ -19,10 +19,10 @@ export const getStatistics = (): Promise<Statistic[]> => {
         },
         {
           id: 2,
-          value: 8,
+          value: 7,
           prevValue: 9,
           unit: 'người',
-          off: 'ThanhNV97 ốm',
+          off: 'ThanhNV97(8/3), PhilK(6/3)',
         },
         {
           id: 3,

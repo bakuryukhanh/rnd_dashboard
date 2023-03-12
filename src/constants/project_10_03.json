@@ -26,7 +26,7 @@
         },
         {
             "title": "Hệ thống giám sát mới",
-            "text": "PM đang phối hợp test luồng api. Cần join dev trong thời gian sắp tới",
+            "text": "- PM đang phối hợp test luồng api dự kiến hoàn thành vào 17/03 \n - Cần join dev level junior phối hợp nghiên cứu giao thức mới telemetry, netconfig,... vào giữa tháng 4 bắt đầu nghiên cứu",
             "date": 1678414553023,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
             "avatarUrl": "avatar1",

@@ -84,7 +84,7 @@
         },
         {
             "title": "Công việc tuần tới",
-            "text": "I. Dự án \n - OnCX: Test lại sản phẩm trên UAT, fix bug phát sinh. Bắt đầu làm tính năng ở sprint 30, tính năng custom cho khách hàng Long Châu \n - SOP: Đưa các tính năng đã refactor lên UAT và thực hiện test \n - Dialo: Thực hiện các tasks sprint 22, Dự kiến start sprint ngày 01.03 \n Hệ thống giám sát mới: Phối hợp với PM và system test khi triển khai lên môi trường production \n II. Nghiên cứu xây dựng tool thống kê KPI, OKR: \n Thống nhất data cần sync, trao đổi với PM và DươngNTT63 thống nhất các trường data cần sync: status, spent time, duedate ",
+            "text": "I. Dự án \n - OnCX: Test lại sản phẩm trên UAT, fix bug phát sinh. Bắt đầu làm tính năng ở sprint 30, tính năng custom cho khách hàng Long Châu \n - SOP: Đưa các tính năng đã refactor lên UAT và thực hiện test \n - Dialo: Thực hiện các tasks sprint 22, Dự kiến start sprint ngày 01.03 \n Hệ thống giám sát mới: Test/Verify/Optimize/Fix bug hệ thống \n II. Nghiên cứu xây dựng tool thống kê KPI, OKR: \n Thống nhất data cần sync, trao đổi với PM và DươngNTT63 thống nhất các trường data cần sync: status, spent time, duedate ",
             "date": 1678414553023,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
             "avatarUrl": "avatar1",

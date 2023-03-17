@@ -80,7 +80,7 @@ export const ActivityChart: React.FC = (props) => {
         name: 'Tuần 3',
         type: 'bar',
         stack: 'Ad',
-        data: [20, 20, 30, 13, 15, 21, 12, 18, 16],
+        data: [20, 20, 30, 13, 24, 21, 12, 18, 16],
       },
     ];
   } else {

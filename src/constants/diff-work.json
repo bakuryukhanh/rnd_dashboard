@@ -126,7 +126,7 @@
         },
         {
             "title": "Công việc tuần tới",
-            "text": "I. Dự án \n - OnCX: Tiếp tục làm các tính năng custom cho 2 khách hàng: Long Châu và DKSH. Fix bug phát sinh (nếu có) \n - SOP: Fix bug trên stg nếu có, đưa code lên UAT \n - Dialo: Tiếp tục sửa lại luồng call, test luồng call mới và thực hiện sprint 23, Dự kiến start sprint ngày 01.03 \n Hệ thống giám sát mới: Test/Verify/Optimize/Fix bug hệ thống \n II. Nghiên cứu xây dựng tool thống kê KPI, OKR: \n Hoàn thành tính năng tự động tạo task từ taiga sang fproject vào 21.3 \n III. Kế hoạch CFR, Báo cáo kết quả OKR quý 1, thiết lập OKR quý 2 \n - CFR với CBQL vào ngày 21.3, thực hiện báo cáo kết quả OKR Q1.2023, thiết lập OKR Q2.2023 trong tuần sau",
+            "text": "I. Dự án \n - OnCX: Tiếp tục làm các tính năng custom cho 2 khách hàng: Long Châu và DKSH. Fix bug phát sinh (nếu có) \n - SOP: Fix bug trên stg nếu có, đưa code lên UAT \n - Dialo: Tiếp tục sửa lại luồng call, test luồng call mới và thực hiện sprint 23, Dự kiến start sprint ngày 23.03 \n Hệ thống giám sát mới: Phối hợp với team BE build api cho hệ thống \n II. Nghiên cứu xây dựng tool thống kê KPI, OKR: \n Hoàn thành tính năng tự động tạo task từ taiga sang fproject vào 21.3 \n III. Kế hoạch CFR, Báo cáo kết quả OKR quý 1, thiết lập OKR quý 2 \n - CFR với CBQL vào ngày 21.3, thực hiện báo cáo kết quả OKR Q1.2023, thiết lập OKR Q2.2023 trong tuần sau",
             "date": 1679020483539,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
             "avatarUrl": "avatar1",

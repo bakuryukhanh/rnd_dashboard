@@ -60,7 +60,7 @@
         },
         {
             "title": "Happy Connect",
-            "text": " Nội dung: \n - Dự án đang tạm dừng, chờ kế hoạch pharse 2 từ PM \n - Review, test lại STG, đóng gói code lên Prod \n Workload:  chưa có kế hoạch \n HuyHQ29:4h \n HuyHG3: thực hiện OKR ChatApp với công nghệ React Native, code xong phần giao diện chat giữa 2 user  \n ThanhNV97: thực hiện đồng bộ task từ taiga qua fproject \n Khó khăn: Đang gặp lỗi không thể kết nối localhost:8002 đến BE (Anh Nhân đang hỗ trợ) \n Đề xuất: Không ",
+            "text": " Nội dung: \n - Dự án đang tạm dừng, chờ kế hoạch pharse 2 từ PM \n - Review, test lại STG, đóng gói code lên Prod \n Workload: \n HuyHQ29:4h \n HuyHG3: thực hiện OKR ChatApp với công nghệ React Native, code xong phần giao diện chat giữa 2 user  \n ThanhNV97: thực hiện đồng bộ task từ taiga qua fproject \n Khó khăn: Đang gặp lỗi không thể kết nối localhost:8002 đến BE (Anh Nhân đang hỗ trợ) \n Đề xuất: Không ",
             "date": 1679020483539,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
             "avatarUrl": "avatar1",

@@ -90,5 +90,47 @@
             "avatarUrl": "avatar1",
             "author": "Dr. Dan Reed"
         }
+    ],
+    "diff_work_17_03_2023" : [
+        {
+            "title": "OKR",
+            "text": "I. Nghiên cứu công nghệ: \n ĐứcNC10 - Đã demo web tích hợp Voice Search Optimization vào ngày 23.3 \n LộcNTX: Tích hợp storybook vào Oncx (100%) demo vào ngày 23.3 \n HuyHQ29: Tích hợp storybook vào happy-connect (100%) demo vào ngày 23.3 \n KhánhTV21: Chrome extension (95%) demo vào ngày 23.3 \n TàiVP: Nâng performance dự án Dialo (85%) \nThànhNV97: Triển khai tool cho đội Dịch vụ (95%) \n II. Hoàn thành khó học, chứng chỉ: \n PhiLK: Khóa học mobile flutter: 85%, Demo Flutter: (75%) \n III. Hoàn thành tool: \n Nghiên cứu xây dựng tool thống kế KPI, OKR: 85%, đã xây dựng api fproject lấy được các thông tin project, task",
+            "date": 1679020483539,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "KPI",
+            "text": "I. Hoàn thành docs tính năng API (Flow, data schema, swimlane logic) trên mỗi task được nhận (trừ trường hợp được SA-BA confirm không cần làm) : Đạt. \nII. Hoàn thành update đủ thông tin task trên taiga \n 1. Mô tả task (input-output) \n 2. Bằng chứng hoàn thành khi chuyển từ inprogress sang ready to test - FE screenshot UI trên mt dev, merge request; BE screenshot Postman API trên mt dev, merge request. \n 3. Integration test/unit test \n Đạt. \n III. Có số bugs được report trong mỗi tính năng của 1 sprint dự án <= 2 (Bug tính theo miss logic, miss require, miss task, miss communication): Đạt \n IV: Đảm bảo số lần CBQL nhắc nhở, khiển trách về công việc, thái độ trách nhiệm của bản thân = 0 lần: SangTT9 bị nhắc nhở về báo cáo và đánh giá SVTT",
+            "date": 1679020483539,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Vấn đề phát sinh khác",
+            "text": "I. Phong trào RND \n - 100% thành viên trong team tham gia phong trào SCC Happy Race 2023 \n II. Trao đổi BPMN với đội VH \n - Chốt phương án xây dựng lại BPMN và quy trình khai báo action flow theo ngôn ngữ python \n Đội VH cần mô tả rõ các yêu cầu về usecase, quy trình, kết quả mong muốn \n III. SVTT \n - HuyHG3 hết hợp đồng SVCNTS vào 30.4 \n - âm SVTT đang thực hiện ôn thi, tháng sau sẽ lên cty tiếp tục thực tập 8 buổi/tuần",
+            "date": 1679020483539,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Innovation",
+            "text": "Team dự thi innovation vào ngày 17.3 (SangTT9, TaiVP, LocNTX, KhanhTV21, HuyHQ29, PhiLK)",
+            "date": 1679020483539,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Công việc tuần tới",
+            "text": "I. Dự án \n - OnCX: Tiếp tục làm các tính năng custom cho 2 khách hàng: Long Châu và DKSH. Fix bug phát sinh (nếu có) \n - SOP: Fix bug trên stg nếu có, đưa code lên UAT \n - Dialo: Tiếp tục sửa lại luồng call, test luồng call mới và thực hiện sprint 23, Dự kiến start sprint ngày 01.03 \n Hệ thống giám sát mới: Test/Verify/Optimize/Fix bug hệ thống \n II. Nghiên cứu xây dựng tool thống kê KPI, OKR: \n Hoàn thành tính năng tự động tạo task từ taiga sang fproject vào 21.3 \n III. Kế hoạch CFR, Báo cáo kết quả OKR quý 1, thiết lập OKR quý 2 \n - CFR với CBQL vào ngày 21.3, thực hiện báo cáo kết quả OKR Q1.2023, thiết lập OKR Q2.2023 trong tuần sau",
+            "date": 1679020483539,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        }
     ]
 }

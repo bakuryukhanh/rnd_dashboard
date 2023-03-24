@@ -82,6 +82,40 @@ export const ActivityChart: React.FC = (props) => {
         stack: 'Ad',
         data: [20, 20, 23, 13, 24, 21, 12, 18, 16],
       },
+      {
+        name: 'Tuần 4',
+        type: 'bar',
+        stack: 'Ad',
+        data: [0, 0, 0, 0, 0, 0, 0, 0, 0],
+      },
+    ];
+    // ["Sang", "Thanh", "Phi" , "Khanh", "Tai", "HuyHG", "Loc", "Duc", "HuyHQ"]
+  } else if (props.week === '20/03/2023 - 24/03/2023') {
+    fakeData = [
+      {
+        name: 'Tuần 1',
+        type: 'bar',
+        stack: 'Ad',
+        data: [10, 10, 7, 15, 10, 10, 12, 15, 12],
+      },
+      {
+        name: 'Tuần 2',
+        type: 'bar',
+        stack: 'Ad',
+        data: [25, 22, 22, 26, 22, 22, 33, 26, 26],
+      },
+      {
+        name: 'Tuần 3',
+        type: 'bar',
+        stack: 'Ad',
+        data: [20, 20, 23, 13, 24, 21, 12, 18, 16],
+      },
+      {
+        name: 'Tuần 4',
+        type: 'bar',
+        stack: 'Ad',
+        data: [24, 17, 21, 0, 0, 0, 22, 0, 0],
+      },
     ];
   } else {
     fakeData = [

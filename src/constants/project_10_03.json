@@ -82,5 +82,47 @@
             "avatarUrl": "avatar1",
             "author": "Dr. Dan Reed"
         }
+    ],
+    "project_24_03_2023" : [
+        {
+            "title": "Sale Online Platform",
+            "text": "- Trễ tiến độ. Đang thực hiện fix bug trên stg \n Workload: KhanhTV21: 32h, DucNC10: 40h \n Khó khăn: Không \n Đề xuất: Không ",
+            "date": 1679625024246,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Dialo",
+            "text": "-  Đã đổi lại luồng call \n - Workload: TaiVP: 38h",
+            "date": 1679625024246,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Happy Connect",
+            "text": " Nội dung: \n - Dự án đang tạm dừng, chờ kế hoạch pharse 2 từ PM, đã đóng gói code, chờ system đưa lên prod \n Workload: \n HuyHQ29:4h \n HuyHG3: Hoàn thành và demo chatapp OKR \n ThanhNV97: thực hiện đồng bộ task từ taiga qua fproject \n Khó khăn: Không \n Đề xuất: Không ",
+            "date": 1679625024246,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Hệ thống giám sát mới",
+            "text": "- Hoàn thành đúng tiến độ \n - ISC đang thực hiện đồng bộ data sang hệ thống SCC. Dự kiến hoàn thành trong tuần sau \n Workload: SangTT9: 4h \n Khó khăn: Không \n Đề xuất: Không",
+            "date": 1679625024246,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "OnCX",
+            "text": "1. Công việc: Thực hiện các task trong sprint 30 \n - Làm các tính năng custom cho khách hàng DKSH (100%)\n - Deploy CRM mới (50%). Đang đợi bên BE deploy  \n - Thư mục câu trả lời mẫu (100%)\n 2. Workload \n - PhiLK: 40h, LocNTX: 48h, SangTT: 20h \n 3. Khó khăn: Deploy CRM BE bị vướng nhiều logic liên quan tới Chat, Report \n 4. Đề xuất: Trao đổi với PM deploy phần chat từ v1.4.0 lên Long Châu",
+            "date": 1679625024246,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        }
     ]
 }

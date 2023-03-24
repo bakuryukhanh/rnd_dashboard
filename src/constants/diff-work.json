@@ -152,7 +152,15 @@
         },
         {
             "title": "Vấn đề phát sinh khác",
-            "text": "I. Phong trào RND \n - 100% thành viên trong team tham gia phong trào SCC Happy Race 2023 \n II. Trao đổi BPMN với đội VH \n - Trao đổi với a NhânDD3 review lại những phần tính năng, lộ trình triển khai cho dự án của đội VH. Gửi lại review vào ngày 27.3 và book lịch họp với đội VH trong tuần sau \n III. Kế hoạch CFR, Báo cáo kết quả OKR quý 1, thiết lập OKR quý 2 \n - Team hoàn thành CFR Q1.2023 vào 24.3. \n - Thiết lập OKR Q2.2023 trong ngày 24.3",
+            "text": "I. Phong trào RND \n - 100% thành viên trong team tham gia phong trào SCC Happy Race 2023 \n II. Trao đổi BPMN với đội VH \n - Trao đổi với a NhânDD3 review lại những phần tính năng, lộ trình triển khai cho dự án của đội VH. Gửi lại review vào ngày 27.3 và book lịch họp với đội VH trong tuần sau \n III. Kế hoạch bàn giao công việc \n Lên KH bàn giao công việc ThanhNV97. Gửi lại CBQL vào ngày 24.3 \n IV. Kế hoạch CFR, Báo cáo kết quả OKR quý 1, thiết lập OKR quý 2 \n - Team hoàn thành CFR Q1.2023 vào 24.3. \n - Thiết lập OKR Q2.2023 trong ngày 24.3",
+            "date": 1679625024246,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Năng suất nhân sự",
+            "text": "- Các nhân sự có có NSNS từ 70% trở lên. HuyHG3 fail NSNS do bị sốt chưa log task ",
             "date": 1679625024246,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
             "avatarUrl": "avatar1",
@@ -160,7 +168,7 @@
         },
         {
             "title": "Công việc tuần tới",
-            "text": "I. Dự án \n - OnCX \n + Sprint planning 31, breakdown task \n + Thực hiện các task trong sprint 31 \n + Fix bug phát sinh (nếu có)  \n - SOP: Fix bug trên stg nếu có, đưa code lên UAT \n - Dialo: Thực hiện sprint 23 \n Hệ thống giám sát mới: Phối hợp test khi ISC đồng bộ data \n II. Nghiên cứu xây dựng tool thống kê KPI, OKR: \n Đã hoàn thành đồng bộ task từ taiga sang fproject. Đang thực hiện test dự kiến hoàn thành vào đầu tuần sau. Tiếp tục thực hiện đồng bộ update task sang fproject",
+            "text": "I. Dự án \n - OnCX \n + Sprint planning 31, breakdown task \n + Thực hiện các task trong sprint 31 \n + Fix bug phát sinh (nếu có)  \n - SOP: Fix bug trên stg nếu có, tích hợp Cypress, chỉnh sửa API endpoint nếu có thay đổi. \n - Dialo: Thực hiện sprint 23 \n Hệ thống giám sát mới: Phối hợp test khi ISC đồng bộ data \n II. Nghiên cứu xây dựng tool thống kê KPI, OKR: \n Đã hoàn thành đồng bộ task từ taiga sang fproject. Đang thực hiện test dự kiến hoàn thành vào đầu tuần sau. Tiếp tục thực hiện đồng bộ update task sang fproject",
             "date": 1679625024246,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
             "avatarUrl": "avatar1",

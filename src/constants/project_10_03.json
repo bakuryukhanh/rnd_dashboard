@@ -86,7 +86,7 @@
     "project_24_03_2023" : [
         {
             "title": "Sale Online Platform",
-            "text": "- Trễ tiến độ. Đang thực hiện fix bug trên stg \n Workload: KhanhTV21: 32h, DucNC10: 40h \n Khó khăn: Không \n Đề xuất: Không ",
+            "text": "- Trễ tiến độ. Tích hợp Cypress integration test. Chỉnh sửa api cho refactor \n Workload: KhanhTV21: 40h, DucNC10: 40h \n Khó khăn: Không \n Đề xuất: Không ",
             "date": 1679625024246,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
             "avatarUrl": "avatar1",

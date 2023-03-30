@@ -10,11 +10,11 @@ import w2Data from 'constants/diff-workw2.json';
 import w3Data from 'constants/diff-workw3.json';
 import w4Data from 'constants/diff-workw4.json';
 
-// type Props = {
-//   week: string;
-// };
+type Props = {
+  week: string;
+};
 
-export const NewsWork: React.FC = (props) => {
+export const NewsWork: React.FC<Props> = (props) => {
   const { t } = useTranslation();
 
   const data = useMemo(() => {
@@ -48,20 +48,6 @@ export const NewsWork: React.FC = (props) => {
 
   return (
     <DashboardCard title={t('rnd-dashboard.diff-work')}>
-      {/* <S.Wrapper>
-        {dashboardNewsDiffWork.map((advice, index) => (
-          <BaseArticle
-            key={index}
-            // imgUrl={advice.img}
-            title={advice.title}
-            date={advice.date}
-            description={advice.text}
-            // avatar={advice.avatarUrl}
-            // author={advice.author}
-            // tags={advice.tags}
-          />
-        ))}
-      </S.Wrapper> */}
       <S.Wrapper>
         {data.map((advice, index) => (
           <BaseArticle
@@ -70,9 +56,6 @@ export const NewsWork: React.FC = (props) => {
             title={advice.title}
             date={advice.date}
             description={advice.text}
-            // avatar={advice.avatarUrl}
-            // author={advice.author}
-            // tags={advice.tags}
           />
         ))}
       </S.Wrapper>

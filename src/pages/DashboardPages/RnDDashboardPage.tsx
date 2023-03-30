@@ -1,37 +1,28 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
 import { PageTitle } from '@app/components/common/PageTitle/PageTitle';
-// import { MapCard } from '@app/components/medical-dashboard/mapCard/MapCard';
-// import { ScreeningsCard } from '@app/components/medical-dashboard/screeningsCard/ScreeningsCard/ScreeningsCard';
 import { ActivityCard } from '@app/components/rnd-dashboard/activityCard/ActivityCard';
-// import { TreatmentCard } from '@app/components/rnd-dashboard/treatmentCard/TreatmentCard';
-// import { CovidCard } from '@app/components/rnd-dashboard/covidCard/CovidCard';
-// import { HealthCard } from '@app/components/rnd-dashboard/HealthCard/HealthCard';
-// import { FavoritesDoctorsCard } from '@app/components/rnd-dashboard/favoriteDoctors/FavoriteDoctorsCard/FavoritesDoctorsCard';
-// import { PatientResultsCard } from '@app/components/rnd-dashboard/PatientResultsCard/PatientResultsCard';
 import { StatisticsCards } from '@app/components/rnd-dashboard/statisticsCards/StatisticsCards';
-// import { BloodScreeningCard } from '@app/components/rnd-dashboard/bloodScreeningCard/BloodScreeningCard/BloodScreeningCard';
 import { NewsCard } from '@app/components/rnd-dashboard/NewsCard/NewsCard';
 import { NewsWork } from '@app/components/rnd-dashboard/NewsCard/NewsWork';
-//import { References } from '@app/components/common/References/References';
 import { useResponsive } from '@app/hooks/useResponsive';
 import * as S from './DashboardPage.styles';
 import { BaseRow } from '@app/components/common/BaseRow/BaseRow';
 import { BaseCol } from '@app/components/common/BaseCol/BaseCol';
-//import { SexItem } from '@app/components/profile/profileCard/profileFormNav/nav/PersonalInfo/SexItem/SexItem';
 import { SearchDate } from './SearchDate';
 
-const RnDDashboardPage: React.FC = () => {
+type Test = {
+  week: string;
+};
+
+const RnDDashboardPage: React.FC<Test> = () => {
   const { isTablet, isDesktop } = useResponsive();
-  // const [week, setWeek] = React.useState("w1");
 
   function subtractDays(date: any, days: number) {
     date.setDate(date.getDate() - days);
     return date;
   }
   const date = new Date();
-  // console.log('>>> date', date);
-  //const date= new Date('Fri Mar 03 2023 09:28:23 GMT+0700');
   const friday = date.getDay();
   let numberDay: number;
   if (friday + 1 !== 6) {
@@ -93,17 +84,7 @@ const RnDDashboardPage: React.FC = () => {
               <NewsWork week={week} />
             </BaseCol>
           </BaseRow>
-          {/* <References /> */}
         </S.LeftSideCol>
-        {/* <S.RightSideCol xl={8} xxl={7}>
-        <div id="blood-screening">
-          <BloodScreeningCard />
-        </div>
-        <S.Space />
-        <S.ScrollWrapper id="patient-timeline">
-          <PatientResultsCard />
-        </S.ScrollWrapper>
-      </S.RightSideCol> */}
       </BaseRow>
     </>
   );

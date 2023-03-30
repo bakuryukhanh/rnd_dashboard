@@ -5,13 +5,13 @@ import { getStatistics, Statistic, getStatisticsBefore, getStatisticsWeek24 } fr
 import { statistics as configStatistics } from 'constants/config/statistics';
 import { BaseCol } from '@app/components/common/BaseCol/BaseCol';
 
-export const StatisticsCards: React.FC = (props) => {
+type Props = {
+  week : string;
+}
+export const StatisticsCards: React.FC<Props> = (props) => {
   const [statistics, setStatistics] = useState<Statistic[]>([]);
   const { isTablet } = useResponsive();
 
-  // useEffect(() => {
-  //   getStatisticsBefore().then((res) => setStatistics(res));
-  // }, []);
   const date = props.week;
   useEffect(() => {
     if (date === '6/03/2023 - 10/03/2023') {
@@ -43,7 +43,6 @@ export const StatisticsCards: React.FC = (props) => {
               color={currentStatistic.color}
               unit={st.unit}
               off={st.off}
-              // Icon={currentStatistic.Icon}
             />
           </BaseCol>
         ) : null;

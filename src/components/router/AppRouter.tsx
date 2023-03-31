@@ -140,7 +140,7 @@ export const AppRouter: React.FC = () => {
         <Route path={NFT_DASHBOARD_PATH} element={protectedLayout}>
           {/* <Route index element={<NftDashboard />} /> */}
           {/* <Route path={MEDICAL_DASHBOARD_PATH} element={<MedicalDashboard />} /> */}
-          <Route path={MEDICAL_DASHBOARD_PATH} element={<RnDDashboard />} />
+          <Route path={MEDICAL_DASHBOARD_PATH} element={<RnDDashboard week={''} />} />
         </Route>
         {/* <Route path="apps">
             <Route path="feed" element={<NewsFeed />} />

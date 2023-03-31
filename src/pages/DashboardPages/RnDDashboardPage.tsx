@@ -18,6 +18,7 @@ type Test = {
 const RnDDashboardPage: React.FC<Test> = () => {
   const { isTablet, isDesktop } = useResponsive();
 
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   function subtractDays(date: any, days: number) {
     date.setDate(date.getDate() - days);
     return date;

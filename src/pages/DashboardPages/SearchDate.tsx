@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import React from 'react';
 // import { useTranslation } from 'react-i18next';
 // import { ManOutlined, WomanOutlined, CalendarOutlined } from '@ant-design/icons';
@@ -7,13 +8,12 @@ import { BaseButtonsForm } from '@app/components/common/forms/BaseButtonsForm/Ba
 import { BaseSelect, Option } from '@app/components/common/selects/BaseSelect/BaseSelect';
 import { BaseSpace } from '@app/components/common/BaseSpace/BaseSpace';
 
-type Props = {
-  value: string;
-  onChange: (value: string) => void;
-};
+export interface Props<ValueType = any>{
+  value?: ValueType | null;
+  onChange?: (value: ValueType) => void;
+}
 
 export const SearchDate: React.FC<Props> = (props) => {
-  console.log({props})
   return (
     <BaseButtonsForm.Item name="search">
       <BaseSelect

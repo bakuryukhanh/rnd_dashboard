@@ -2,10 +2,9 @@ import { WithChildrenProps } from '@app/types/generalTypes';
 import React from 'react';
 import { Helmet } from 'react-helmet-async';
 
-export const PageTitle: React.FC<WithChildrenProps> = ({ children }) => {
+export const PageTitle: React.FC<WithChildrenProps> = () => {
   return (
     <Helmet>
-      {/* <title>{children} | RnD</title> */}
       <title>RnD Dashboard</title>
     </Helmet>
   );

@@ -1,5 +1,5 @@
 import styled, { css } from 'styled-components';
-import { dashboardPaddings } from '@app/components/medical-dashboard/DashboardCard/DashboardCard';
+// import { dashboardPaddings } from '@app/components/medical-dashboard/DashboardCard/DashboardCard';
 import { media } from '@app/styles/themes/constants';
 
 interface WrapperProps {
@@ -17,7 +17,6 @@ export const Wrapper = styled.div<WrapperProps>`
   @media only screen and ${media.md} {
     padding: 1.25rem;
 
-    margin: ${dashboardPaddings.md[0]}px ${dashboardPaddings.md[1]}px;
   }
 
   @media only screen and ${media.xl} {

@@ -14,7 +14,6 @@ type Props = {
 
 export const ActivityChart: React.FC<Props> = (props) => {
   const theme = useAppSelector((state) => state.theme.theme);
-  // const days = Dates.getDays();
   let fakeData;
   if (props.week === '01/03/2023 - 3/03/2023') {
     fakeData = [

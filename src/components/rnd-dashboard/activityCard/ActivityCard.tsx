@@ -1,10 +1,8 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { useTranslation } from 'react-i18next';
 import { BaseCard } from '../../common/BaseCard/BaseCard';
 import { ActivityChart } from './ActivityChart';
-import { ChartData } from 'interfaces/interfaces';
 import styled from 'styled-components';
-import dataNSNS from '../../../constants/nsns.json';
 
 type Props = {
   week: string;

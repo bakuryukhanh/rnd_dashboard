@@ -148,14 +148,14 @@ export const ActivityChart: React.FC = (props) => {
         name: 'Tuần 4',
         type: 'bar',
         stack: 'Ad',
-        data: [24, 22, 26, 25, 20, 0, 22, 20, 22],
+        data: [24, 22, 26, 25, 20, 27, 22, 20, 22],
       },
       ,
       {
         name: 'Tuần 5',
         type: 'bar',
         stack: 'Ad',
-        data: [23, 21, 26, 22, 25, 27, 23, 22, 24],
+        data: [23, 21, 26, 22, 25, 10, 23, 22, 24],
       },
     ]; 
   } else {

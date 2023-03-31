@@ -202,8 +202,16 @@
         },
         {
             "title": "Công việc tuần tới",
-            "text": "I. Dự án \n - OnCX \n + Sprint planning 31, breakdown task \n + Thực hiện các task trong sprint 31 \n + Deploy CRM mới \n + Fix bug phát sinh (nếu có) \n - SOP: Fix bug trên stg nếu có, tích hợp Cypress, nghiên cứu webview mobile. \n - Dialo: Thực hiện sprint 23 \n Hệ thống giám sát mới: Phát triển, test api tích hợp với ISC \n II. Nghiên cứu xây dựng tool thống kê KPI, OKR: \n Lên KH bàn giao và timeline phát triển tiếp trong Q2",
+            "text": "I. Dự án \n - OnCX \n + Sprint planning 31, breakdown task \n + Thực hiện các task trong sprint 31 \n + Deploy CRM mới \n + Fix bug phát sinh (nếu có) \n - SOP: Fix bug trên stg nếu có, tích hợp Cypress, nghiên cứu webview mobile. \n - Dialo: Thực hiện sprint 23 \n Hệ thống giám sát mới: Phát triển, test api tích hợp với ISC \n II. Nghiên cứu xây dựng tool thống kê KPI, OKR: \n Lên KH bàn giao và timeline phát triển tiếp trong Q2 \n III. Đề thi tuyển và đề ôn tập SVTT: Hoàn thành đề và tài liệu ôn tập SVTT",
             "date": 1680228506785,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Năng suất nhân sự",
+            "text": "- ThànhNV9, HuyHG3 chưa đủ năng suất ",
+            "date": 1679625024246,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
             "avatarUrl": "avatar1",
             "author": "Dr. Dan Reed"

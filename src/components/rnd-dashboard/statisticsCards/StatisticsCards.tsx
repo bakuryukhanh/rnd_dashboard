@@ -1,7 +1,7 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import { useResponsive } from 'hooks/useResponsive';
 import { StatisticsCard } from './statisticsCard/StatisticsCard/StatisticsCard';
-import { getStatistics, Statistic, getStatisticsBefore, getStatisticsWeek24 } from 'api/statistics.api';
+import { getStatistics, Statistic, getStatisticsBefore, getStatisticsWeek24, getStatisticsWeek31 } from 'api/statistics.api';
 import { statistics as configStatistics } from 'constants/config/statistics';
 import { BaseCol } from '@app/components/common/BaseCol/BaseCol';
 
@@ -18,6 +18,9 @@ export const StatisticsCards: React.FC = (props) => {
       getStatistics().then((res) => setStatistics(res));
     } else if (date === '20/03/2023 - 24/03/2023') {
       getStatisticsWeek24().then((res) => setStatistics(res));
+    } 
+    else if (date === '27/03/2023 - 31/03/2023') {
+      getStatisticsWeek31().then((res) => setStatistics(res));
     } else {
       getStatisticsBefore().then((res) => setStatistics(res));
     }
@@ -43,6 +46,7 @@ export const StatisticsCards: React.FC = (props) => {
               color={currentStatistic.color}
               unit={st.unit}
               off={st.off}
+              
               // Icon={currentStatistic.Icon}
             />
           </BaseCol>

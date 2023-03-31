@@ -4,11 +4,11 @@ import MainSider from '../sider/MainSider/MainSider';
 import MainContent from '../MainContent/MainContent';
 import { MainHeader } from '../MainHeader/MainHeader';
 import * as S from './MainLayout.styles';
-import { Outlet, useLocation } from 'react-router-dom';
+import { useLocation } from 'react-router-dom';
 import { MEDICAL_DASHBOARD_PATH, NFT_DASHBOARD_PATH } from '@app/components/router/AppRouter';
 import { useResponsive } from '@app/hooks/useResponsive';
 import { References } from '@app/components/common/References/References';
-import MedicalDashboardPage from '@app/pages/DashboardPages/RnDDashboardPage';
+import RnDDashboardPage from '@app/pages/DashboardPages/RnDDashboardPage';
 
 const MainLayout: React.FC = () => {
   const [isTwoColumnsLayout, setIsTwoColumnsLayout] = useState(true);
@@ -31,8 +31,7 @@ const MainLayout: React.FC = () => {
         </MainHeader>
         <MainContent id="main-content" $isTwoColumnsLayout={isTwoColumnsLayout}>
           <div>
-            {/* <Outlet /> */}
-            <MedicalDashboardPage/>
+            <RnDDashboardPage week={''}/>
           </div>
           {!isTwoColumnsLayout && <References />}
         </MainContent>

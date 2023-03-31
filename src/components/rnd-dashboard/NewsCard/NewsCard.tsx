@@ -10,11 +10,11 @@ import w3Data from 'constants/projectw3.json';
 import w4Data from 'constants/projectw4.json';
 import w1 from 'constants/project_10_03.json';
 
-// type Props = {
-//   week: string;
-// };
+type Props = {
+  week: string;
+};
 
-export const NewsCard: React.FC = (props) => {
+export const NewsCard: React.FC<Props> = (props) => {
   const { t } = useTranslation();
   const data = useMemo(() => {
     switch (props.week) {
@@ -57,13 +57,9 @@ export const NewsCard: React.FC = (props) => {
         {data.map((advice, index) => (
           <BaseArticle
             key={index}
-            // imgUrl={advice.img}
             title={advice.title}
             date={advice.date}
             description={advice.text}
-            // avatar={advice.avatarUrl}
-            // author={advice.author}
-            // tags={advice.tags}
           />
         ))}
       </S.Wrapper>

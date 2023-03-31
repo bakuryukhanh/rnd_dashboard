@@ -1,24 +1,19 @@
 import React from 'react';
-// import { useTranslation } from 'react-i18next';
 import { BaseChart, getDefaultTooltipStyles } from '@app/components/common/charts/BaseChart';
 import { dashboardPaddings } from '@app/components/rnd-dashboard/DashboardCard/DashboardCard';
 import { useResponsive } from '@app/hooks/useResponsive';
-// import { Dates } from '@app/constants/Dates';
-// import { ChartData, ChartSeriesData } from '@app/interfaces/interfaces';
-// comment ChartSeriesData
-import { ChartData } from '@app/interfaces/interfaces';
 import { useAppSelector } from '@app/hooks/reduxHooks';
 import { themeObject } from '@app/styles/themes/themeVariables';
-// import { graphic } from 'echarts';
 import dataNSNS from '../../../constants/nsns.json';
 
-// interface ActivityChartProps {
-//   data: ChartData;
-// }
 // ["Sang", "Thanh", "Phi" , "Khanh", "Tai", "HuyHG", "Loc", "Duc", "HuyHQ"]
-export const ActivityChart: React.FC = (props) => {
+
+type Props = {
+  week: string;
+};
+
+export const ActivityChart: React.FC<Props> = (props) => {
   const theme = useAppSelector((state) => state.theme.theme);
-  // const days = Dates.getDays();
   let fakeData;
   if (props.week === '01/03/2023 - 3/03/2023') {
     fakeData = [

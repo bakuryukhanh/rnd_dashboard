@@ -76,6 +76,40 @@ export const getStatisticsWeek24 = (): Promise<Statistic[]> => {
   });
 };
 
+export const getStatisticsWeek31 = (): Promise<Statistic[]> => {
+  return new Promise((res) => {
+    setTimeout(() => {
+      res([
+        {
+          id: 1,
+          value: 9,
+          prevValue: 9,
+          unit: 'người',
+          off: 'Chính thức: 8, SVCNTS: 1 \n Khánh off 30.3 đi học \n Đức off 27.3 chở mẹ đi khám bệnh \n Lộc off 27.3 dự đám cưới ở quê'
+        },
+        {
+          id: 2,
+          value: 9,
+          prevValue: 9,
+          unit: 'người',
+        },
+        {
+          id: 3,
+          value: 0,
+          prevValue: 9,
+          unit: 'người',
+        },
+        {
+          id: 4,
+          value: 9,
+          prevValue: 9,
+          unit: 'người',
+        },
+      ]);
+    }, 0);
+  });
+};
+
 export const getStatisticsBefore = (): Promise<Statistic[]> => {
   return new Promise((res) => {
     setTimeout(() => {

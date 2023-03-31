@@ -174,5 +174,47 @@
             "avatarUrl": "avatar1",
             "author": "Dr. Dan Reed"
         }
+    ],
+    "diff_work_31_03_2023" : [
+        {
+            "title": "OKR",
+            "text": "I. Nghiên cứu công nghệ: \n ĐứcNC10: Hoàn thành OKR và đã demo web tích hợp Voice Search Optimization vào ngày 23.3 \n LộcNTX: Hoàn thành OKR, tích hợp storybook vào Oncx (100%) demo vào ngày 23.3 \n HuyHQ29: Hoàn thành OKR, Tích hợp storybook vào happy-connect (100%) demo vào ngày 23.3 \n KhánhTV21: Chrome extension (100%) demo vào ngày 23.3\n TàiVP: Hoàn thành OKR quý 1 \nThànhNV97: Triển khai tool cho đội Dịch vụ (100%) \n II. Hoàn thành khó học, chứng chỉ: \n PhiLK: Khóa học mobile flutter: 100%, Demo Flutter: (100%) \n III. Hoàn thành tool: \n Nghiên cứu xây dựng tool thống kê KPI, OKR: 100% đã xây dựng api fproject lấy được các thông tin project, task. Đồng bộ task từ taiga sang fproject",
+            "date": 1680228506785,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "KPI",
+            "text": "I. Hoàn thành docs tính năng API (Flow, data schema, swimlane logic) trên mỗi task được nhận (trừ trường hợp được SA-BA confirm không cần làm) : Đạt. \nII. Hoàn thành update đủ thông tin task trên taiga \n 1. Mô tả task (input-output) \n 2. Bằng chứng hoàn thành khi chuyển từ inprogress sang ready to test - FE screenshot UI trên mt dev, merge request; BE screenshot Postman API trên mt dev, merge request. \n 3. Integration test/unit test \n Đạt. \n III. Có số bugs được report trong mỗi tính năng của 1 sprint dự án <= 2 (Bug tính theo miss logic, miss require, miss task, miss communication): Đạt \n IV: Đảm bảo số lần CBQL nhắc nhở, khiển trách về công việc, thái độ trách nhiệm của bản thân = 0 lần: Đạt",
+            "date": 1680228506785,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Vấn đề phát sinh khác",
+            "text": "I. Phong trào RND \n - 100% thành viên trong team tham gia phong trào SCC Happy Race 2023 \n II. Trao đổi BPMN với đội VH \n - Đã họp trao đổi với team VH đề xuất timeline thực hiện trong Q2 \n III. Kế hoạch bàn giao công việc \n Đã lên KH bàn giao công việc ThanhNV9, TaiVP, HuyHG3 \n IV. Đề thi tuyển và đề ôn tập SVTT \n - Họp trao đổi với CBQL vào 31.1 lên KH thực hiện và gửi lại trước 7.4.2023",
+            "date": 1680228506785,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Công việc tuần tới",
+            "text": "I. Dự án \n - OnCX \n + Sprint planning 31, breakdown task \n + Thực hiện các task trong sprint 31 \n + Deploy CRM mới \n + Fix bug phát sinh (nếu có) \n - SOP: Fix bug trên stg nếu có, tích hợp Cypress, nghiên cứu webview mobile. \n - Dialo: Thực hiện sprint 23 \n Hệ thống giám sát mới: Phát triển, test api tích hợp với ISC \n II. Nghiên cứu xây dựng tool thống kê KPI, OKR: \n Lên KH bàn giao và timeline phát triển tiếp trong Q2 \n III. Đề thi tuyển và đề ôn tập SVTT: Hoàn thành đề và tài liệu ôn tập SVTT",
+            "date": 1680228506785,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Năng suất nhân sự",
+            "text": "- ThànhNV9, HuyHG3 chưa đủ năng suất ",
+            "date": 1679625024246,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        }
     ]
 }

@@ -32,7 +32,7 @@ export const StatisticsCard: React.FC<StatisticsCardProps> = ({ name, value, pre
     rate = sumEmployees;
   }
   return (
-    <S.StatisticCard padding="0.5rem" $color={color}>
+    <S.StatisticCard padding="0.5rem" $color={color} style={{whiteSpace: "pre-line"}}>
       <BaseRow wrap={false} gutter={[isTabletOrHigher ? 10 : 5, 0]}>
         <BaseCol>
           <S.IconWrapper>

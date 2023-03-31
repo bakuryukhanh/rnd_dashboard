@@ -25,24 +25,6 @@ export const SearchDate: React.FC<Props> = (props) => {
           </>
         }
       >
-        <Option value="13/02/2023 - 17/02/2023">
-          <BaseSpace align="center">
-            <CalendarOutlined />
-            13/02/2023 - 17/02/2023
-          </BaseSpace>
-        </Option>
-        <Option value="20/02/2023 - 24/02/2023">
-          <BaseSpace align="center">
-            <CalendarOutlined />
-            20/02/2023 - 24/02/2023
-          </BaseSpace>
-        </Option>
-        <Option value="27/02/2023 - 28/02/2023">
-          <BaseSpace align="center">
-            <CalendarOutlined />
-            27/02/2023 - 28/02/2023
-          </BaseSpace>
-        </Option>
         <Option value="01/03/2023 - 3/03/2023">
           <BaseSpace align="center">
             <CalendarOutlined />

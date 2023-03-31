@@ -24,13 +24,13 @@ export const NewsCard: React.FC<Props> = (props) => {
         return project.project_24_02_2023;
 
       case '27/02/2023 - 3/03/2023':
-        return project.project_24_02_2023;
+        return project.project_new;
 
       case '27/02/2023 - 28/02/2023':
         return project.project_28_02_2023;
 
       case '01/03/2023 - 3/03/2023':
-        return project.project_24_02_2023;
+        return project.project_3_03_2023;
 
       case '6/03/2023 - 10/03/2023':
         return project.project_10_03_2023;

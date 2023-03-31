@@ -155,7 +155,7 @@ export const ActivityChart: React.FC = (props) => {
         name: 'Tuần 5',
         type: 'bar',
         stack: 'Ad',
-        data: [10, 12, 26, 22, 23, 27, 19, 22, 22],
+        data: [23, 21, 26, 22, 23, 27, 23, 22, 24],
       },
     ]; 
   } else {

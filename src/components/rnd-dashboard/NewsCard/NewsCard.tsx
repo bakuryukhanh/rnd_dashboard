@@ -44,6 +44,8 @@ export const NewsCard: React.FC = (props) => {
 
       case '20/03/2023 - 24/03/2023':
         return w1.project_24_03_2023;
+        case '27/03/2023 - 31/03/2023':
+          return w1.project_31_03_2023;
       default:
         return w1.project_24_03_2023;
     }

@@ -44,7 +44,7 @@ export const NewsWork: React.FC<Props> = (props) => {
         return work.diff_work_31_03_2023;
 
       default:
-        return work.diff_work_24_03_2023;
+        return work.diff_work_default;
     }
   }, [props.week]);
 

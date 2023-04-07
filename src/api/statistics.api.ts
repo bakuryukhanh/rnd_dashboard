@@ -110,6 +110,40 @@ export const getStatisticsWeek31 = (): Promise<Statistic[]> => {
   });
 };
 
+export const getStatistics_07_04_2023 = (): Promise<Statistic[]> => {
+  return new Promise((res) => {
+    setTimeout(() => {
+      res([
+        {
+          id: 1,
+          value: 9,
+          prevValue: 9,
+          unit: 'người',
+          off: 'Chính thức: 8, SVCNTS: 1 \n Khánh off 06.04 đi học (còn 8 ngày phép) \n Gia Huy off 05.04, 06.04 dọn nhà'
+        },
+        {
+          id: 2,
+          value: 9,
+          prevValue: 9,
+          unit: 'người',
+        },
+        {
+          id: 3,
+          value: 0,
+          prevValue: 9,
+          unit: 'người',
+        },
+        {
+          id: 4,
+          value: 9,
+          prevValue: 9,
+          unit: 'người',
+        },
+      ]);
+    }, 0);
+  });
+};
+
 export const getStatisticsBefore = (): Promise<Statistic[]> => {
   return new Promise((res) => {
     setTimeout(() => {

@@ -334,5 +334,47 @@
             "avatarUrl": "avatar1",
             "author": "Dr. Dan Reed"
         }
+    ],
+    "project_07_04_2023" : [
+        {
+            "title": "Sale Online Platform",
+            "text": "1. Nội dung: \n - FE tích hợp Cypress integration test. \n - FE phát triển tính năng chat trên bản mobile \n - Fix bug trên stg \n 2. Workload: \n - KhanhTV21: 40h, DucNC10: 40h \n 3. Khó khăn: Không \n 4. Đề xuất: Không ",
+            "date": 1680830082000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Dialo",
+            "text": "1. Nội dung: \n - Đang thực hiện sprint 23. \n 2. Workload: \n  - TaiVP: 36h, HuyHQ29: 20h \n 3. Khó khăn: Không \n 4. Đề xuất: không",
+            "date": 1680830082000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Happy Connect",
+            "text": " 1. Nội dung: \n - Đang thực hiện sprint 5. \n - Làm trước giao diện sprint 6. \n 2. Workload: \n - HuyHQ29:14h, HuyHG3: 16h, ThanhNV97: 0 \n 3. Khó khăn: Không \n 4. Đề xuất: Không ",
+            "date": 1680830082000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Hệ thống giám sát mới",
+            "text": "1. Nội dung: \n  - Hoàn thành đúng tiến độ \n - TrọngND và MinhNC dev xong api host, đang dev api port \n 2. Workload: \n - SangTT9: 5h \n 3. Khó khăn: Không \n 4. Đề xuất: Không",
+            "date": 1680830082000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "OnCX",
+            "text": "1. Nội dung: \n - Thực hiện các task trong sprint 31 \n - Đã deploy ver 140 cho khách hàng 2/7 KHG dự kiến hoàn thành vào 11/4 \n - Deploy tính năng focus sau khi ấn nút reply, fix bug breadcum, something went wrong khi vào màn hình omnichat (6/4)  \n - Deploy CRM mới (50%). Đang đợi bên BE deploy \n - Danh sách câu trả lời mẫu (50%). Đang đợi API từ BE \n - Fix bug phát sinh \n 2. Workload \n - PhiLK: 40h, LocNTX: 48h, SangTT: 25h \n 3. Khó khăn \n - Deploy CRM, Danh sách câu trả lời mẫu đang đợi BE \n 4. Đề xuất: Không",
+            "date": 1680830082000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        }
     ]
 }

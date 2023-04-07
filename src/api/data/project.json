@@ -1,5 +1,5 @@
 {
-    "project_new" : [
+    "project_new": [
         {
             "title": "Sale Online Platform",
             "text": "- Đang cập nhật",
@@ -41,7 +41,7 @@
             "author": "Dr. Dan Reed"
         }
     ],
-    "project_24_02_2023" : [
+    "project_24_02_2023": [
         {
             "title": "Sale Online Platform",
             "text": "Hoàn thành buổi demo cho a Hải \n Phối hợp với tester test lại các tính năng trên UAT",
@@ -83,7 +83,7 @@
             "author": "Dr. Dan Reed"
         }
     ],
-    "project_28_02_2023" : [
+    "project_28_02_2023": [
         {
             "title": "Sale Online Platform",
             "text": "- Phối hợp với tester test lại các tính năng trên UAT",
@@ -125,7 +125,7 @@
             "author": "Dr. Dan Reed"
         }
     ],
-    "project_3_03_2023" : [
+    "project_3_03_2023": [
         {
             "title": "Sale Online Platform",
             "text": "- Phối hợp với tester test lại các tính năng trên UAT",
@@ -167,7 +167,7 @@
             "author": "Dr. Dan Reed"
         }
     ],
-    "project_10_03_2023" : [
+    "project_10_03_2023": [
         {
             "title": "Sale Online Platform",
             "text": "- Phối hợp với tester test lại các tính năng trên UAT. FE còn 8 bugs sẽ fix trong ngày 10/3",
@@ -209,7 +209,7 @@
             "author": "Dr. Dan Reed"
         }
     ],
-    "project_17_03_2023" : [
+    "project_17_03_2023": [
         {
             "title": "Sale Online Platform",
             "text": "- Trễ tiến độ. Đang thực hiện fix bug trên stg \n Workload: KhanhTV21: 32h, DucNC10: 40h \n Khó khăn: Không \n Đề xuất: Không ",
@@ -244,14 +244,14 @@
         },
         {
             "title": "OnCX",
-            "text": "1. Công việc: Thực hiện các task trong sprint 30 \n - Làm các tính năng custom cho khách hàng DKSH (40%). Dự kiến hoàn thành: 22/3 \n - Append message chat chủ động (100%). Hoàn thành: 14/3 \n - Deploy CRM mới (20%). Dự kiến hành thành: 23/3 \n - Hiển thị thông tin đăng kí (100%). Hoàn thành: 15/3 \n - Thư mục câu trả lời mẫu (40%). Dự kiến hoàn thành: 17/3 \n 2. Workload \n - PhiLK: 40h, LocNTX: 48h, SangTT: 20h \n 3. Khó khăn: Không \n 4. Đề xuất: Không",
+            "text": "1. Công việc: Thực hiện các task trong sprint 30 \n - Làm các tính năng custom cho khách hàng DKSH (40%). Dự kiến hoàn thành: 22/3 \n - Append message chat chủ động (100%). Hoàn thành: 14/3 \n - Deploy CRM mới (20%). Dự kiến hành thành: 23/3 \n - Hiển thị thông tin đăng kí (100%). Hoàn thành: 15/3 \n - Thư mục câu trả lời mẫu (40%). Dự kiến hoàn thành: 17/3 \n 2. Workload \n - PhiLK: 40h, LocNTX: 48h, SangTT: 20h \n 3. Số lượng task Sprint: 0 \n 4. Số lượng task hoàn thành: 0 (0%) \n 5. Số lượng issue: 0 \n 6. Root cause: 0 \n 7. Số lượng issue fix: 0 (0%) \n 8. Khó khăn: Không \n 9. Đề xuất: Không ",
             "date": 1679020483539,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
             "avatarUrl": "avatar1",
             "author": "Dr. Dan Reed"
         }
     ],
-    "project_24_03_2023" : [
+    "project_24_03_2023": [
         {
             "title": "Sale Online Platform",
             "text": "- Trễ tiến độ. Tích hợp Cypress integration test. Chỉnh sửa api cho refactor \n Workload: KhanhTV21: 40h, DucNC10: 40h \n Khó khăn: Không \n Đề xuất: Không ",
@@ -293,7 +293,7 @@
             "author": "Dr. Dan Reed"
         }
     ],
-    "project_31_03_2023" : [
+    "project_31_03_2023": [
         {
             "title": "Sale Online Platform",
             "text": "- Trễ tiến độ. Tích hợp Cypress integration test. Nghiên cứu webview trên mobile \n Workload: KhanhTV21: 40h, DucNC10: 40h \n Khó khăn: Không \n Đề xuất: Không ",
@@ -335,10 +335,10 @@
             "author": "Dr. Dan Reed"
         }
     ],
-    "project_07_04_2023" : [
+    "project_07_04_2023": [
         {
             "title": "Sale Online Platform",
-            "text": "1. Nội dung: \n - FE tích hợp Cypress integration test. \n - FE phát triển tính năng chat trên bản mobile \n - Fix bug trên stg \n 2. Workload: \n - KhanhTV21: 40h, DucNC10: 40h \n 3. Khó khăn: Không \n 4. Đề xuất: Không ",
+            "text": "1. Nội dung: \n - FE tích hợp Cypress integration test. \n - FE phát triển tính năng chat trên bản mobile \n - Fix bug trên stg \n 2. Workload: \n - KhanhTV21: 40h, DucNC10: 40h \n 3. Số lượng task Sprint: 0 \n 4. Số lượng task hoàn thành: 0 (0%) \n 5. Số lượng issue: \n - Enhancement: 2, Bug: 7 (KhanhTV21: 5, DucNC10: 2) \n 6. Root cause: \n - Chủ quan(2), code quality (3), miss communication (2) \n 7. Tiến độ fix bug: \n - 7/7 (ready at dev) - tester đang test chưa merge lên stg \n 8. Khó khăn: Không \n 9. Đề xuất: Không ",
             "date": 1680830082000,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
             "avatarUrl": "avatar1",
@@ -346,7 +346,7 @@
         },
         {
             "title": "Dialo",
-            "text": "1. Nội dung: \n - Đang thực hiện sprint 23. \n 2. Workload: \n  - TaiVP: 36h, HuyHQ29: 20h \n 3. Khó khăn: Không \n 4. Đề xuất: không",
+            "text": "1. Nội dung: \n - Đang thực hiện sprint 23. \n 2. Workload: \n  - TaiVP: 36h, HuyHQ29: 20h \n 3. Số lượng task Sprint: 4 \n 4. Số lượng task hoàn thành: 4 (ready test for stg) \n 5. Số lượng issue: 0 \n 6. Root cause: 0 \n 7. Số lượng issue fix: 0 (0%) \n 8. Khó khăn: Không \n 9. Đề xuất: Không ",
             "date": 1680830082000,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
             "avatarUrl": "avatar1",
@@ -354,7 +354,7 @@
         },
         {
             "title": "Happy Connect",
-            "text": " 1. Nội dung: \n - Đang thực hiện sprint 5. \n - Làm trước giao diện sprint 6. \n 2. Workload: \n - HuyHQ29:14h, HuyHG3: 16h, ThanhNV97: 0 \n 3. Khó khăn: Không \n 4. Đề xuất: Không ",
+            "text": " 1. Nội dung: \n - Đang thực hiện sprint 5. \n - Làm trước giao diện sprint 6. \n 2. Workload: \n - HuyHQ29:14h, HuyHG3: 16h, ThanhNV97: 0 \n 3. Số lượng task Sprint: 3 \n 4. Số lượng task hoàn thành: 3 (ready at dev) \n 5. Số lượng issue: 0 \n 6. Root cause: 0 \n 7. Số lượng issue fix: 0 (0%) \n 8. Khó khăn: Không \n 9. Đề xuất: Không  ",
             "date": 1680830082000,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
             "avatarUrl": "avatar1",
@@ -362,7 +362,7 @@
         },
         {
             "title": "Hệ thống giám sát mới",
-            "text": "1. Nội dung: \n  - Hoàn thành đúng tiến độ \n - TrọngND và MinhNC dev xong api host, đang dev api port \n 2. Workload: \n - SangTT9: 5h \n 3. Khó khăn: Không \n 4. Đề xuất: Không",
+            "text": "1. Nội dung: \n  - Hoàn thành đúng tiến độ \n - TrọngND và MinhNC dev xong api host, đang dev api port \n 2. Workload: \n - SangTT9: 5h \n 3. Số lượng task Sprint: 0 \n 4. Số lượng task hoàn thành: 0 (0%) \n 5. Số lượng issue: 0 \n 6. Root cause: 0 \n 7. Số lượng issue fix: 0 (0%) \n 8. Khó khăn: Không \n 9. Đề xuất: Không ",
             "date": 1680830082000,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
             "avatarUrl": "avatar1",
@@ -370,7 +370,7 @@
         },
         {
             "title": "OnCX",
-            "text": "1. Nội dung: \n - Thực hiện các task trong sprint 31 \n - Đã deploy ver 140 cho khách hàng 2/7 KHG dự kiến hoàn thành vào 11/4 \n - Deploy tính năng focus sau khi ấn nút reply, fix bug breadcum, something went wrong khi vào màn hình omnichat (6/4)  \n - Deploy CRM mới (50%). Đang đợi bên BE deploy \n - Danh sách câu trả lời mẫu (50%). Đang đợi API từ BE \n - Fix bug phát sinh \n 2. Workload \n - PhiLK: 40h, LocNTX: 48h, SangTT: 25h \n 3. Khó khăn \n - Deploy CRM, Danh sách câu trả lời mẫu đang đợi BE \n 4. Đề xuất: Không",
+            "text": "1. Nội dung: \n - Thực hiện các task trong sprint 31 \n - Đã deploy ver 140 cho khách hàng 2/7 KHG dự kiến hoàn thành vào 11/4 \n - Deploy tính năng focus sau khi ấn nút reply, fix bug breadcum, something went wrong khi vào màn hình omnichat (6/4) \n - Fix bug phát sinh \n 2. Workload \n - PhiLK: 40h, LocNTX: 48h, SangTT: 25h \n 3. Số lượng task Sprint: 0 \n 4. Số lượng task hoàn thành: 0 (0%) \n 5. Số lượng issue: 0 \n 6. Root cause: 0 \n 7. Số lượng issue fix: 0 (0%) \n 8. Khó khăn: Không \n 9. Đề xuất: Không ",
             "date": 1680830082000,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
             "avatarUrl": "avatar1",

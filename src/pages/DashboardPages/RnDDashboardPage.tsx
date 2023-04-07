@@ -32,7 +32,7 @@ const RnDDashboardPage: React.FC<Test> = () => {
     numberDay = 0;
   }
   const curr = subtractDays(date, numberDay);
-  const nowYear = curr.getFullYear();
+  // const nowYear = curr.getFullYear();
   const firstDay = new Date(curr.setDate(curr.getDate() - curr.getDay()));
   const lastDay = new Date(curr.setDate(curr.getDate() - curr.getDay() + 6));
   const firstDayMonth = firstDay.getMonth() + 1;
@@ -58,7 +58,8 @@ const RnDDashboardPage: React.FC<Test> = () => {
   } else {
     newLastDay = a.getDate()
   }
-  const calender = `${newFistDay}/${fistMonth}/${nowYear} - ${newLastDay}/${fistMonth}/${nowYear}`;
+  //const calender = `${newFistDay}/${fistMonth}/${nowYear} - ${newLastDay}/${fistMonth}/${nowYear}`;
+  const calender = "03/04/2023 - 07/04/2023"
   console.log({calender})
   const [week, setWeek] = React.useState(calender);
 

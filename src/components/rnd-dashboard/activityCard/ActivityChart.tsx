@@ -15,25 +15,28 @@ type Props = {
 export const ActivityChart: React.FC<Props> = (props) => {
   const theme = useAppSelector((state) => state.theme.theme);
   let fakeData;
-
   switch (props.week) {
     case '01/03/2023 - 3/03/2023':
-      fakeData = data['week_01.03.2023-3.03.2023']
+      fakeData = data['week_01.03.2023-3.03.2023'];
       break;
     case '6/03/2023 - 10/03/2023':
-      fakeData = data['week_6.03.2023-13.03.2023']
+      fakeData = data['week_6.03.2023-13.03.2023'];
       break;
     case '13/03/2023 - 17/03/2023':
-      fakeData = data['week_13.03.2023-17.03.2023']
+      fakeData = data['week_13.03.2023-17.03.2023'];
       break;
     case '20/03/2023 - 24/03/2023':
-      fakeData = data['week_20.03.2023-24.03.2023']
+      fakeData = data['week_20.03.2023-24.03.2023'];
       break;
     case '27/03/2023 - 31/03/2023':
-      fakeData = data['week_27.03.2023-31.03.2023']
+      fakeData = data['week_27.03.2023-31.03.2023'];
+      break;
+    case '03/04/2023 - 07/04/2023':
+      fakeData = data['week_03.04.2023-07.04.2023'];
       break;
     default:
-      fakeData = data.week_default
+      fakeData = data.week_default;
+      // fakeData = data['week_03.04.2023-07.04.2023'];
       break;
   }
   const name = dataNSNS.name_nsns_24_02_2023;

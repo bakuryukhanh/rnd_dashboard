@@ -42,6 +42,8 @@ export const NewsCard: React.FC<Props> = (props) => {
         return project.project_24_03_2023;
       case '27/03/2023 - 31/03/2023':
         return project.project_31_03_2023;
+      case '03/04/2023 - 07/04/2023':
+        return project.project_07_04_2023;
 
       default:
         return project.project_new;
@@ -52,12 +54,7 @@ export const NewsCard: React.FC<Props> = (props) => {
     <DashboardCard title={t('rnd-dashboard.project')}>
       <S.Wrapper>
         {data.map((advice, index) => (
-          <BaseArticle
-            key={index}
-            title={advice.title}
-            date={advice.date}
-            description={advice.text}
-          />
+          <BaseArticle key={index} title={advice.title} date={advice.date} description={advice.text} />
         ))}
       </S.Wrapper>
     </DashboardCard>

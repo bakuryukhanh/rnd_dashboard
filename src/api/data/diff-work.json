@@ -379,7 +379,7 @@
         
         {
             "title": "Hoàn thành khoá học, chứng chỉ",
-            "text": "- LocNTX, HuyHQ29, PhiLK hoàn thành MOOC \n - SangTT9: 1% \n - KhanhTV21: 75%  \n - DucNC10: 63% ",
+            "text": "- LocNTX, HuyHQ29, PhiLK hoàn thành MOOC \n - SangTT9: 10% \n - KhanhTV21: 75%  \n - DucNC10: 63% ",
             "date": 1680830082000,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
             "avatarUrl": "avatar1",

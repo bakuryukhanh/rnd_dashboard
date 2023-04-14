@@ -8,7 +8,7 @@ import { BaseButtonsForm } from '@app/components/common/forms/BaseButtonsForm/Ba
 import { BaseSelect, Option } from '@app/components/common/selects/BaseSelect/BaseSelect';
 import { BaseSpace } from '@app/components/common/BaseSpace/BaseSpace';
 
-export interface Props<ValueType = any>{
+export interface Props<ValueType = any> {
   value?: ValueType | null;
   onChange?: (value: ValueType) => void;
 }
@@ -59,6 +59,12 @@ export const SearchDate: React.FC<Props> = (props) => {
           <BaseSpace align="center">
             <CalendarOutlined />
             03/04/2023 - 07/04/2023
+          </BaseSpace>
+        </Option>
+        <Option value="10/04/2023 - 14/04/2023">
+          <BaseSpace align="center">
+            <CalendarOutlined />
+            10/04/2023 - 14/04/2023
           </BaseSpace>
         </Option>
       </BaseSelect>

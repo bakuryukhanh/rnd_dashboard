@@ -15,7 +15,7 @@ export const getStatistics = (): Promise<Statistic[]> => {
           value: 9,
           prevValue: 9,
           unit: 'người',
-          off: 'Chính thức: 8, SVCNTS: 1'
+          off: 'Chính thức: 8, SVCNTS: 1',
         },
         {
           id: 2,
@@ -50,7 +50,7 @@ export const getStatisticsWeek24 = (): Promise<Statistic[]> => {
           value: 9,
           prevValue: 9,
           unit: 'người',
-          off: 'Chính thức: 8, SVCNTS: 1'
+          off: 'Chính thức: 8, SVCNTS: 1',
         },
         {
           id: 2,
@@ -85,7 +85,7 @@ export const getStatisticsWeek31 = (): Promise<Statistic[]> => {
           value: 9,
           prevValue: 9,
           unit: 'người',
-          off: 'Chính thức: 8, SVCNTS: 1 \n Khánh off 30.3 đi học \n Đức off 27.3 chở mẹ đi khám bệnh \n Lộc off 27.3 dự đám cưới ở quê'
+          off: 'Chính thức: 8, SVCNTS: 1 \n Khánh off 30.3 đi học \n Đức off 27.3 chở mẹ đi khám bệnh \n Lộc off 27.3 dự đám cưới ở quê',
         },
         {
           id: 2,
@@ -119,7 +119,41 @@ export const getStatistics_07_04_2023 = (): Promise<Statistic[]> => {
           value: 9,
           prevValue: 9,
           unit: 'người',
-          off: 'Chính thức: 8, SVCNTS: 1 \n Khánh off 06.04 đi học (còn 8 ngày phép) \n Gia Huy off 05.04, 06.04 dọn nhà'
+          off: 'Chính thức: 8, SVCNTS: 1 \n Khánh off 06.04 đi học (còn 8 ngày phép) \n Gia Huy off 05.04, 06.04 dọn nhà',
+        },
+        {
+          id: 2,
+          value: 9,
+          prevValue: 9,
+          unit: 'người',
+        },
+        {
+          id: 3,
+          value: 0,
+          prevValue: 9,
+          unit: 'người',
+        },
+        {
+          id: 4,
+          value: 9,
+          prevValue: 9,
+          unit: 'người',
+        },
+      ]);
+    }, 0);
+  });
+};
+
+export const getStatistics_14_04_2023 = (): Promise<Statistic[]> => {
+  return new Promise((res) => {
+    setTimeout(() => {
+      res([
+        {
+          id: 1,
+          value: 9,
+          prevValue: 9,
+          unit: 'người',
+          off: 'Chính thức: 8, SVCNTS: 1 \n Khánh off nữa buổi 13.04 đi học (còn 7.5 ngày phép) \n Đức off 14.04 bận việc gia đình (còn 11 ngày phép)',
         },
         {
           id: 2,
@@ -153,7 +187,7 @@ export const getStatisticsBefore = (): Promise<Statistic[]> => {
           value: 9,
           prevValue: 9,
           unit: 'người',
-          off: 'Chính thức: 8, SVCNTS: 1'
+          off: 'Chính thức: 8, SVCNTS: 1',
         },
         {
           id: 2,

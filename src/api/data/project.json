@@ -412,7 +412,7 @@
         },
         {
             "title": "OnCX",
-            "text": "1. Nội dung: \n - Hoàn thành deploy ver 140 cho khách hàng 7/7 KHG \n - Danh sách câu trả lời mẫu (65%) \n - Ảnh hưởng của câu trả lời mẫu (30%) \n - Cập nhật câu trả lời mẫu (100%) \n - Cải tiến luồng tạo Wallboard (100%) \n - Fix bug phát sinh \n 2. Workload \n - PhiLK: 40h, LocNTX: 48h, SangTT: 20h \n 3. Số lượng task Sprint: 6 \n 4.Số lượng task hoàn thành: 2 (33,33%) \n 5. Số lượng issue: Enhancement: 8 (LocNTX: 6, PhiLK: 2), Bug: 1 (PhiLK: 1) \n 6. Root cause: Miss task khi enhance module Omni chat nhưng không gắn tag cho module chat chủ động \n 7. Số lượng issue fix: 1 (100%) \n 8. Khó khăn: Cần API từ BE \n 9. Đề xuất: Không ",
+            "text": "1. Nội dung: \n - Hoàn thành deploy ver 140 cho khách hàng 7/7 KHG \n - Danh sách câu trả lời mẫu (65%) \n - Ảnh hưởng của câu trả lời mẫu (30%) \n - Cập nhật câu trả lời mẫu (100%) \n - Cải tiến luồng tạo Wallboard (100%) \n - Fix bug phát sinh \n 2. Workload \n - PhiLK: 40h, LocNTX: 40h, SangTT: 20h \n 3. Số lượng task Sprint: 6 \n 4.Số lượng task hoàn thành: 2 (33,33%) \n 5. Số lượng issue: Enhancement: 8 (LocNTX: 6, PhiLK: 2), Bug: 1 (PhiLK: 1) \n 6. Root cause: Miss task khi enhance module Omni chat nhưng không gắn tag cho module chat chủ động \n 7. Số lượng issue fix: 1 (100%) \n 8. Khó khăn: Cần API từ BE \n 9. Đề xuất: Không ",
             "date": 1681437363000,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
             "avatarUrl": "avatar1",

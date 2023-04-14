@@ -262,7 +262,7 @@
   "diff_work_24_03_2023": [
     {
       "title": "OKR",
-      "text": "I. Nghiên cứu công nghệ: \n Hoàn thành OKR và đã demo web tích hợp Voice Search Optimization vào ngày 23.3 \n LộcNTX: Hoàn thành OKR, tích hợp storybook vào Oncx (100%) demo vào ngày 23.3 \n HuyHQ29: Hoàn thành OKR, Tích hợp storybook vào happy-connect (100%) demo vào ngày 23.3 \n KhánhTV21: Chrome extension (100%) demo vào ngày 23.3\n TàiVP: Nâng performance dự án Dialo - Tiến độ 100%. Đã gửi bản báo cáo \nThànhNV97: Triển khai tool cho đội Dịch vụ (100%) \n II. Hoàn thành khó học, chứng chỉ: \n PhiLK: Khóa học mobile flutter: 100%, Demo Flutter: (100%) \n III. Hoàn thành tool: \n Nghiên cứu xây dựng tool thống kê KPI, OKR: 100% đã xây dựng api fproject lấy được các thông tin project, task. Đồng bộ task từ taiga sang fproject",
+      "text": "I. Nghiên cứu công nghệ: \n Hoàn thành OKR và đã demo web tích hợp Voice Search Optimization vào ngày 23.3 \n LộcNTX: Hoàn thành OKR, tích hợp storybook vào Oncx (100%) demo vào ngày 23.3 \n HuyHQ29: Hoàn thành OKR, Tích hợp storybook vào happy-connect (100%) demo vào ngày 23.3 \n KhánhTV21: Chrome extension (100%) demo vào ngày 23.3\n TàiVP: Nâng performance dự án Dialo - Tiến độ 100%. Đã gửi bản báo cáo \nThànhNV97: Triển khai tool cho đội Dịch vụ (100%)  \n PhiLK: Khóa học mobile flutter: 100%, Demo Flutter: (100%) \n III. Hoàn thành tool: \n Nghiên cứu xây dựng tool thống kê KPI, OKR: 100% đã xây dựng api fproject lấy được các thông tin project, task. Đồng bộ task từ taiga sang fproject",
       "date": 1679625024246,
       "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
       "avatarUrl": "avatar1",
@@ -294,7 +294,7 @@
     },
     {
       "title": "Công việc tuần tới",
-      "text": "I. Dự án \n - OnCX \n + Sprint planning 31, breakdown task \n + Thực hiện các task trong sprint 31 \n + Fix bug phát sinh (nếu có)  \n - SOP: Fix bug trên stg nếu có, tích hợp Cypress, chỉnh sửa API endpoint nếu có thay đổi. \n - Dialo: Thực hiện sprint 23 \n Hệ thống giám sát mới: Phối hợp test khi ISC đồng bộ data \n II. Nghiên cứu xây dựng tool thống kê KPI, OKR: \n Đã hoàn thành đồng bộ task từ taiga sang fproject. Đang thực hiện test dự kiến hoàn thành vào đầu tuần sau. Tiếp tục thực hiện đồng bộ update task sang fproject",
+      "text": "I. Dự án \n - OnCX \n + Sprint planning 31, breakdown task \n + Thực hiện các task trong sprint 31 \n + Fix bug phát sinh (nếu có)  \n - SOP: Fix bug trên stg nếu có, tích hợp Cypress, chỉnh sửa API endpoint nếu có thay đổi. \n - Dialo: Thực hiện sprint 24 \n Hệ thống giám sát mới: Phối hợp test khi ISC đồng bộ data \n II. Nghiên cứu xây dựng tool thống kê KPI, OKR: \n Đã hoàn thành đồng bộ task từ taiga sang fproject. Đang thực hiện test dự kiến hoàn thành vào đầu tuần sau. Tiếp tục thực hiện đồng bộ update task sang fproject",
       "date": 1679625024246,
       "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
       "avatarUrl": "avatar1",
@@ -404,7 +404,7 @@
     },
     {
       "title": "Vấn đề phát sinh khác",
-      "text": "I. Phong trào RND \n - 100% thành viên trong team tham gia phong trào SCC Happy Race 2023 \n II. Kế hoạch bàn giao công việc \n -ThanhNV9: đã hoàn thành docs đang bàn giao tool KHĐ cho HuyHQ29 \n - TaiVP, HuyHG3: đang thực hiện viết docs bàn giao \n III. Update luồng verify ticket \n - Họp với CADS và ISC vào 7/4 clear nội trao đổi. a DươngLQ đang viết mô tả \n IV. Đề thi tuyển và đề ôn tập SVTT \n - Đã hoàn thành đề ôn và thi cho SVCNTS",
+      "text": "I. Phong trào RND \n - 100% thành viên trong team tham gia phong trào SCC Happy Race 2023 \n II. Kế hoạch bàn giao công việc \n - Đã lên KH bàn giao công việc  \n - ThanhNV9: đã hoàn thành docs đang bàn giao tool KHĐ cho HuyHQ29. Training bàn giao vào tuần sau \n - TaiVP, HuyHG3: đã hoàn thành viết docs bàn giao. Training bàn giao vào tuần sau \n III. Update luồng verify ticket \n - a DươngLQ tuần sau gửi lại tài liệu mô tả. Dự kiến start vào 18.4",
       "date": 1681437363000,
       "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
       "avatarUrl": "avatar1",
@@ -420,7 +420,7 @@
     },
     {
       "title": "Hoàn thành khoá học, chứng chỉ",
-      "text": "- LocNTX, HuyHQ29, PhiLK hoàn thành MOOC \n - SangTT9: 40% \n - KhanhTV21: 90%  \n - DucNC10: 80% ",
+      "text": "- LocNTX, HuyHQ29, PhiLK, KhanhTV21 hoàn thành MOOC \n - SangTT9: 20%  \n - DucNC10: 90% ",
       "date": 1681437363000,
       "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
       "avatarUrl": "avatar1",

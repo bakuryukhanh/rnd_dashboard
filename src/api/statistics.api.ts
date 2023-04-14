@@ -153,7 +153,7 @@ export const getStatistics_14_04_2023 = (): Promise<Statistic[]> => {
           value: 9,
           prevValue: 9,
           unit: 'người',
-          off: 'Chính thức: 8, SVCNTS: 1 \n Khánh off nữa buổi 13.04 đi học (còn 7.5 ngày phép) \n Đức off 14.04 (còn 11 ngày phép)',
+          off: 'Chính thức: 8, SVCNTS: 1 \n Khánh off nữa buổi 13.04 đi học (còn 7.5 ngày phép) \n Đức off 14.04 bận việc gia đình (còn 11 ngày phép)',
         },
         {
           id: 2,

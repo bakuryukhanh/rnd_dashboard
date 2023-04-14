@@ -26,17 +26,17 @@ const RnDDashboardPage: React.FC<Test> = () => {
   const date = new Date();
   const friday = date.getDay();
   let numberDay: number;
-  if ((friday + 1) !== 6) {
+  if (friday + 1 !== 6) {
     numberDay = 6;
   } else {
     numberDay = 0;
   }
   const curr = subtractDays(date, numberDay);
-  // const nowYear = curr.getFullYear();
+  const nowYear = curr.getFullYear();
   const firstDay = new Date(curr.setDate(curr.getDate() - curr.getDay()));
   const lastDay = new Date(curr.setDate(curr.getDate() - curr.getDay() + 6));
   const firstDayMonth = firstDay.getMonth() + 1;
-  //const lastDayMonth = lastDay.getMonth() + 1;
+  const lastDayMonth = lastDay.getMonth() + 1;
   let fistMonth;
   // check first month < 9 or > 9 to add '0'
   if (firstDayMonth <= 9) {
@@ -47,20 +47,20 @@ const RnDDashboardPage: React.FC<Test> = () => {
   // show info this week
   let newFistDay;
   if (firstDay.getDate() + 1 < 9) {
-    newFistDay = `0${firstDay.getDate() + 1}`
+    newFistDay = `0${firstDay.getDate() + 1}`;
   } else {
-    newFistDay = firstDay.getDate() + 1
+    newFistDay = firstDay.getDate() + 1;
   }
   const a = subtractDays(lastDay, 1);
   let newLastDay;
-  if (a.getDate()< 9) {
-    newLastDay = `0${a.getDate()}`
+  if (a.getDate() < 9) {
+    newLastDay = `0${a.getDate()}`;
   } else {
-    newLastDay = a.getDate()
+    newLastDay = a.getDate();
   }
-  //const calender = `${newFistDay}/${fistMonth}/${nowYear} - ${newLastDay}/${fistMonth}/${nowYear}`;
-  const calender = "03/04/2023 - 07/04/2023"
-  console.log({calender})
+  const calender = `${newFistDay}/${fistMonth}/${nowYear} - ${newLastDay}/${fistMonth}/${nowYear}`;
+  // const calender = "03/04/2023 - 07/04/2023"
+  console.log({ calender });
   const [week, setWeek] = React.useState(calender);
 
   const { t } = useTranslation();

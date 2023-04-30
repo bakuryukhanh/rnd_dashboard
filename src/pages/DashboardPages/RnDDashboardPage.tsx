@@ -36,7 +36,7 @@ const RnDDashboardPage: React.FC<Test> = () => {
   const firstDay = new Date(curr.setDate(curr.getDate() - curr.getDay()));
   const lastDay = new Date(curr.setDate(curr.getDate() - curr.getDay() + 6));
   const firstDayMonth = firstDay.getMonth() + 1;
-  const lastDayMonth = lastDay.getMonth() + 1;
+  // const lastDayMonth = lastDay.getMonth() + 1;
   let fistMonth;
   // check first month < 9 or > 9 to add '0'
   if (firstDayMonth <= 9) {

@@ -25,14 +25,14 @@ export const StatisticsCard: React.FC<StatisticsCardProps> = ({ name, value, pre
   const { isTablet: isTabletOrHigher } = useResponsive();
 
   const { t } = useTranslation();
-  const employees = 9;
-  const sumEmployees = 12;
+  const employees = 6;
+  const sumEmployees = 9;
   let rate = employees;
   if (name === 'medical-dashboard.ns-out') {
     rate = sumEmployees;
   }
   return (
-    <S.StatisticCard padding="0.5rem" $color={color} style={{whiteSpace: "pre-line"}}>
+    <S.StatisticCard padding="0.5rem" $color={color} style={{ whiteSpace: 'pre-line' }}>
       <BaseRow wrap={false} gutter={[isTabletOrHigher ? 10 : 5, 0]}>
         <BaseCol>
           <S.IconWrapper>
@@ -45,7 +45,6 @@ export const StatisticsCard: React.FC<StatisticsCardProps> = ({ name, value, pre
             <BaseCol>
               <StatisticsInfo name={t(name)} value={value} prevValue={prevValue} off={off} />
             </BaseCol>
-
             <BaseCol>
               <StatisticsProgress color={themeObject[theme][color]} unit={unit} value={value} total={rate} />
             </BaseCol>

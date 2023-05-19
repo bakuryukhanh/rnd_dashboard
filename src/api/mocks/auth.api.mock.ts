@@ -42,8 +42,8 @@ httpApiMock.onPost('login').reply((config) => {
         // },
         user: {
           id: 1,
-          firstName: 'Thanh',
-          lastName: 'NV',
+          firstName: '',
+          lastName: '',
           imgUrl: avatarImg,
           userName: 'thanhnv97',
           email: {

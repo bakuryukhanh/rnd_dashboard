@@ -502,5 +502,89 @@
             "avatarUrl": "avatar1",
             "author": "Dr. Dan Reed"
         }
+    ],
+    "project_05_05_2023": [
+        {
+            "title": "Sale Online Platform",
+            "text": "Đúng tiến độ \n1. Nội dung:\n- Thực hiện task sprint 15\n- Đúng tiến độ\n2. Tiến độ task\n    - US (#1977) Đã xử lý luồng authen cho mobile app dự vào token params\n    - US (#1728) đã xong tính năng nhưng còn phần loading cần BE support thêm fied trong response\n3. Workload:\n     - SangTT9 (12h)\n     - KhanhTV21 (0h)\n     - DucNC10 (16h)\n4. Khó khăn: Không\n5. Đề xuất: Không",
+            "date": 1683259144000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Dialo",
+            "text": "Đúng tiến độ.\n1. Nội dung\n- Đúng tiến độ.\n- Đang thực hiện: Hoàn thành sprint 24\n2. Workload: HuyHQ29: 6h\n3. Số lượng task Sprint 24: 7 \n4. Số lượng task hoàn thành: 1 (stg ok), 5 (ready for stg), 1 (ready for dev)\n5. Số lượng issue: <span style='color: red'>3</span>\n6. Root cause: hỗ trợ fix Issue của nhân sự cũ,\n#1604: không ràng đủ trường hợp\n#1601: thiếu thông báo lỗi trên giao diện\n#1598: thay đổi theo yêu cầu của Tester\n7. Số lượng issue fix:  2 (ready for stg), 1 (ready for dev),\n8. Khó khăn: Không\n9. Đề xuất: không",
+            "date": 1683259144000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Happy Connect",
+            "text": "Đang trễ tiến độ\n1. Nội dung:\nHoàn thành sprint 5, đang test\nĐúng tiến độ\n2. Workload:\nHuyHQ29: 10h\n3. Số lượng task Sprint 5: 14\n4. Số lượng task hoàn thành:  3 (close), 11 (ready for stg)\n5. Số lượng issue: 0\n6. Root cause: không\n7. Số lượng issue fix: 0\n8. Khó khăn: không\n9. Đề xuất: không",
+            "date": 1683259144000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Hệ thống giám sát mới",
+            "text": "- Đúng tiến độ\nCSOC đã hoàn thành pentest vào ngày 28.4 phát hiện 2 lỗi (1 nguy cơ cao, 1 nguy cơ thấp).\n04.05 SCC đã fix lỗi và CSOC đã confirm ok\nChuẩn bị chạy chính thức\nWorkload:\n- SangTT9: 0h\nKhó khăn: không\nĐề xuất: không",
+            "date": 1683259144000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "OnCX",
+            "text": "1. Công việc: \n- Danh sách câu trả lời mẫu (100%)\n- Ảnh hưởng của câu trả lời mẫu (FE 100%)\n- Zoom ảnh trong bóng chat ở Web (0%)\n2. Workload:\n- PhiLK: 16h\n- LocNTX: 16h\n- SangTT: \n3. Số lượng task/sprint: 6\n4. Số lượng task hoàn thành: 3 (50%)\n5. Số lượng issue: 0\n6. Root cause:\n7. Số lượng issue fix:\n8. Khó khăn: Không\n9. Đề xuất: Không",
+            "date": 1683259144000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        }
+    ],
+    "project_12_05_2023": [
+        {
+            "title": "Sale Online Platform",
+            "text": "Trễ tiến độ:\n1. Công việc:\n- Hoàn thành sprint 15 (mobile hoàn thành demo, web cần review lại phần demo chưa demo được và còn ở local)\n- Planning và bắt đầu sprint 16\n2. Tiến độ task (sprint 16):\n- KhanhTV21: 2 inprogess, 8 new\n- DucNC10: 5 inprogess, 9 new\n- SangTT9: 1 inprogess, 5 new\n3.Workload:\n- SangTT9(16h)\n- KhanhTV21(32h)\n- DucNC10(40h)\n4.Khó khăn:\n- Anh Đức nhận phần web cần thời gian đọc code.\n5. Đề xuất:\n- Không",
+            "date": 1683860419000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Dialo",
+            "text": "Đúng tiến độ.\n1. Nội dung\n- Đúng tiến độ.\n- Bắt đầu sprint 25  ngày 12.05\n2. Workload: HuyHQ29: 12h\n3. Số lượng task Sprint 25: 7 \n4. Số lượng task hoàn thành: 0\n5. Số lượng issue: 0\n6. Root cause: 0\n7. Số lượng issue fix:  0\n8. Khó khăn: Không\n9. Đề xuất: không",
+            "date": 1683860419000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Happy Connect",
+            "text": "Đúng tiến độ\n1. Nội dung:\nĐang tiến hành thực hiện sprint 6\nĐúng tiến độ\n2. Workload:\nHuyHQ29: 20h\n3. Số lượng task Sprint 6: 7\n4. Số lượng task hoàn thành:  4 (ready for dev), 3 (inprogess)\n5. Số lượng issue: 0\n6. Root cause: không\n7. Số lượng issue fix: 0\n8. Khó khăn: không\n9. Đề xuất: không",
+            "date": 1683860419000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Hệ thống giám sát mới",
+            "text": "- Đúng tiến độ\nHoàn thành KH deploy lên môi trường production\nCutomize UI image checkmk\nWorkload:\n- SangTT9: 8h\nKhó khăn: không\nĐề xuất: không",
+            "date": 1683860419000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "OnCX",
+            "text": "1. Công việc: \n- Danh sách câu trả lời mẫu (100%)\n- Ảnh hưởng của câu trả lời mẫu (100%)\n- Zoom ảnh trong bóng chat ở Web (50%)\n- Fix bug phát sinh\n2. Workload:\n- PhiLK: 40h\n- LocNTX: 32h\n- SangTT: \n3. Số lượng task/sprint: 6\n4. Số lượng task hoàn thành: 3 (50%)\n5. Số lượng issue: 34\n6. Root cause:\nMiss logic/require: LocNTX(1, 1 - support),\nBug Enhancement: LocNTX(9), PhiLK(6)\nMerge code thiếu: LocNTX(2), PhiLK(2)\nThiếu Design: PhiLK(1)\nThiếu mô tả: PhiLK(4)\nMô tả thay đổi: PhiLK(3)\n7. Số lượng issue fix: 29\n8. Khó khăn: Không\n9. Đề xuất: Không",
+            "date": 1683860419000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        }
     ]
 }

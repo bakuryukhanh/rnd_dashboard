@@ -248,33 +248,103 @@ export const getStatistics_28_04_2023 = (): Promise<Statistic[]> => {
   });
 };
 
+export const getStatistics_05_05_2023 = (): Promise<Statistic[]> => {
+  return new Promise((res) => {
+    setTimeout(() => {
+      res([
+        {
+          id: 1,
+          value: 6,
+          prevValue: 6,
+          unit: 'người',
+          off: `Chính thức: 6 \n KhánhTV off 04.05 05.05 ngoại mất   <span style='color: red'>(còn 4 ngày)</span> `,
+        },
+        {
+          id: 2,
+          value: 5,
+          prevValue: 6,
+          unit: 'người',
+          off: 'WFO : 5 \n WFH: 1 \n  PhiLK WFH 04.05 05.05 do đau chân',
+        },
+        {
+          id: 3,
+          value: 0,
+          prevValue: 0,
+          unit: 'người',
+          // off: `Chính thức: 6`,
+        },
+        {
+          id: 4,
+          value: 0,
+          prevValue: 0,
+          unit: 'người',
+        },
+      ]);
+    }, 0);
+  });
+};
+
+export const getStatistics_12_05_2023 = (): Promise<Statistic[]> => {
+  return new Promise((res) => {
+    setTimeout(() => {
+      res([
+        {
+          id: 1,
+          value: 6,
+          prevValue: 6,
+          unit: 'người',
+          off: `Chính thức: 6 \n HuyHQ29 off buổi sáng 08.05, buổi chiều 11.05 bận việc gia đình   <span style='color: red'>(còn 11 ngày)</span> `,
+        },
+        {
+          id: 2,
+          value: 6,
+          prevValue: 6,
+          unit: 'người',
+        },
+        {
+          id: 3,
+          value: 0,
+          prevValue: 0,
+          unit: 'người',
+          // off: `Chính thức: 6`,
+        },
+        {
+          id: 4,
+          value: 0,
+          prevValue: 0,
+          unit: 'người',
+        },
+      ]);
+    }, 0);
+  });
+};
 export const getStatisticsBefore = (): Promise<Statistic[]> => {
   return new Promise((res) => {
     setTimeout(() => {
       res([
         {
           id: 1,
-          value: 9,
-          prevValue: 9,
+          value: 6,
+          prevValue: 6,
           unit: 'người',
           off: 'Chính thức: 8, SVCNTS: 1     ',
         },
         {
           id: 2,
-          value: 9,
-          prevValue: 9,
+          value: 6,
+          prevValue: 6,
           unit: 'người',
         },
         {
           id: 3,
           value: 0,
-          prevValue: 9,
+          prevValue: 0,
           unit: 'người',
         },
         {
           id: 4,
-          value: 9,
-          prevValue: 9,
+          value: 0,
+          prevValue: 0,
           unit: 'người',
         },
       ]);

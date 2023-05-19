@@ -502,5 +502,81 @@
       "avatarUrl": "avatar1",
       "author": "Dr. Dan Reed"
     }
+  ],
+  "diff_work_05_05_2023": [
+    {
+      "title": "OKR",
+      "text": "Nghiên cứu công nghệ: \n I. <span style='color: yellow'>Tool nhân sự</span>: LocNTX trao đổi với TaiLM về timeline để thực hiện dev\nII. <span style='color: yellow'>Storybook-package</span>: Hoàn thành cấu hình môi trường, pushlish lên npm, HuyHQ29 trao đổi DucNC10 về timeline, task để thực hiện dev, 12/5 hoàn thành tạo Button, Avatar, Card, Alert  \n III. <span style='color: yellow'>Webview call</span>: Đã setup xong môi trường đang tích hợp library call dự kiến 15.05 hoàn thành \n",
+      "date": 1683259144000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Vấn đề phát sinh khác",
+      "text": "I. Chuyển đổi mail sang domain fpt.com \n - <span style='color: yellow'>có 5/6</span> nhân sự đã chuyển đổi xong. KhánhTV21 <span style='color: yellow'>chưa chuyển đổi</span> do đang <span style='color: yellow'>off</span> bận việc gia đình. Trao đổi với KhánhTV21 chuyển đổi trong <span style='color: yellow'>chưa chuyển đổi</span> do đang <span style='color: yellow'>trước ngày 8.5</span>   \n II. Trực lễ \n -Team hoàn thành trực lễ không có vấn đề phát sinh",
+      "date": 1683259144000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Công việc tuần tới",
+      "text": "OnCX:\n- Hoàn thành Zoom ảnh trong bóng chat ở Web\n- Fix bug phát sinh (nếu có)\nSOP:\n- Tích hợp các api trên webview\nHTGSM:\n- Trao đổi kế hoạch và nhu cầu triển khai với CADS, NOC và INF để triển khai netconf và telemetry...\n- Dialo:\nTest và Fix issue nếu nó, thực hiện task sprint 25\n- Happy connect:\nTest và Fix issue nếu nó, thực hiện task sprint 6",
+      "date": 1683259144000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Hoàn thành khoá học, chứng chỉ",
+      "text": "- LocNTX, HuyHQ29, PhiLK, KhanhTV21, DucNC10 hoàn thành MOOC \n - SangTT9: <span style='color: yellow'>85%</span>",
+      "date": 1683259144000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    }
+  ],
+  "diff_work_12_05_2023": [
+    {
+      "title": "OKR",
+      "text": "Tool nhân sự: Đã hoàn thành giao diện Login, Danh sách nhân sự, trao đổi với TaiLM xây dựng database cho phần User, OKR\nStorybook-package: Hoàn thành tạo Alert, Button, Checkbox, DatePicker, Dropdown, Input, InputNumber, Radio, Rate, Spin, 19/5 hoàn thành tạo Alert, Breadcrumbs, Filter Date\nWebview call: Đã setup xong môi trường đang tích hợp library call dự kiến 15.05 hoàn thành\nFigma: hoàn thành bản nghiên cứu về tài chính và timeline cho dự án, tích hợp authen (30%)",
+      "date": 1683860419000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Vấn đề phát sinh khác",
+      "text": "I. Chuyển đổi mail sang domain fpt.com \n Đã  hoàn thành chuyển đổi 6/6 nhân sự\nVấn đề: Gmail PhiLK không auto sync mail từ outlook sang gmail mới. Đã liên hệ HR hỗ trợ nhưng chưa giải quyết xong   \n II. Nghiên cứu lowcode \n Deadline 15.05. Đã draft nội dung nghiên cứu lowcode, cần nghiên cứu bổ sung việc áp dụng low-code trong FTEL và FPT",
+      "date": 1683860419000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Tuyên dương & nhắc nhở",
+      "text": "ĐứcNC10, HuyHQ29 xung phong làm BTC du lịch hè\nSangTT9 xung phong làm phần nghiên cứu low-code",
+      "date": 1683860419000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Công việc tuần tới",
+      "text": "OnCX:\n- Sprint 34 planning\n- Hoàn thành Zoom ảnh trong bóng chat ở Web\n- Fix bug phát sinh\nSOP:\n- Thực hiện sprint 16 và đẩy code tồn của sprint 15\nHTGSM:\n- Triển khai tích hợp vào SCCD và EM, Xây dựng tool quản lý config và db cho checkMK á\n- Dialo:\n Thực hiện task sprint 25\n- Happy connect:\nThực hiện task sprint 6\n- Chuẩn bị KH phỏng vấn và mentor SVCNTS",
+      "date": 1683860419000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Hoàn thành khoá học, chứng chỉ",
+      "text": "- LocNTX, HuyHQ29, PhiLK, KhanhTV21, DucNC10 hoàn thành MOOC \n - SangTT9: <span style='color: yellow'>95%</span>",
+      "date": 1683860419000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    }
   ]
 }

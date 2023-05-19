@@ -58,9 +58,9 @@ const RnDDashboardPage: React.FC<Test> = () => {
   } else {
     newLastDay = a.getDate();
   }
-  const calender = `${newFistDay}/${fistMonth}/${nowYear} - ${newLastDay}/${fistMonth}/${nowYear}`;
-  // const calender = "03/04/2023 - 07/04/2023"
-  console.log({ calender });
+  // const calender = `${newFistDay}/${fistMonth}/${nowYear} - ${newLastDay}/${fistMonth}/${nowYear}`;
+  const calender = '08/05/2023 - 12/05/2023';
+  // console.log({ calender });
   const [week, setWeek] = React.useState(calender);
 
   const { t } = useTranslation();

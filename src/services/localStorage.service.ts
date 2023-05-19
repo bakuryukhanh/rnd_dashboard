@@ -32,8 +32,8 @@ const avatarImg = 'https://ibb.co/8MhmpW1';
 
 const testUser = {
   id: 1,
-  firstName: 'Thanh',
-  lastName: 'NV97',
+  firstName: '',
+  lastName: '',
   imgUrl: avatarImg,
   userName: '@thanhnv97',
   email: {

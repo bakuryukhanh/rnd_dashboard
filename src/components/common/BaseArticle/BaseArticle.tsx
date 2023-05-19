@@ -16,18 +16,18 @@ export interface BaseArticleProps {
   // tags?: IHashTag[];
   className?: string;
 }
-const stringToColour = function(str: string) {
+const stringToColour = function (str: string) {
   let hash = 0;
   for (var i = 0; i < str.length; i++) {
     hash = str.charCodeAt(i) + ((hash << 5) - hash);
   }
   var colour = '#';
   for (var i = 0; i < 3; i++) {
-    var value = (hash >> (i * 8)) & 0xFF;
+    var value = (hash >> (i * 8)) & 0xff;
     colour += ('00' + value.toString(16)).substr(-2);
   }
   return colour;
-}
+};
 
 export const BaseArticle: React.FC<BaseArticleProps> = ({
   // imgUrl,
@@ -39,10 +39,9 @@ export const BaseArticle: React.FC<BaseArticleProps> = ({
   // tags,
   className,
 }) => {
-
-  const color = useMemo(()=>{
+  const color = useMemo(() => {
     return stringToColour(title);
-  },[title])
+  }, [title]);
   return (
     <S.Wrapper className={className} color={color}>
       {/* <S.Header> */}
@@ -56,9 +55,12 @@ export const BaseArticle: React.FC<BaseArticleProps> = ({
       <S.InfoWrapper>
         <S.DateTime>{Dates.format(date, 'L')}</S.DateTime>
         <S.InfoHeader>
-          <S.Title>{title}</S.Title>
+          <S.Title dangerouslySetInnerHTML={{ __html: title }}></S.Title>
         </S.InfoHeader>
-        <S.Description style={{whiteSpace: "pre-line"}}>{description}</S.Description>
+        <S.Description
+          style={{ whiteSpace: 'pre-line' }}
+          dangerouslySetInnerHTML={{ __html: description }}
+        ></S.Description>
       </S.InfoWrapper>
 
       {/* {!!tags?.length && (

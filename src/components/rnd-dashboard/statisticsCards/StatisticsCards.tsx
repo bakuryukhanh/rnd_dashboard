@@ -9,6 +9,10 @@ import {
   getStatisticsWeek31,
   getStatistics_07_04_2023,
   getStatistics_14_04_2023,
+  getStatistics_21_04_2023,
+  getStatistics_28_04_2023,
+  getStatistics_05_05_2023,
+  getStatistics_12_05_2023,
 } from 'api/statistics.api';
 import { statistics as configStatistics } from 'constants/config/statistics';
 import { BaseCol } from '@app/components/common/BaseCol/BaseCol';
@@ -32,6 +36,14 @@ export const StatisticsCards: React.FC<Props> = (props) => {
       getStatistics_07_04_2023().then((res) => setStatistics(res));
     } else if (date === '10/04/2023 - 14/04/2023') {
       getStatistics_14_04_2023().then((res) => setStatistics(res));
+    } else if (date === '17/04/2023 - 21/04/2023') {
+      getStatistics_21_04_2023().then((res) => setStatistics(res));
+    } else if (date === '24/04/2023 - 28/04/2023') {
+      getStatistics_28_04_2023().then((res) => setStatistics(res));
+    } else if (date === '01/05/2023 - 05/05/2023') {
+      getStatistics_05_05_2023().then((res) => setStatistics(res));
+    } else if (date === '08/05/2023 - 12/05/2023') {
+      getStatistics_12_05_2023().then((res) => setStatistics(res));
     } else {
       getStatisticsBefore().then((res) => setStatistics(res));
     }

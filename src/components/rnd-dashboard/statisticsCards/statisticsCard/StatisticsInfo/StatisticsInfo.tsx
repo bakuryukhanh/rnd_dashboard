@@ -25,7 +25,11 @@ export const StatisticsInfo: React.FC<StatisticsInfoProps> = ({ name, off }) => 
           {getDifference(value, prevValue)}
         </S.Text>
       )} */}
-      <S.Text>{health}</S.Text>
+
+      <div
+        style={{ color: '#57D682', fontSize: 14, fontWeight: 500, lineHeight: 1.5 }}
+        dangerouslySetInnerHTML={{ __html: health }}
+      ></div>
     </BaseSpace>
   );
 };

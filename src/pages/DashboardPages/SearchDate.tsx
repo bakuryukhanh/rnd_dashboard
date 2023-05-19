@@ -67,6 +67,30 @@ export const SearchDate: React.FC<Props> = (props) => {
             10/04/2023 - 14/04/2023
           </BaseSpace>
         </Option>
+        <Option value="17/04/2023 - 21/04/2023">
+          <BaseSpace align="center">
+            <CalendarOutlined />
+            17/04/2023 - 21/04/2023
+          </BaseSpace>
+        </Option>
+        <Option value="24/04/2023 - 28/04/2023">
+          <BaseSpace align="center">
+            <CalendarOutlined />
+            24/04/2023 - 28/04/2023
+          </BaseSpace>
+        </Option>
+        <Option value="01/05/2023 - 05/05/2023">
+          <BaseSpace align="center">
+            <CalendarOutlined />
+            01/05/2023 - 05/05/2023
+          </BaseSpace>
+        </Option>
+        <Option value="08/05/2023 - 12/05/2023">
+          <BaseSpace align="center">
+            <CalendarOutlined />
+            08/05/2023 - 12/05/2023
+          </BaseSpace>
+        </Option>
       </BaseSelect>
     </BaseButtonsForm.Item>
   );

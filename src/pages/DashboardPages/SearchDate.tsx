@@ -90,6 +90,12 @@ export const SearchDate: React.FC<Props> = (props) => {
             <CalendarOutlined />
             08/05/2023 - 12/05/2023
           </BaseSpace>
+        </Option>{' '}
+        <Option value="15/05/2023 - 18/05/2023">
+          <BaseSpace align="center">
+            <CalendarOutlined />
+            15/05/2023 - 18/05/2023
+          </BaseSpace>
         </Option>
       </BaseSelect>
     </BaseButtonsForm.Item>

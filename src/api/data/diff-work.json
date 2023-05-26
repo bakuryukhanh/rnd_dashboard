@@ -578,5 +578,47 @@
       "avatarUrl": "avatar1",
       "author": "Dr. Dan Reed"
     }
+  ],
+  "diff_work_18_05_2023": [
+    {
+      "title": "KPI",
+      "text": "I. Hoàn thành docs về tính năng - API (Flow, data schema, swimlane logic) trên mỗi task được nhận (trừ trường hợp được SA-BA confirm không cần làm): <span style='color: yellow'>Đạt</span>\n II. Hoàn thành update đủ thông tin task trên taiga 1. Mô tả task (input-output), 2. bằng chứng hoàn thành khi chuyển từ ingrogress sang ready to test - FE screenshot UI trên mt dev, merge request; BE screenshot Postman API trên mt dev, merge request; 3.integration test/ unit test: <span style='color: red'>Còn task/issue chưa comment khi đã ready for test</span>\n III. Có số bugs được report trong mỗi tính năng của 1 sprint dự án <= 2 (Bug tính theo miss logic, miss require, miss task, miss communication): <span style='color: yellow'>Đạt</span> \n IV. Đảm bảo số lần CBQL nhắc nhở, khiển trách về công việc, thái độ trách nhiệm của bản thân = 0 lần: <span style='color: yellow'>Đạt</span>",
+      "date": 1684458077000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "OKR",
+      "text": "<span style='color: yellow'>Tool nhân sự</span>: Đã giao diện OKR cá nhân, tạo dự án trên taiga\n<span style='color: yellow'>Storybook-package</span>: Lên kế hoạch sử dụng storybook vào figma để tự động render code reactjs \n <span style='color: yellow'>Webview call</span>: Đã setup xong môi trường đang tích hợp library call dự kiến 15.05 hoàn thành\n<span style='color: yellow'>Figma</span>: Đã setup server đang test thử chạy trên môi trường server",
+      "date": 1684458077000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Vấn đề phát sinh khác",
+      "text": "I. Chuyển đổi mail sang domain fpt.com \n<span style='color: red'>PhiLK đã gửi ticket nhờ IT hỗ trợ </span>  \n II. Nghiên cứu lowcode \n Đã họp trao đổi vào sáng 19/5",
+      "date": 1684458077000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Công việc tuần tới",
+      "text": "Gửi kết quả OKR tháng 5, lên OKR tháng 6\nOnCX:\n- Fix bug phát sinh\nSOP:\n- Hoàn thành sprint 16, planning sprint 17\nHTGSM:\n- Triển khai tích hợp vào SCCD và EM\n- Dialo:\n Thực hiện task sprint 25\n- Happy connect:\nThực hiện task sprint 6\n- Thực hiện phỏng vấn SVCNTS vào 20/5",
+      "date": 1684458077000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Hoàn thành khoá học, chứng chỉ",
+      "text": "Team hoàn thành khoá học \n <span style='color: yellow'>SangTT9 đã submitted đang đợi confirm</span>",
+      "date": 1684458077000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    }
   ]
 }

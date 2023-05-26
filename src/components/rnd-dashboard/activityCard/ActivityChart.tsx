@@ -49,6 +49,9 @@ export const ActivityChart: React.FC<Props> = (props) => {
     case '08/05/2023 - 12/05/2023':
       fakeData = data['week_01.05.2023-05.05.2023'];
       break;
+    case '15/05/2023 - 18/05/2023':
+      fakeData = data['week_01.05.2023-05.05.2023'];
+      break;
     default:
       fakeData = data.week_default;
       // fakeData = data['week_03.04.2023-07.04.2023'];

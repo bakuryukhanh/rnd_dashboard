@@ -353,6 +353,41 @@ export const getStatistics_18_05_2023 = (): Promise<Statistic[]> => {
     }, 0);
   });
 };
+export const getStatistics_26_05_2023 = (): Promise<Statistic[]> => {
+  return new Promise((res) => {
+    setTimeout(() => {
+      res([
+        {
+          id: 1,
+          value: 6,
+          prevValue: 6,
+          unit: 'người',
+          off: `Chính thức: 6 \n SangTT9 off 25.05 bị sốt <span style='color: red'>(còn 11 ngày)</span>`,
+        },
+        {
+          id: 2,
+          value: 5,
+          prevValue: 6,
+          unit: 'người',
+          off: 'SangTT9 off 25.5 bệnh',
+        },
+        {
+          id: 3,
+          value: 0,
+          prevValue: 0,
+          unit: 'người',
+          // off: `Chính thức: 6`,
+        },
+        {
+          id: 4,
+          value: 0,
+          prevValue: 0,
+          unit: 'người',
+        },
+      ]);
+    }, 0);
+  });
+};
 export const getStatisticsBefore = (): Promise<Statistic[]> => {
   return new Promise((res) => {
     setTimeout(() => {

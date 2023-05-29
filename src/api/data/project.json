@@ -628,5 +628,47 @@
             "avatarUrl": "avatar1",
             "author": "Dr. Dan Reed"
         }
+    ],
+    "project_26_05_2023": [
+        {
+            "title": "Sale Online Platform",
+            "text": "Đúng tiến độ:\n1. Công việc:\n- Hoàn thành sprint 16, thực hiện sprint 17, fix bug srpint 14,15,16\n2. Bug:\n- KhanhTV21: 8 new, 2 ready for test\n- DucNC10: 2 new, 1 inprogess, 8 ready for test\n- SangTT9: 1 new\n3.Workload:\n- SangTT9(16h)\n- KhanhTV21(32h)\n- DucNC10(40h)\n- LocNTX (8h)\n4.Khó khăn:\n- Không\n5. Đề xuất:\n- Không",
+            "date": 1685061734000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Dialo",
+            "text": "Đúng tiến độ.\n1. Nội dung\n- Đúng tiến độ.\n- Hoàn thành task sprint 25 \n2. Workload:\n HuyHQ29: 34h \n PhiLK: 8h, làm quen dự án\n3. Số lượng task Sprint 25: 7 \n4. Số lượng task hoàn thành: 7 (done),\n5. Số lượng issue: 5\n6. Root cause: \n#1659: Thiếu sót/gặp lỗi do chủ quan\n#1660: phát sinh từ #1659\n#1670: Hiểu sai yêu cầu\n#1676: Nhân sự cũ comment lại đoạn code, không rõ nguyên nhân\n7. Số lượng issue fix:  3 (stg ok), 1 (ready for stg)\n8. Khó khăn: Không\n9. Đề xuất: không",
+            "date": 1685061734000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Happy Connect",
+            "text": "1. Nội dung:\nPlanning sprint 7 24.5, thực hiện task vào 25.5\n2. Workload:\nHuyHQ29: 6h\n3. Số lượng task Sprint 7: 9\n4. Số lượng task hoàn thành:  2 (in progress)\n5. Số lượng issue: 0\n6. Root cause: không\n7. Số lượng issue fix: 0\n8. Khó khăn: không\n9. Đề xuất: không",
+            "date": 1685061734000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Hệ thống giám sát mới",
+            "text": "Đúng tiến độ\nHoàn thành xây dựng tool quản lý config và db cho checkMK\nWorkload:\n- SangTT9: 0h\nKhó khăn: không\nĐề xuất: không",
+            "date": 1685061734000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "OnCX",
+            "text": "1. Công việc: \n- Fix bug phát sinh\n2. Workload:\n- PhiLK: 32h\n- LocNTX: 24h\n- SangTT:\n3. Số lượng task/sprint: 3\n4. Số lượng task hoàn thành: 3 (100%)\n5. Số lượng issue: 10\n6. Root cause:\nMiss logic/require: LocNTX(1, 3 - support),\nBug Enhancement: LocNTX(3)\nBug thiếu/conflict khi merge code: LocNTX(2)\nBug thư viện: PhiLK(1)\n7. Số lượng issue fix: 10\n8. Khó khăn: Không\n9. Đề xuất: Không",
+            "date": 1685061734000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        }
     ]
 }

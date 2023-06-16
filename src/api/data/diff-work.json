@@ -716,7 +716,7 @@
     },
     {
       "title": "Vấn đề phát sinh khác",
-      "text": "<span style='color: yellow'> Tiếp nhận SVCNTS</span>: \n Đi làm đúng giờ và làm đủ 5/5  \n Nhân sự học theo syllabus, đang nghiên cứu generate html từ figma (70%)\n Nắm được kiến thức cơ bản của umi như config router, cấu hình webpack\nThực hành sử dụng và thao tác figma dựa trên ant design\nThực hành export figma to html sử dụng công nghệ reactjs, typescript, react query, giao diện ant design \n<span style='color: yellow'>Kết quả</span> \n Đã generate file HTML từ figma có độ chính xác so với design là 70% \n <span style='color: yellow'>Điểm chưa tốt, cần cải thiện:</span> \nVẫn còn chưa chủ động giao lưu với mọi người trong Phòng",
+      "text": "<span style='color: yellow'> I. Tiếp nhận SVCNTS</span>: \n Đi làm đúng giờ và làm đủ 5/5  \n Nhân sự học theo syllabus, đang nghiên cứu generate html từ figma (70%)\n Nắm được kiến thức cơ bản của umi như config router, cấu hình webpack\nThực hành sử dụng và thao tác figma dựa trên ant design\nThực hành export figma to html sử dụng công nghệ reactjs, typescript, react query, giao diện ant design \n<span style='color: yellow'>Kết quả</span> \n Đã generate file HTML từ figma có độ chính xác so với design là 70% \n <span style='color: yellow'>Điểm chưa tốt, cần cải thiện:</span> \nVẫn còn chưa chủ động giao lưu với mọi người trong Phòng \n <span style='color: yellow'> II. Smart routing</span> \n Hỗ trợ thay đổi kịch bản file IVR (100%). Đã test trên stg ",
       "date": 1685671551000,
       "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
       "avatarUrl": "avatar1",

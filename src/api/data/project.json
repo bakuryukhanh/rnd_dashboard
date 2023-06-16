@@ -1,0 +1,758 @@
+{
+    "project_new": [
+        {
+            "title": "Sale Online Platform",
+            "text": "- Đang cập nhật",
+            "date": 2023,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Dialo",
+            "text": "- Đang cập nhật",
+            "date": 2023,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Happy Connect",
+            "text": "- Đang cập nhật",
+            "date": 2023,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Hệ thống giám sát mới",
+            "text": "- Đang cập nhật",
+            "date": 2023,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "OnCX",
+            "text": "- Đang cập nhật",
+            "date": 2023,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        }
+    ],
+    "project_24_02_2023": [
+        {
+            "title": "Sale Online Platform",
+            "text": "Hoàn thành buổi demo cho a Hải \n Phối hợp với tester test lại các tính năng trên UAT",
+            "date": 1674537052000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Dialo",
+            "text": "Đã hoàn thành các tasks sprint 21",
+            "date": 1674537052000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Omnichannel",
+            "text": "Đã họp trao đổi với team BA hồ sơ URD cho các chức năng phase 2. Team BA đang hoàn thành SRS sau các góp ý trong buổi họp",
+            "date": 1674537052000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Hệ thống giám sát mới",
+            "text": "PM đã gửi mail KH triển khai production",
+            "date": 1674537052000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "OnCX",
+            "text": "Fix hết các bug trong ver140 \nThêm tính năng resubscribe ws chat sau khi reconnect \n Thêm log disconnect ws chat \nReview đóng gói ver140",
+            "date": 1674537052000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        }
+    ],
+    "project_28_02_2023": [
+        {
+            "title": "Sale Online Platform",
+            "text": "- Phối hợp với tester test lại các tính năng trên UAT",
+            "date": 1677561052000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Dialo",
+            "text": "- Release production \n - Đang trong giai đoạn test lại trên môi trường prod và song song fix bug sprint 21",
+            "date": 1677561052000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Happy Connect",
+            "text": "- Hoàn thành phase 1 của dự án \n - Họp đánh giá và lên kế hoạch cho pharse tiếp theo",
+            "date": 1677561052000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Hệ thống giám sát mới",
+            "text": "PM đã gửi mail KH triển khai production",
+            "date": 1677561052000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "OnCX",
+            "text": "- Deploy v140 cho FTI UAT \n - Retrospective team dự án \n - Planning sprint 29 \n - Họp tài liệu common và abnormal case",
+            "date": 1677561052000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        }
+    ],
+    "project_3_03_2023": [
+        {
+            "title": "Sale Online Platform",
+            "text": "- Phối hợp với tester test lại các tính năng trên UAT",
+            "date": 1677837233445,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Dialo",
+            "text": "-  Release production  \n - Đang trong giai đoạn test lại trên môi trường prod và song song fix bug sprint 21",
+            "date": 1677837233445,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Happy Connect",
+            "text": "- Hoàn thành phase 1 của dự án \n - Họp đánh giá và lên kế hoạch cho pharse tiếp theo",
+            "date": 1677837233445,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Hệ thống giám sát mới",
+            "text": "- Họp trao đổi timeline và resource",
+            "date": 1677837233445,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "OnCX",
+            "text": "- Deploy v140 cho FTI UAT \n - Retrospective team dự án \n - Planning sprint 29 \n - Họp tài liệu common và abnormal case ",
+            "date": 1677837233445,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        }
+    ],
+    "project_10_03_2023": [
+        {
+            "title": "Sale Online Platform",
+            "text": "- Phối hợp với tester test lại các tính năng trên UAT. FE còn 8 bugs sẽ fix trong ngày 10/3",
+            "date": 1678414553023,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Dialo",
+            "text": "- Đang thực hiện sprint 22  \n - Ngày 6 họp với TLS thống nhất các issue gặp phải - FE hỗ trợ kiểm tra, không pic lỗi \n - Ngày 8 họp với ISC xác nhận lỗi không gọi được trên stg - Kết quả: Team voice nhận support",
+            "date": 1678414553023,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Happy Connect",
+            "text": "- Chờ kế hoạch pharse 2 từ PM \n - Cấu hình lại biến môi trường cho domain mới \n - Chờ kế hoạch tích hợp SSO vào dự án",
+            "date": 1678414553023,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Hệ thống giám sát mới",
+            "text": "- PM đang phối hợp test luồng api dự kiến hoàn thành vào 17/03 \n - Cần join dev level junior phối hợp nghiên cứu giao thức mới telemetry, netconfig,... vào giữa tháng 4 bắt đầu nghiên cứu",
+            "date": 1678414553023,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "OnCX",
+            "text": "- Nghiên cứu và viết tài liệu cho các task ở sprint 30 \n - Fix một số bug trên môi trường LongChau-UAT \n - Long Châu - FTI: issue copy paste text bị mất xuống dòng. Đã fix và deploy lên production ngày 7/3/2023 \n - Hoàn thành sprint 29",
+            "date": 1678414553023,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        }
+    ],
+    "project_17_03_2023": [
+        {
+            "title": "Sale Online Platform",
+            "text": "- Trễ tiến độ. Đang thực hiện fix bug trên stg \n Workload: KhanhTV21: 32h, DucNC10: 40h \n Khó khăn: Không \n Đề xuất: Không ",
+            "date": 1679020483539,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Dialo",
+            "text": "- Đã hoàn thành đúng tiến độ sprint 22  \n - Đang làm việc với tổng đài đổi lại luồng call (Dự kiến hoàn thành ngày 22/3)  \n - Workload: TaiVP: 32h, HuyHQ: 29h",
+            "date": 1679020483539,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Happy Connect",
+            "text": " Nội dung: \n - Dự án đang tạm dừng, chờ kế hoạch pharse 2 từ PM \n - Review, test lại STG, đóng gói code lên Prod \n Workload: \n HuyHQ29:4h \n HuyHG3: thực hiện OKR ChatApp với công nghệ React Native, code xong phần giao diện chat giữa 2 user  \n ThanhNV97: thực hiện đồng bộ task từ taiga qua fproject \n Khó khăn: Đang gặp lỗi không thể kết nối localhost:8002 đến BE (Anh Nhân đang hỗ trợ) \n Đề xuất: Không ",
+            "date": 1679020483539,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Hệ thống giám sát mới",
+            "text": "- Hoàn thành đúng tiến độ \n - Họp trao đổi kế hoạch triển khai các tính năng và kế hoạch triển khai production vào ngày 15.3 \n - KH Build DB tổng hợp thông tin, action tương tác CheckMK \n - Trao đổi thông tin về API CheckMK với BE \n Workload: SangTT9: 6h \n Khó khăn: Không \n Đề xuất: Không",
+            "date": 1679020483539,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "OnCX",
+            "text": "1. Công việc: Thực hiện các task trong sprint 30 \n - Làm các tính năng custom cho khách hàng DKSH (40%). Dự kiến hoàn thành: 22/3 \n - Append message chat chủ động (100%). Hoàn thành: 14/3 \n - Deploy CRM mới (20%). Dự kiến hành thành: 23/3 \n - Hiển thị thông tin đăng kí (100%). Hoàn thành: 15/3 \n - Thư mục câu trả lời mẫu (40%). Dự kiến hoàn thành: 17/3 \n 2. Workload \n - PhiLK: 40h, LocNTX: 48h, SangTT: 20h \n 3. Số lượng task Sprint: 0 \n 4. Số lượng task hoàn thành: 0 (0%) \n 5. Số lượng issue: 0 \n 6. Root cause: 0 \n 7. Số lượng issue fix: 0 (0%) \n 8. Khó khăn: Không \n 9. Đề xuất: Không ",
+            "date": 1679020483539,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        }
+    ],
+    "project_24_03_2023": [
+        {
+            "title": "Sale Online Platform",
+            "text": "- Trễ tiến độ. Tích hợp Cypress integration test. Chỉnh sửa api cho refactor \n Workload: KhanhTV21: 40h, DucNC10: 40h \n Khó khăn: Không \n Đề xuất: Không ",
+            "date": 1679625024246,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Dialo",
+            "text": "-  Đã đổi lại luồng call \n - Workload: TaiVP: 38h",
+            "date": 1679625024246,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Happy Connect",
+            "text": " Nội dung: \n - Dự án đang tạm dừng, chờ kế hoạch pharse 2 từ PM, đã đóng gói code, chờ system đưa lên prod \n Workload: \n HuyHQ29:4h \n HuyHG3: Hoàn thành và demo chatapp OKR \n ThanhNV97: thực hiện đồng bộ task từ taiga qua fproject \n Khó khăn: Không \n Đề xuất: Không ",
+            "date": 1679625024246,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Hệ thống giám sát mới",
+            "text": "- Hoàn thành đúng tiến độ \n - ISC đang thực hiện đồng bộ data sang hệ thống SCC. Dự kiến hoàn thành trong tuần sau \n Workload: SangTT9: 4h \n Khó khăn: Không \n Đề xuất: Không",
+            "date": 1679625024246,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "OnCX",
+            "text": "1. Công việc: Thực hiện các task trong sprint 30 \n - Làm các tính năng custom cho khách hàng DKSH (100%)\n - Deploy CRM mới (50%). Đang đợi bên BE deploy  \n - Thư mục câu trả lời mẫu (100%)\n 2. Workload \n - PhiLK: 40h, LocNTX: 48h, SangTT: 20h \n 3. Khó khăn: Deploy CRM BE bị vướng nhiều logic liên quan tới Chat, Report \n 4. Đề xuất: Trao đổi với PM deploy phần chat từ v1.4.0 lên Long Châu",
+            "date": 1679625024246,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        }
+    ],
+    "project_31_03_2023": [
+        {
+            "title": "Sale Online Platform",
+            "text": "- Trễ tiến độ. Tích hợp Cypress integration test. Nghiên cứu webview trên mobile \n Workload: KhanhTV21: 40h, DucNC10: 40h \n Khó khăn: Không \n Đề xuất: Không ",
+            "date": 1680228506785,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Dialo",
+            "text": "- Đúng tiến độ. \n - Đã deploy production. Đang hỗ trợ khách hàng và fix issues. \n - Retro, Review, Planning ngày 31/03 \n - Workload: TaiVP: 36h, HuyHQ29: 22h \n Khó khăn: Không \n Đề xuất: không",
+            "date": 1680228506785,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Happy Connect",
+            "text": " Nội dung: \n - Họp trao đổi dự án vào 30.3 \n - Nhận kế hoạch pharse 2 từ PM, tuần sau bắt đầu làm sprint 5 \n Workload: \n HuyHQ29:18h, HuyHG3: 0, ThanhNV97: 0 \n Khó khăn: Không \n Đề xuất: Không ",
+            "date": 1680228506785,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Hệ thống giám sát mới",
+            "text": "- Hoàn thành đúng tiến độ \n - Họp trao đổi dự án vào 30.3 \n - Đã vẽ flow add host, add port TrọngND và MinhNC đang thực hiện dev \n Workload: SangTT9: 12h \n Khó khăn: Không \n Đề xuất: Không",
+            "date": 1680228506785,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "OnCX",
+            "text": "1. Công việc: Thực hiện các task trong sprint 31 \n - Deploy ver 140\n - Deploy CRM mới (50%). Đang đợi bên BE deploy  \n - Danh sách câu trả lời mẫu (50%). Đang đợi API từ BE \n - Fix bug phát sinh \n 2. Workload \n - PhiLK: 40h, LocNTX: 48h, SangTT: 20h \n 3. Khó khăn: Deploy CRM BE bị vướng nhiều logic liên quan tới Chat, Report \n 4. Đề xuất: Không",
+            "date": 1680228506785,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        }
+    ],
+    "project_07_04_2023": [
+        {
+            "title": "Sale Online Platform",
+            "text": "1. Nội dung: \n - FE tích hợp Cypress integration test. \n - FE phát triển tính năng chat trên bản mobile \n - Fix bug trên stg \n 2. Workload: \n - KhanhTV21: 40h, DucNC10: 40h \n 3. Số lượng task Sprint: 0 \n 4. Số lượng task hoàn thành: 0 (0%) \n 5. Số lượng issue: \n - Enhancement: 2, Bug: 7 (KhanhTV21: 5, DucNC10: 2) \n 6. Root cause: \n - Chủ quan(2), code quality (3), miss communication (2) \n 7. Tiến độ fix bug: \n - 7/7 (ready at dev) - tester đang test chưa merge lên stg \n 8. Khó khăn: Không \n 9. Đề xuất: Không ",
+            "date": 1682037346000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Dialo",
+            "text": "1. Nội dung: \n - Đang thực hiện sprint 23. \n 2. Workload: \n  - TaiVP: 36h, HuyHQ29: 20h \n 3. Số lượng task Sprint: 4 \n 4. Số lượng task hoàn thành: 4 (ready test for stg) \n 5. Số lượng issue: 0 \n 6. Root cause: 0 \n 7. Số lượng issue fix: 0 (0%) \n 8. Khó khăn: Không \n 9. Đề xuất: Không ",
+            "date": 1682037346000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Happy Connect",
+            "text": " 1. Nội dung: \n - Đang thực hiện sprint 5. \n - Làm trước giao diện sprint 6. \n 2. Workload: \n - HuyHQ29:14h, HuyHG3: 16h, ThanhNV97: 0 \n 3. Số lượng task Sprint: 3 \n 4. Số lượng task hoàn thành: 3 (ready at dev) \n 5. Số lượng issue: 0 \n 6. Root cause: 0 \n 7. Số lượng issue fix: 0 (0%) \n 8. Khó khăn: Không \n 9. Đề xuất: Không  ",
+            "date": 1682037346000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Hệ thống giám sát mới",
+            "text": "1. Nội dung: \n  - Hoàn thành đúng tiến độ \n - TrọngND và MinhNC dev xong api host, đang dev api port \n 2. Workload: \n - SangTT9: 5h \n 3. Số lượng task Sprint: 0 \n 4. Số lượng task hoàn thành: 0 (0%) \n 5. Số lượng issue: 0 \n 6. Root cause: 0 \n 7. Số lượng issue fix: 0 (0%) \n 8. Khó khăn: Không \n 9. Đề xuất: Không ",
+            "date": 1682037346000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "OnCX",
+            "text": "1. Nội dung: \n - Thực hiện các task trong sprint 31 \n - Đã deploy ver 140 cho khách hàng 2/7 KHG dự kiến hoàn thành vào 11/4 \n - Deploy tính năng focus sau khi ấn nút reply, fix bug breadcum, something went wrong khi vào màn hình omnichat (6/4) \n - Fix bug phát sinh \n 2. Workload \n - PhiLK: 40h, LocNTX: 48h, SangTT: 25h \n 3. Số lượng task Sprint: 0 \n 4. Số lượng task hoàn thành: 0 (0%) \n 5. Số lượng issue: 0 \n 6. Root cause: 0 \n 7. Số lượng issue fix: 0 (0%) \n 8. Khó khăn: Không \n 9. Đề xuất: Không ",
+            "date": 1682037346000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        }
+    ],
+    "project_14_04_2023": [
+        {
+            "title": "Sale Online Platform",
+            "text": "1. Nội dung:\n- Sprint planning sprint 14, break task\n- Upcode lên stg cho tester test\n- Fix các bug bị reopen\n- Đúng tiến độ\n2. Bug report\n    KhanhTV21: \n    - Ready for test: 4\n    - Needs Info : 1\n    - Ready at dev: 1\n    DucNC10: \n    - Ready for test: 6\n    - Reopen: 5\n3. Khó khăn: Không\n4. Đề xuất: Không",
+            "date": 1682037346000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Dialo",
+            "text": "1. Nội dung: \n - Hoàn thành task sprint 23. \n 2. Workload: \n  - TaiVP: 36h, HuyHQ29: 20h \n 3. Số lượng task Sprint 23: 4  \n 4. Số lượng task hoàn thành: 4 (stg ok) \n 5. Số lượng issue: 5 (stg ok) \n 6. Root cause: BA thay đổi yêu cầu (2), fix issue nhân sự cũ (2), hiểu sai trong quá trình trao đổi (1) \n 7. Số lượng issue fix: 5 (100% stg ok) \n 8. Khó khăn: Không \n 9. Đề xuất: Không ",
+            "date": 1682037346000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Happy Connect",
+            "text": " 1. Nội dung: \n - Đang thực hiện sprint 5. \n - Làm trước giao diện sprint 6. \n 2. Workload: \n - HuyHQ29:12h, HuyHG3: 16h, ThanhNV97: 0 \n 3. Số lượng task Sprint: 5 \n 4. Số lượng task hoàn thành: 3 (ready for stg) \n 5. Số lượng issue: 0 \n 6. Root cause: 0 \n 7. Số lượng issue fix: 0 (0%) \n 8. Khó khăn: Không \n 9. Đề xuất: Không  ",
+            "date": 1682037346000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Hệ thống giám sát mới",
+            "text": "1. Nội dung: \n  - Đúng tiến độ \n - Đã gửi lại thông tin dự án cho CSOC pentest dự kiến từ ngày 19/4 - 27/4 \n 2. Workload: \n - SangTT9: 5h \n 3. Số lượng task Sprint: 0 \n 4. Số lượng task hoàn thành: 0 (0%) \n 5. Số lượng issue: 0 \n 6. Root cause: 0 \n 7. Số lượng issue fix: 0 (0%) \n 8. Khó khăn: Không \n 9. Đề xuất: Không ",
+            "date": 1682037346000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "OnCX",
+            "text": "1. Nội dung: \n - Hoàn thành deploy ver 140 cho khách hàng 7/7 KHG \n - Danh sách câu trả lời mẫu (65%) \n - Ảnh hưởng của câu trả lời mẫu (30%) \n - Cập nhật câu trả lời mẫu (100%) \n - Cải tiến luồng tạo Wallboard (100%) \n - Fix bug phát sinh \n 2. Workload \n - PhiLK: 40h, LocNTX: 40h, SangTT: 20h \n 3. Số lượng task Sprint: 6 \n 4.Số lượng task hoàn thành: 2 (33,33%) \n 5. Số lượng issue: Enhancement: 8 (LocNTX: 6, PhiLK: 2), Bug: 1 (PhiLK: 1) \n 6. Root cause: Miss task khi enhance module Omni chat nhưng không gắn tag cho module chat chủ động \n 7. Số lượng issue fix: 1 (100%) \n 8. Khó khăn: Cần API từ BE \n 9. Đề xuất: Không ",
+            "date": 1682037346000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        }
+    ],
+    "project_21_04_2023": [
+        {
+            "title": "Sale Online Platform",
+            "text": "Dự án trễ tiến độ khi deloy lên UAT\n1. Nội dung:\n- Thực hiện task sprint 14\n- Fix các bug bị reopen\n- Đúng tiến độ\n2. Tiến độ task\n    KhanhTV21: \n    - Ready for test: 4\n    - Inprogress: 2\n    - New:  4\n    DucNC10: \n    - Inprogess: 6\n    - New: 5\n    SangTT9:\n    - Ready for test: 2\n    - Inprogress: 1\n3. Bug:\n    - KhanhTV21: 1 reopen\n    - DucNC10: 1 new\n4. Khó khăn: Không\n5. Đề xuất: Không",
+            "date": 1682037346000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Dialo",
+            "text": "1. Nội dung: \n - Đang thực hiện: 20/4 bắt đầu sprint 24. \n 2. Workload: HuyHQ29: 22.5h \n 3. Số lượng task Sprint 24:  <span style='color: green'>6</span>  \n 4.  Số lượng task hoàn thành: 0%, 2 (ready for dev) \n 5. Số lượng issue: 0 \n 6. Root cause: 0 \n 7. Số lượng issue fix: 0 \n 8. Khó khăn: Không \n 9. Đề xuất: Không ",
+            "date": 1682037346000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Happy Connect",
+            "text": " 1. Nội dung: \n - PM gộp sprint 6 vào sprint 5 \n - 19/4 bắt đầu sprint 5 \n 2. Workload: \n - HuyHQ29:12h \n 3. Số lượng task Sprint:  <span style='color: green'>13</span>  \n 4. Số lượng task hoàn thành:  <span style='color: green'>30%</span>, 4 (ready for stg), 2 (ready for dev) \n 5. Số lượng issue: 0 \n 6. Root cause: 0 \n 7. Số lượng issue fix: 0 (0%) \n 8. Khó khăn: Không \n 9. Đề xuất: Không  ",
+            "date": 1682037346000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Hệ thống giám sát mới",
+            "text": "1. Nội dung: \n  - Đúng tiến độ \n - Nghiên cứu luồng get thông tin device từ folder con  <span style='color: green'>100%</span>. CSOC đang pentest dự án \n 2. Workload: \n - SangTT9: 8h \n 3. Số lượng task Sprint: 0 \n 4. Số lượng task hoàn thành: 0 (0%) \n 5. Số lượng issue: 0 \n 6. Root cause: 0 \n 7. Số lượng issue fix: 0 (0%) \n 8. Khó khăn: Không \n 9. Đề xuất: Không ",
+            "date": 1682037346000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "OnCX",
+            "text": "1. Nội dung: \n - Merge code module Chat lên longchau-dev <span style='color: green'>100%</span> \n - Danh sách câu trả lời mẫu (83%) \n - Ảnh hưởng của câu trả lời mẫu (50%) \n -  Longchau - Che tin nhắn cuối tại rổ đang chờ <span style='color: green'>100%</span> \n - Hỗ trợ xóa thẻ footer livechat cho longchau <span style='color: green'>100%</span> \n - Fix bug phát sinh \n 2. Workload \n - PhiLK: 40h, LocNTX: 34h, SangTT: 14h \n 3. Số lượng task Sprint: 7 \n 4.Số lượng task hoàn thành: <span style='color: green'>3</span> (43%) \n 5. Số lượng issue: Enhancement: 2 (LocNTX: 2) \n 6. Root cause: 0 \n 7. Số lượng issue fix: 0 \n 8. Khó khăn: <span style='color: red'>Cần API từ BE, API bị lỗi</span> \n 9. Đề xuất: Không ",
+            "date": 1682037346000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        }
+    ],
+    "project_28_04_2023": [
+        {
+            "title": "Sale Online Platform",
+            "text": "Dự án đúng tiến độ\n1. Nội dung:\n- Hoàn thành sprint 14\n- Sprint planning sprint 15\n- Đúng tiến độ\n2. Tiến độ task\n    - US (#1723) chuyển sang sprint 15 do chưa có API\n    - US (#1728) đã xong tính năng nhưng còn phần loading cần BE support thêm fied trong response\n4. Khó khăn: Không\n5. Đề xuất: Không",
+            "date": 1682643049000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Dialo",
+            "text": "1. Nội dung\n- Đúng tiến độ.\n- Đang hoàn thành sprint 24\n2. Workload: HuyHQ29: 30h\n3. Số lượng task Sprint 24: 6 \n4. Số lượng task hoàn thành: 1 (stg ok), 4 (ready for stg), 1 (in progress)\n5. Số lượng issue: <span style='color: red'>6</span> \n6. Root cause: \n <span style='color: red'>hỗ trợ fix Issue của nhân sự cũ</span>\n7. Số lượng issue fix: 3 (stg ok), 2 (ready for stg), 1 (ready for dev),\n8. Khó khăn: Không\n9. Đề xuất: không",
+            "date": 1682643049000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Happy Connect",
+            "text": "1. Nội dung:\nĐang thực hiện sprint 5\n <span style='color: red'> Đang trễ tiến độ </span>\n2. Workload:\nHuyHQ29: 10h\n3. Số lượng task Sprint 5: 14\n4. Số lượng task hoàn thành:  3 (close), 1 (ready for stg), 5 (ready for dev), 5 (need info)\n5. Số lượng issue: 0\n6. Root cause: không\n7. Số lượng issue fix: 0\n8. Khó khăn: \n <span style='color: red'>có 5 task đang chờ api từ BE</span>\n9. Đề xuất: không",
+            "date": 1682643049000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Hệ thống giám sát mới",
+            "text": " <span style='color: red'> Trễ tiến độ </span>\nNguyên nhân trễ:<span style='color: red'> do CSOC pentest nên chưa lên hệ thống production\nDự kiến 8/5 hoàn tất đưa lên production và chạy chính thức cho INF </span>\nWorkload:\n- SangTT9: 2h\nKhó khăn: không\nĐề xuất: không",
+            "date": 1682643049000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "OnCX",
+            "text": "1. Công việc: \n- Danh sách câu trả lời mẫu (100%)\n- Ảnh hưởng của câu trả lời mẫu (70%)\n- Longchau - Che tin nhắn cuối tại rổ đang chờ (100%)\n- Zoom ảnh trong bóng chat ở Web (0%)\n2. Workload:\n- PhiLK: 32h\n- LocNTX: 30h\n- SangTT: 14h\n3. Số lượng task/sprint: 6\n4. Số lượng task hoàn thành: 2 (33%)\n5. Số lượng issue: 0\n6. Root cause:\n7. Số lượng issue fix:\n8. Khó khăn: Không\n9. Đề xuất: Không",
+            "date": 1682643049000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        }
+    ],
+    "project_05_05_2023": [
+        {
+            "title": "Sale Online Platform",
+            "text": "Đúng tiến độ \n1. Nội dung:\n- Thực hiện task sprint 15\n- Đúng tiến độ\n2. Tiến độ task\n    - US (#1977) Đã xử lý luồng authen cho mobile app dự vào token params\n    - US (#1728) đã xong tính năng nhưng còn phần loading cần BE support thêm fied trong response\n3. Workload:\n     - SangTT9 (12h)\n     - KhanhTV21 (0h)\n     - DucNC10 (16h)\n4. Khó khăn: Không\n5. Đề xuất: Không",
+            "date": 1683259144000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Dialo",
+            "text": "Đúng tiến độ.\n1. Nội dung\n- Đúng tiến độ.\n- Đang thực hiện: Hoàn thành sprint 24\n2. Workload: HuyHQ29: 6h\n3. Số lượng task Sprint 24: 7 \n4. Số lượng task hoàn thành: 1 (stg ok), 5 (ready for stg), 1 (ready for dev)\n5. Số lượng issue: <span style='color: red'>3</span>\n6. Root cause: hỗ trợ fix Issue của nhân sự cũ,\n#1604: không ràng đủ trường hợp\n#1601: thiếu thông báo lỗi trên giao diện\n#1598: thay đổi theo yêu cầu của Tester\n7. Số lượng issue fix:  2 (ready for stg), 1 (ready for dev),\n8. Khó khăn: Không\n9. Đề xuất: không",
+            "date": 1683259144000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Happy Connect",
+            "text": "Đang trễ tiến độ\n1. Nội dung:\nHoàn thành sprint 5, đang test\nĐúng tiến độ\n2. Workload:\nHuyHQ29: 10h\n3. Số lượng task Sprint 5: 14\n4. Số lượng task hoàn thành:  3 (close), 11 (ready for stg)\n5. Số lượng issue: 0\n6. Root cause: không\n7. Số lượng issue fix: 0\n8. Khó khăn: không\n9. Đề xuất: không",
+            "date": 1683259144000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Hệ thống giám sát mới",
+            "text": "- Đúng tiến độ\nCSOC đã hoàn thành pentest vào ngày 28.4 phát hiện 2 lỗi (1 nguy cơ cao, 1 nguy cơ thấp).\n04.05 SCC đã fix lỗi và CSOC đã confirm ok\nChuẩn bị chạy chính thức\nWorkload:\n- SangTT9: 0h\nKhó khăn: không\nĐề xuất: không",
+            "date": 1683259144000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "OnCX",
+            "text": "1. Công việc: \n- Danh sách câu trả lời mẫu (100%)\n- Ảnh hưởng của câu trả lời mẫu (FE 100%)\n- Zoom ảnh trong bóng chat ở Web (0%)\n2. Workload:\n- PhiLK: 16h\n- LocNTX: 16h\n- SangTT: \n3. Số lượng task/sprint: 6\n4. Số lượng task hoàn thành: 3 (50%)\n5. Số lượng issue: 0\n6. Root cause:\n7. Số lượng issue fix:\n8. Khó khăn: Không\n9. Đề xuất: Không",
+            "date": 1683259144000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        }
+    ],
+    "project_12_05_2023": [
+        {
+            "title": "Sale Online Platform",
+            "text": "Trễ tiến độ:\n1. Công việc:\n- Thực hiện sprint 16\n2. Tiến độ task (sprint 16):\n- KhanhTV21: 2 inprogess, 10 ready for test\n- DucNC10: 6 new, 4 inprogess, 4 ready for test\n- SangTT9: 1 inprogess, 5 ready for test\n3. Bug:\n- DucNC10: 4 new, 2 Ready for test, 1 Need info\n3.Workload:\n- SangTT9(16h)\n- KhanhTV21(32h)\n- DucNC10(40h)\n4.Khó khăn:\n- Phần Zalo làm lại logic nên một vài US chưa có API để tích hợp\n5. Đề xuất:\n- Không",
+            "date": 1683860419000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Dialo",
+            "text": "'Đúng tiến độ.\n1. Nội dung\n- Đúng tiến độ.\n- Đang thực hiện sprint 25 \n2. Workload: HuyHQ29: 34h\n3. Số lượng task Sprint 25: 7 \n4. Số lượng task hoàn thành: 5 (ready for stg), 1 (ready for dev), 1 (inprogress)\n5. Số lượng issue: 0\n6. Root cause: 0\n7. Số lượng issue fix:  0\n8. Khó khăn: Không\n9. Đề xuất: không",
+            "date": 1683860419000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Happy Connect",
+            "text": "Đúng tiến độ\n1. Nội dung:\nHoàn thành sprint 6\nĐúng tiến độ\n2. Workload:\nHuyHQ29: 6h\n3. Số lượng task Sprint 6: 5\n4. Số lượng task hoàn thành:  5 (ready for stg)\n5. Số lượng issue: 0\n6. Root cause: không\n7. Số lượng issue fix: 0\n8. Khó khăn: không\n9. Đề xuất: không",
+            "date": 1683860419000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Hệ thống giám sát mới",
+            "text": "- Đúng tiến độ\nHoàn thành KH deploy lên môi trường production\nCutomize UI image checkmk\nWorkload:\n- SangTT9: 8h\nKhó khăn: không\nĐề xuất: không",
+            "date": 1683860419000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "OnCX",
+            "text": "1. Công việc: \n- Bổ sung chức năng Canned response (FE 100%)\n- Đồng bộ title pop-up (100%)\n- Zoom ảnh trong bóng chat ở Web (50%)\n- Fix bug phát sinh\n2. Workload:\n- PhiLK: 40h\n- LocNTX: 32h\n- SangTT: 10h\n3. Số lượng task/sprint: 7\n4. Số lượng task hoàn thành: 2 (29%)\n5. Số lượng issue: 13\n6. Root cause:\nMiss logic/require: LocNTX(1 - support),\nBug Enhancement: LocNTX(2), PhiLK(2)\nMiss task: PhiLK(1)\nMiss communication: PhiLK(1)\nBug thư viện: PhiLK(2)\n7. Số lượng issue fix: 9\n8. Khó khăn: Không\n9. Đề xuất: Không",
+            "date": 1683860419000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        }
+    ],
+    "project_18_05_2023": [
+        {
+            "title": "Sale Online Platform",
+            "text": "Trễ tiến độ:\n1. Công việc:\n- Thực hiện sprint 16\n2. Tiến độ task (sprint 16):\n- KhanhTV21: 2 inprogess, 10 ready for test\n- DucNC10: 6 new, 4 inprogess, 4 ready for test\n- SangTT9: 1 inprogess, 5 ready for test\n3. Bug:\n- DucNC10: 4 new, 2 Ready for test, 1 Need info\n3.Workload:\n- SangTT9(16h)\n- KhanhTV21(32h)\n- DucNC10(40h)\n4.Khó khăn:\n- Phần Zalo làm lại logic nên một vài US chưa có API để tích hợp\n5. Đề xuất:\n- Không",
+            "date": 1684458077000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Dialo",
+            "text": "Đúng tiến độ.\n1. Nội dung\n- Đúng tiến độ.\n- Đang thực hiện sprint 25 \n2. Workload: HuyHQ29: 34h\n3. Số lượng task Sprint 25: 7 \n4. Số lượng task hoàn thành: 5 (ready for stg), 1 (ready for dev), 1 (inprogress)\n5. Số lượng issue: 0\n6. Root cause: 0\n7. Số lượng issue fix:  0\n8. Khó khăn: Không\n9. Đề xuất: không",
+            "date": 1684458077000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Happy Connect",
+            "text": "Đúng tiến độ\n1. Nội dung:\nHoàn thành sprint 6\nĐúng tiến độ\n2. Workload:\nHuyHQ29: 6h\n3. Số lượng task Sprint 6: 5\n4. Số lượng task hoàn thành:  5 (ready for stg)\n5. Số lượng issue: 0\n6. Root cause: không\n7. Số lượng issue fix: 0\n8. Khó khăn: không\n9. Đề xuất: không",
+            "date": 1684458077000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Hệ thống giám sát mới",
+            "text": "Đúng tiến độ\nHoàn thành xây dựng tool quản lý config và db cho checkMK\nWorkload:\n- SangTT9: 0h\nKhó khăn: không\nĐề xuất: không",
+            "date": 1684458077000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "OnCX",
+            "text": "1. Công việc: \n- Bổ sung chức năng Canned response (FE 100%)\n- Đồng bộ title pop-up (100%)\n- Zoom ảnh trong bóng chat ở Web (100%)\n- Fix bug phát sinh\n2. Workload:\n- PhiLK: 40h\n- LocNTX: 32h\n- SangTT: 10h\n3. Số lượng task/sprint: 7\n4. Số lượng task hoàn thành: 2 (29%)\n5. Số lượng issue: 13\n6. Root cause:\nMiss logic/require: LocNTX(1 - support),\nBug Enhancement: LocNTX(2), PhiLK(2)\nMiss task: PhiLK(1)\nMiss communication: PhiLK(1)\nBug thư viện: PhiLK(2)\n7. Số lượng issue fix: 9\n8. Khó khăn: Không\n9. Đề xuất: Không",
+            "date": 1684458077000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        }
+    ],
+    "project_26_05_2023": [
+        {
+            "title": "Sale Online Platform",
+            "text": "Đúng tiến độ:\n1. Công việc:\n- Hoàn thành sprint 16, thực hiện sprint 17, fix bug srpint 14,15,16\n2. Bug:\n- KhanhTV21: 8 new, 2 ready for test\n- DucNC10: 2 new, 1 inprogess, 8 ready for test\n- SangTT9: 1 new\n3.Workload:\n- SangTT9(16h)\n- KhanhTV21(32h)\n- DucNC10(40h)\n- LocNTX (8h)\n4.Khó khăn:\n- Không\n5. Đề xuất:\n- Không",
+            "date": 1685061734000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Dialo",
+            "text": "Đúng tiến độ.\n1. Nội dung\n- Đúng tiến độ.\n- Hoàn thành task sprint 25 \n2. Workload:\n HuyHQ29: 34h \n PhiLK: 8h, làm quen dự án\n3. Số lượng task Sprint 25: 7 \n4. Số lượng task hoàn thành: 7 (done),\n5. Số lượng issue: 5\n6. Root cause: \n#1659: Thiếu sót/gặp lỗi do chủ quan\n#1660: phát sinh từ #1659\n#1670: Hiểu sai yêu cầu\n#1676: Nhân sự cũ comment lại đoạn code, không rõ nguyên nhân\n7. Số lượng issue fix:  3 (stg ok), 1 (ready for stg)\n8. Khó khăn: Không\n9. Đề xuất: không",
+            "date": 1685061734000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Happy Connect",
+            "text": "1. Nội dung:\nPlanning sprint 7 24.5, thực hiện task vào 25.5\n2. Workload:\nHuyHQ29: 6h\n3. Số lượng task Sprint 7: 9\n4. Số lượng task hoàn thành:  2 (in progress)\n5. Số lượng issue: 0\n6. Root cause: không\n7. Số lượng issue fix: 0\n8. Khó khăn: không\n9. Đề xuất: không",
+            "date": 1685061734000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Hệ thống giám sát mới",
+            "text": "Đúng tiến độ\nHoàn thành xây dựng tool quản lý config và db cho checkMK\nWorkload:\n- SangTT9: 0h\nKhó khăn: không\nĐề xuất: không",
+            "date": 1685061734000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "OnCX",
+            "text": "1. Công việc: \n- Fix bug phát sinh\n2. Workload:\n- PhiLK: 32h\n- LocNTX: 24h\n- SangTT:\n3. Số lượng task/sprint: 3\n4. Số lượng task hoàn thành: 3 (100%)\n5. Số lượng issue: 10\n6. Root cause:\nMiss logic/require: LocNTX(1, 3 - support),\nBug Enhancement: LocNTX(3)\nBug thiếu/conflict khi merge code: LocNTX(2)\nBug thư viện: PhiLK(1)\n7. Số lượng issue fix: 10\n8. Khó khăn: Không\n9. Đề xuất: Không",
+            "date": 1685061734000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        }
+    ],
+    "project_02_06_2023": [
+        {
+            "title": "Sale Online Platform",
+            "text": "Đúng tiến độ:\n1. Công việc:\n- Thực hiện sprint 17, fix bug srpint 14,15,16\n2. Bug:\n- KhanhTV21: 3 new, 4 inprogress, 12 ready at dev, 7 need info\n- DucNC10: 6 ready at dev, 5 ready for test\n- SangTT9: 3 new, 2 ready at dev, 1 ready for test\n3.Workload:\n- SangTT9(16h)\n- KhanhTV21(32h)\n- DucNC10(40h)\n- LocNTX (20h)\n<span style='color: yellow'>4.Khó khăn:</span>\n- <span style='color: red'>Do chốt version mobile để test trên stg (app SC), nên chưa có app để test môi trường dev => cần tạo 1 app để test cho môi trường dev. Giải pháp Saleclub hỗ trợ tích hợp thêm môi trường dev lên app test saleclub dự kiến hoàn thành vào đầu tuần sau</span>\n5. Đề xuất:\n- Không",
+            "date": 1685671551000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Dialo",
+            "text": "Đúng tiến độ.\n1. Nội dung\n- Thực hiện task sprint 26 \n2. Workload: \nHuyHQ29: 20h\nPhiLK: 16h\n3. Số lượng task Sprint 26: 8 \n4. Số lượng task hoàn thành: 5 (ready for dev)\n5. Số lượng issue: 3 (HuyHQ29)  \n6. Root cause: \n#1698: Thiếu mô tả, phân quyền page\n#1695: Thiếu kinh nghiệm, kiến thức liên quan\n#1694: Thiếu sót, gặp lỗi chủ quan\n7. Số lượng issue fix:  3 (stg ok)\n8. Khó khăn: Không\n9. Đề xuất: không",
+            "date": 1685671551000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Happy Connect",
+            "text": "Đúng tiến độ\n1. Nội dung:\nThực hiện task sprint 7,\n2. Workload:\nHuyHQ29: 12h\n3. Số lượng task Sprint 7: 9\n4. Số lượng task hoàn thành:  6 (ready for dev), 3 (needs info) chờ api integrate\n5. Số lượng issue: 0\n6. Root cause: không\n7. Số lượng issue fix: 0\n8. Khó khăn: không\n9. Đề xuất: không",
+            "date": 1685671551000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Hệ thống giám sát mới",
+            "text": "- Đúng tiến độ\nLấy các chỉ số thiết bị trên graph CheckMK (100%)\nHọp trao đổi về hướng phát triển tiếp theo ngày 30/05\nWorkload:\n- SangTT9: 8h\nKhó khăn: không\nĐề xuất: không",
+            "date": 1685671551000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "OnCX",
+            "text": "1. Công việc: \n- #7528 [Ver 1.5.0] Thống nhất nội dung alert và message cho chức năng Canned Response + CRM (100%)\n- Fix bug phát sinh\n2. Workload:\n- PhiLK: 4h\n- LocNTX: 14h\n- SangTT: 0h\n3. Số lượng task/sprint: 1\n4. Số lượng task hoàn thành: 1 (100%)\n5. Số lượng issue: 4\n6. Root cause:\nBug Enhancement: LocNTX(4)\n7. Số lượng issue fix: 4\n8. Khó khăn: Không\n9. Đề xuất: Không",
+            "date": 1685671551000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        }
+    ],
+    "project_16_06_2023": [
+        {
+            "title": "Sale Online Platform",
+            "text": "<span style='color: red'>Trễ tiến độ.</span>\n Nguyên nhân: chưa validate được hết trường hợp lỗi, chưa test hết trên các môi trường trên mobile khi tester vào test (test chủ yếu trên webview)\n Giải pháp: làm rõ các trường hợp phát sinh issue, trao đổi trước với BA và tester các trường hợp chưa rõ, xây dựng đầy đủ các môi trường test\n1. Công việc:\n- Thực hiện sprint 18, fix bug srpint 14, 15, 16, 17\n2. Bug:\n- KhanhTV21: 2 new, 3, ready at dev, 14 need info ( 7 block issue)\n- DucNC10: 6 ready for test\n- SangTT9: 2 ready at dev, 1 ready for test, 1 need info\n3.Workload:\n- SangTT9(24h)\n- KhanhTV21(32h)\n- DucNC10(40h)\n- LocNTX (20h)\n4.Khó khăn:\n- Có các issue mobile cần ISC hỗ trợ => đã nhờ PM liên hệ với ISC để support \n5. Đề xuất:\n- Không",
+            "date": 1685671551000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Dialo",
+            "text": "Đúng tiến độ.\n1. Nội dung\n- Hoàn thành sprint 26\n2. Workload: \nHuyHQ29: 20h\nPhiLK: 8h, làm quen dự án\n3. Số lượng task Sprint 26 \n4. Số lượng task hoàn thành: 7 (done), 4 (need info)\n4 task need info sẽ được chuyển sang sprint 27 thực hiện\n5. Số lượng issue: 0 \n6. Root cause: 0\n7. Số lượng issue fix: 0\n8. Khó khăn: Không\n9. Đề xuất: không",
+            "date": 1685671551000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Happy Connect",
+            "text": "Đúng tiến độ\n1. Nội dung:\nPlanning sprint 8 15/6, start sprint 8 từ 16/6 đến 30/6\nThực hiện task sprint 8,\n2. Workload:\nHuyHQ29: 12h\n3. Số lượng task Sprint 8: 8\n4. Số lượng task hoàn thành:  0\n5. Số lượng issue: 0\n6. Root cause: không\n7. Số lượng issue fix: 0\n8. Khó khăn: không\n9. Đề xuất: không",
+            "date": 1685671551000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Hệ thống giám sát mới",
+            "text": "Đúng tiến độ\nNghiên cứu api khi apply plugins dự kiến hoàn thành vào 23.06\nWorkload:\n- SangTT9: 4h\nKhó khăn: không\nĐề xuất: không",
+            "date": 1685671551000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "OnCX",
+            "text": "1. Công việc: \n- #8206 [Ver 1.5.0][User] Quản lý lịch sử đăng nhập (100%)\n- #8211 Auto popup link imind DKSH (100%)\n- #7805 [chat chủ động]- Hiển thị Last message khi hover vào bóng chat (100%)\n- #7528 [Ver 1.5.0] Thống nhất nội dung alert và message cho chức năng Canned Response + CRM (100%)\n- Fix bug phát sinh\n2. Workload:\n- PhiLK: 18h\n- LocNTX: 12h\n- SangTT: 0h\n3. Số lượng task/sprint: 4\n4. Số lượng task hoàn thành: 4 (100%)\n5. Số lượng issue: 3\n6. Root cause:\nMiss Task: PhiLK(1)\nBug Enhancement: LocNTX(2)\n7. Số lượng issue fix: 3\n8. Khó khăn: Không\n9. Đề xuất: Không",
+            "date": 1685671551000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        }
+    ]
+}

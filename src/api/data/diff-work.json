@@ -1,0 +1,734 @@
+{
+  "diff_work_default": [
+    {
+      "title": "OKR",
+      "text": "- Đang cập nhật",
+      "date": 1672566833445,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "KPI",
+      "text": "- Đang cập nhật",
+      "date": 1672566833445,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Vấn đề phát sinh khác",
+      "text": "- Đang cập nhật",
+      "date": 1672566833445,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Innovation",
+      "text": "- Đang cập nhật",
+      "date": 1672566833445,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Công việc tuần tới",
+      "text": "- Đang cập nhật",
+      "date": 1672566833445,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    }
+  ],
+  "diff_work_24_02_2023": [
+    {
+      "title": "OKR",
+      "text": "I. Nghiên cứu công nghệ: \n ĐứcNC10 - Nghiên cứu Voice Search Optimization (90%): Dự kiến tuần sau demo web tích hợp Voice Search Optimization vào ngày 23.2 \n LộcNTX, HuyHQ29: Nghiên cứu Storybook (100%): Tiến hành code demo interactive history storybook,  room storybook, dự kiến demo vào ngày 23.2 \nKhánhTV21: Chrome extension (40%) \n TàiVP: Nâng performance dự án Dialo (15%): Đang refactor lại cấu trúc dự án \nThànhNV97: Triển khai tool cho đội Dịch vụ (95%) \n II. Hoàn thành khó học, chứng chỉ: \n PhiLK: Khóa học mobile flutter: 50%, Demo Flutter: (20%) \n III. Hoàn thành tool: \n Nghiên cứu xây dựng tool thống kế KPI, OKR: 50%, đang bị pening do thực hiện innovation",
+      "date": 1673932252000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "KPI",
+      "text": "I. Hoàn thành docs tính năng API (Flow, data schema, swimlane logic) trên mỗi task được nhận (trừ trường hợp được SA-BA confirm không cần làm) : Đạt. \nII. Hoàn thành update đủ thông tin task trên taiga \n 1. Mô tả task (input-output) \n 2. Bằng chứng hoàn thành khi chuyển từ inprogress sang ready to test - FE screenshot UI trên mt dev, merge request; BE screenshot Postman API trên mt dev, merge request. \n 3. Integration test/unit test \n Đạt. \n III. Có số bugs được report trong mỗi tính năng của 1 sprint dự án <= 2 (Bug tính theo miss logic, miss require, miss task, miss communication): Đạt \n IV: Đảm bảo số lần CBQL nhắc nhở, khiển trách về công việc, thái độ trách nhiệm của bản thân = 0 lần: SangTT9 bị nhắc nhở về báo cáo và đánh giá SVTT",
+      "date": 1673932252000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Bàn giao công việc",
+      "text": "Tiến độ bàn giao UyTKG: Đã hoàn thành bàn giao và update tài liệu lên thư mục bàn giao",
+      "date": 1673932252000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Phong trào",
+      "text": "Team tham gia thử thách Health or Heo trên Foxstep. Có 10/10 nhân sự trong team đã đạt > 7km đầu tiên (19%). HuyHG3 đã đạt chỉ tiêu đầu tiên trong phong trào \n - ThànhNV97 lên KH phong trào cầu lông",
+      "date": 1673932252000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Innovation",
+      "text": "- Đã gửi bản mô tả tóm tắt sản phẩm \n- Đang chuẩn bị nội dung cho sản phẩm. Báo cáo tiến độ với BGĐ vào 17/02 \n - Hoàn thành bản nội dung gửi BGĐ vào tuần tới",
+      "date": 1673932252000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Công việc tuần tới",
+      "text": "I. Dự án \n - OnCX: Test lại sản phẩm trên UAT, hỗ trợ tester test fix bug nếu có phát sinh \n - SOP: Demo sp cho a Hải BGĐ (22/02) \n - Dialo: Test production và tiếp tục làm task sprint 21 \n - Omnichannel: Chờ PM thông tin lại thông tin phát triển phase 2 do chưa rõ ràng các tính năng phải phát triển trong Phase 2 và thời gian cần để hoàn thành được Phase 2 \n II. Nghiên cứu xây dựng tool thống kê KPI, OKR: \n Đang pending do ưu tiên thực hiện Innovation. Trao đổi thống nhất với CBQL và DươngNTT chốt timeline thực hiện",
+      "date": 1673932252000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    }
+  ],
+  "diff_work_28_02_2023": [
+    {
+      "title": "OKR",
+      "text": "1. Nghiên cứu công nghệ \n - ĐứcNC10 - Đã demo web tích hợp Voice Search Optimization vào ngày 23.2 \n - LộcNTX, HuyHQ29: Đã demo vào ngày 23.2 \n - KhánhTV21: Chrome extension (40%)\n - TàiVP: Nâng performance dự án Dialo (75%): Đã gửi mail bản đánh giá \n - ThànhNV97: Triển khai tool cho đội Dịch vụ (100%) \n 2. Hoàn thành khoá học, chứng chỉ \n - PhiLK: Khoá học mobile flutter: 60%, Demo Flutter: (50%) dự kiến tháng 3 demo ứng dụng \n 3. Hoàn thành tool \n - - Nghiên cứu xây dựng tool thống kê KPI, OKR: 80% hoàn thành nghiên cứu api fproject và taiga",
+      "date": 1677561052000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "KPI",
+      "text": "1. Hoàn thành docs về tính năng - API (Flow, data schema, swimlane logic) trên mỗi task được nhận (trừ trường hợp được SA-BA confirm không cần làm): Đạt \n 2. Hoàn thành update đủ thông tin task trên taiga 1. Mô tả task (input-output), 2. bằng chứng hoàn thành khi chuyển từ ingrogress sang ready to test - FE screenshot UI trên mt dev, merge request; BE screenshot Postman API trên mt dev, merge request; 3.integration test/ unit test: Đạt \n 3. Có số bugs được report trong mỗi tính năng của 1 sprint dự án <= 2 (Bug tính theo miss logic, miss require, miss task, miss communication): Đạt \n 4. Đảm bảo số lần CBQL nhắc nhở, khiển trách về công việc, thái độ trách nhiệm của bản thân = 0 lần: Đạt",
+      "date": 1677561052000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Vấn đề phát sinh khác",
+      "text": "1. Phong trào RnD \n - Kết thúc phong trào tham gia thử thách Health or Heo trên Foxstep. ThànhNV97 đạt giải vô địch, HuyHG3 đạt giải tăng tốc \n 2. Tiếp nhận SVTT ở HNI \n - Đã đánh giá và gửi cho HR \n 3. Autocall đội VH phát IVR bị delay \n - Đã clone source code test autocall",
+      "date": 1677561052000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Innovation",
+      "text": "Trình bày ý tưởng lần 1 vào ngày 28/2 nhận góp ý từ BGĐ, đang chỉnh sửa và hoàn thiện slide, trình bày lại vào ngày 7/3",
+      "date": 1677561052000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Công việc tuần tới",
+      "text": "1. Dự án \n - OnCX: Test lại sản phẩm trên môi trường UAT, fix bug phát sinh. Nghiên cứu sprint 30 \n - SOP: Join test cùng với team tester, tích hợp integration test vào dự án SOP, support BE refactor ở dev \n - Dialo: Check môi trường production 27,28 (deploy ngày 24) Dự kiến start sprint ngày 01.03 \n - Hệ thống giám sát mới: Phối hợp với PM và system test khi triển khai lên môi trường production \n - Happy Connect: PM chưa có kế hoạch cho tuần sau \n 2. Nghiên cứu xây dựng tool thống kế KPI, OKR \n - Thống nhất data cần sync, trao đổi với PM và DươngNTT63 thông nhất các trường data cần sync: status, spent time, duedate \n",
+      "date": 1677561052000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    }
+  ],
+  "diff_work_3_03_2023": [
+    {
+      "title": "OKR",
+      "text": "I. Nghiên cứu công nghệ: \n ĐứcNC10 - Đã demo web tích hợp Voice Search Optimization vào ngày 23.2 \n LộcNTX, HuyHQ29: Đã demo vào ngày 23.2 \nKhánhTV21: Chrome extension (40%) \n TàiVP: Nâng performance dự án Dialo - Tiến độ 40% \nThànhNV97: Triển khai tool cho đội Dịch vụ (100%) \n II. Hoàn thành khó học, chứng chỉ: \n PhiLK: Khóa học mobile flutter: 60%, Demo Flutter: (50%) dự kiến tháng 3 demo ứng dụng \n III. Hoàn thành tool: \n  Nghiên cứu xây dựng tool thống kê KPI, OKR: 80% hoàn thành nghiên cứu api fproject và taiga",
+      "date": 1677837233445,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "KPI",
+      "text": "I. Hoàn thành docs tính năng API (Flow, data schema, swimlane logic) trên mỗi task được nhận (trừ trường hợp được SA-BA confirm không cần làm) : Đạt. \nII. Hoàn thành update đủ thông tin task trên taiga \n 1. Mô tả task (input-output) \n 2. Bằng chứng hoàn thành khi chuyển từ inprogress sang ready to test - FE screenshot UI trên mt dev, merge request; BE screenshot Postman API trên mt dev, merge request. \n 3. Integration test/unit test \n Đạt. \n III. Có số bugs được report trong mỗi tính năng của 1 sprint dự án <= 2 (Bug tính theo miss logic, miss require, miss task, miss communication): Đạt \n IV: Đảm bảo số lần CBQL nhắc nhở, khiển trách về công việc, thái độ trách nhiệm của bản thân = 0 lần: SangTT9 bị nhắc nhở về báo cáo và đánh giá SVTT",
+      "date": 1677837233445,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Vấn đề phát sinh khác",
+      "text": "I. Autocall đội VH phát IVR bị delay \n - Đã clone source code test autocall  \n II. Tiếp nhận SVTT ở HNI \n - Đã đánh giá và gửi cho HR \n III. Phong trào RND \n - Kết thúc phong trào tham gia thử thách Health or Heo trên Foxstep. ThànhNV97 đạt giải vô địch, HuyHG3 đạt giải tăng tốc",
+      "date": 1677837233445,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Innovation",
+      "text": " Trình bày ý tưởng lần 1 vào ngày 28/2 nhận góp ý từ BGĐ, đang chỉnh sửa và hoàn thiện slide, trình bày lại vào ngày 7/3 ",
+      "date": 1677837233445,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Công việc tuần tới",
+      "text": "I. Dự án \n - OnCX: Test lại sản phẩm trên môi trường UAT, fix bug phát sinh. Nghiên cứu sprint 30 \n - SOP: Join test cùng với team tester, tích hợp integration test vào dự án SOP, support BE refactor ở dev \n - Dialo: Thực hiện các tasks sprint 22. Dự kiến start sprint ngày 01.03 \n Hệ thống giám sát mới: Phối hợp với PM và system test khi triển khai lên môi trường production  \n II. Nghiên cứu xây dựng tool thống kê KPI, OKR: \n Thống nhất data cần sync, trao đổi với PM và DươngNTT63 thống nhất các trường data cần sync: status, spent time, duedate ",
+      "date": 1677837233445,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    }
+  ],
+  "diff_work_10_03_2023": [
+    {
+      "title": "OKR",
+      "text": "I. Nghiên cứu công nghệ: \n ĐứcNC10 - Đã demo web tích hợp Voice Search Optimization vào ngày 23.2 \n LộcNTX, HuyHQ29: Tích hợp storybook vào happy-connect \nKhánhTV21: Chrome extension (60%) \n TàiVP: Nâng performance dự án Dialo (75%): Đang refactor lại cấu trúc dự án \nThànhNV97: Triển khai tool cho đội Dịch vụ (95%) \n II. Hoàn thành khó học, chứng chỉ: \n PhiLK: Khóa học mobile flutter: 75%, Demo Flutter: (65%) \n III. Hoàn thành tool: \n Nghiên cứu xây dựng tool thống kế KPI, OKR: 85%, đã xây dựng api fproject lấy được các thông tin project, task",
+      "date": 1678414553023,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "KPI",
+      "text": "I. Hoàn thành docs tính năng API (Flow, data schema, swimlane logic) trên mỗi task được nhận (trừ trường hợp được SA-BA confirm không cần làm) : Đạt. \nII. Hoàn thành update đủ thông tin task trên taiga \n 1. Mô tả task (input-output) \n 2. Bằng chứng hoàn thành khi chuyển từ inprogress sang ready to test - FE screenshot UI trên mt dev, merge request; BE screenshot Postman API trên mt dev, merge request. \n 3. Integration test/unit test \n Đạt. \n III. Có số bugs được report trong mỗi tính năng của 1 sprint dự án <= 2 (Bug tính theo miss logic, miss require, miss task, miss communication): Đạt \n IV: Đảm bảo số lần CBQL nhắc nhở, khiển trách về công việc, thái độ trách nhiệm của bản thân = 0 lần: SangTT9 bị nhắc nhở về báo cáo và đánh giá SVTT",
+      "date": 1678414553023,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Vấn đề phát sinh khác",
+      "text": "I. Thực hiện KH Xử lý lỗi miss sự cố trên IM-EM \n - Phối hợp với CADS hoàn thành KH bắn thông tin ticket version 2, issue_id cho CADS vào tối ngày 03/03 \n II. Trao đổi BPMN với đội VH \n - Chốt thời gian trao đổi, riview flow BPMN hiện tại, công nghệ và hướng phát triển cho sản phẩm khi áp dụng workflow \n III. Phong trào RND \n - 100% thành viên trong team tham gia phong trào SCC Happy Race 2023",
+      "date": 1678414553023,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Innovation",
+      "text": " Trình bày ý tưởng lần 3 vào ngày 10/3 nhận góp ý từ BGĐ, đang chỉnh sửa và hoàn thiện slide, dự thi vào ngày 15/3",
+      "date": 1678414553023,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Công việc tuần tới",
+      "text": "I. Dự án \n - OnCX: Test lại sản phẩm trên UAT, fix bug phát sinh. Bắt đầu làm tính năng ở sprint 30, tính năng custom cho khách hàng Long Châu \n - SOP: Đưa các tính năng đã refactor lên UAT và thực hiện test \n - Dialo: Thực hiện các tasks sprint 22, Dự kiến start sprint ngày 01.03 \n Hệ thống giám sát mới: Test/Verify/Optimize/Fix bug hệ thống \n II. Nghiên cứu xây dựng tool thống kê KPI, OKR: \n Thống nhất data cần sync, trao đổi với PM và DươngNTT63 thống nhất các trường data cần sync: status, spent time, duedate ",
+      "date": 1678414553023,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    }
+  ],
+  "diff_work_17_03_2023": [
+    {
+      "title": "OKR",
+      "text": "I. Nghiên cứu công nghệ: \n ĐứcNC10 - Nghiên cứu n8n và zapier (20%)  \n LộcNTX: Bản mô tả và đề xuất tính năng đánh giá nhân sự (30%) \n HuyHQ29: Nhận bàn giao dự án Dialo, tool KHĐ \n KhánhTV21: Nghiên cứu webview (40%) \n SangTT9: Kế hoạch đo kiểm hiệu suất api (20%) \nThànhNV97: Triển khai tool cho đội Dịch vụ (100%) \n II. Hoàn thành khó học, chứng chỉ: \n \n III. Hoàn thành tool: \n - Nghiên cứu xây dựng tool thống kê KPI, OKR: 100% đã xây dựng api fproject lấy được các thông tin project, task. Đồng bộ task từ taiga sang fproject",
+      "date": 1679020483539,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "KPI",
+      "text": "I. Hoàn thành docs tính năng API (Flow, data schema, swimlane logic) trên mỗi task được nhận (trừ trường hợp được SA-BA confirm không cần làm) : Đạt. \nII. Hoàn thành update đủ thông tin task trên taiga \n 1. Mô tả task (input-output) \n 2. Bằng chứng hoàn thành khi chuyển từ inprogress sang ready to test - FE screenshot UI trên mt dev, merge request; BE screenshot Postman API trên mt dev, merge request. \n 3. Integration test/unit test \n Đạt. \n III. Có số bugs được report trong mỗi tính năng của 1 sprint dự án <= 2 (Bug tính theo miss logic, miss require, miss task, miss communication): Đạt \n IV: Đảm bảo số lần CBQL nhắc nhở, khiển trách về công việc, thái độ trách nhiệm của bản thân = 0 lần: SangTT9 bị nhắc nhở về báo cáo và đánh giá SVTT",
+      "date": 1679020483539,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Vấn đề phát sinh khác",
+      "text": "I. Phong trào RND \n - 100% thành viên trong team tham gia phong trào SCC Happy Race 2023 \n II. Trao đổi BPMN với đội VH \n - Chốt phương án xây dựng lại BPMN và quy trình khai báo action flow theo ngôn ngữ python \n Đội VH cần mô tả rõ các yêu cầu về usecase, quy trình, kết quả mong muốn \n III. SVTT \n - HuyHG3 hết hợp đồng SVCNTS vào 30.4 \n - âm SVTT đang thực hiện ôn thi, tháng sau sẽ lên cty tiếp tục thực tập 8 buổi/tuần",
+      "date": 1679020483539,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Innovation",
+      "text": "Team dự thi innovation vào ngày 15.3 (SangTT9, TaiVP, LocNTX, KhanhTV21, HuyHQ29, PhiLK)",
+      "date": 1679020483539,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Công việc tuần tới",
+      "text": "I. Dự án \n - OnCX: Tiếp tục làm các tính năng custom cho 2 khách hàng: Long Châu và DKSH. Fix bug phát sinh (nếu có) \n - SOP: Fix bug trên stg nếu có, đưa code lên UAT \n - Dialo: Tiếp tục sửa lại luồng call, test luồng call mới và thực hiện sprint 23, Dự kiến start sprint ngày 23.03 \n Hệ thống giám sát mới: Phối hợp với team BE build api cho hệ thống \n II. Nghiên cứu xây dựng tool thống kê KPI, OKR: \n Hoàn thành tính năng tự động tạo task từ taiga sang fproject vào 21.3 \n III. Kế hoạch CFR, Báo cáo kết quả OKR quý 1, thiết lập OKR quý 2 \n - CFR với CBQL vào ngày 21.3, thực hiện báo cáo kết quả OKR Q1.2023, thiết lập OKR Q2.2023 trong tuần sau",
+      "date": 1679020483539,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    }
+  ],
+  "diff_work_24_03_2023": [
+    {
+      "title": "OKR",
+      "text": "I. Nghiên cứu công nghệ: \n Hoàn thành OKR và đã demo web tích hợp Voice Search Optimization vào ngày 23.3 \n LộcNTX: Hoàn thành OKR, tích hợp storybook vào Oncx (100%) demo vào ngày 23.3 \n HuyHQ29: Hoàn thành OKR, Tích hợp storybook vào happy-connect (100%) demo vào ngày 23.3 \n KhánhTV21: Chrome extension (100%) demo vào ngày 23.3\n TàiVP: Nâng performance dự án Dialo - Tiến độ 100%. Đã gửi bản báo cáo \nThànhNV97: Triển khai tool cho đội Dịch vụ (100%)  \n PhiLK: Khóa học mobile flutter: 100%, Demo Flutter: (100%) \n III. Hoàn thành tool: \n Nghiên cứu xây dựng tool thống kê KPI, OKR: 100% đã xây dựng api fproject lấy được các thông tin project, task. Đồng bộ task từ taiga sang fproject",
+      "date": 1679625024246,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "KPI",
+      "text": "I. Hoàn thành docs tính năng API (Flow, data schema, swimlane logic) trên mỗi task được nhận (trừ trường hợp được SA-BA confirm không cần làm) : Đạt. \nII. Hoàn thành update đủ thông tin task trên taiga \n 1. Mô tả task (input-output) \n 2. Bằng chứng hoàn thành khi chuyển từ inprogress sang ready to test - FE screenshot UI trên mt dev, merge request; BE screenshot Postman API trên mt dev, merge request. \n 3. Integration test/unit test \n Đạt. \n III. Có số bugs được report trong mỗi tính năng của 1 sprint dự án <= 2 (Bug tính theo miss logic, miss require, miss task, miss communication): Đạt \n IV: Đảm bảo số lần CBQL nhắc nhở, khiển trách về công việc, thái độ trách nhiệm của bản thân = 0 lần: Không đạt. Khánh bị nhắc nhở join daily ngày 24.3",
+      "date": 1679625024246,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Vấn đề phát sinh khác",
+      "text": "I. Phong trào RND \n - 100% thành viên trong team tham gia phong trào SCC Happy Race 2023 \n II. Trao đổi BPMN với đội VH \n - Trao đổi với a NhânDD3 review lại những phần tính năng, lộ trình triển khai cho dự án của đội VH. Gửi lại review vào ngày 27.3 và book lịch họp với đội VH trong tuần sau \n III. Kế hoạch bàn giao công việc \n Lên KH bàn giao công việc ThanhNV97. Gửi lại CBQL vào ngày 24.3 \n IV. Kế hoạch CFR, Báo cáo kết quả OKR quý 1, thiết lập OKR quý 2 \n - Team hoàn thành CFR Q1.2023 vào 24.3. \n - Thiết lập OKR Q2.2023 trong ngày 24.3",
+      "date": 1679625024246,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Năng suất nhân sự",
+      "text": "- Các nhân sự có có NSNS từ 70% trở lên. HuyHG3 fail NSNS do bị sốt chưa log task ",
+      "date": 1679625024246,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Công việc tuần tới",
+      "text": "I. Dự án \n - OnCX \n + Sprint planning 31, breakdown task \n + Thực hiện các task trong sprint 31 \n + Fix bug phát sinh (nếu có)  \n - SOP: Fix bug trên stg nếu có, tích hợp Cypress, chỉnh sửa API endpoint nếu có thay đổi. \n - Dialo: Thực hiện sprint 24 \n Hệ thống giám sát mới: Phối hợp test khi ISC đồng bộ data \n II. Nghiên cứu xây dựng tool thống kê KPI, OKR: \n Đã hoàn thành đồng bộ task từ taiga sang fproject. Đang thực hiện test dự kiến hoàn thành vào đầu tuần sau. Tiếp tục thực hiện đồng bộ update task sang fproject",
+      "date": 1679625024246,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    }
+  ],
+  "diff_work_31_03_2023": [
+    {
+      "title": "OKR",
+      "text": "I. Nghiên cứu công nghệ: \n ĐứcNC10: Hoàn thành OKR và đã demo web tích hợp Voice Search Optimization vào ngày 23.3 \n LộcNTX: Hoàn thành OKR, tích hợp storybook vào Oncx (100%) demo vào ngày 23.3 \n HuyHQ29: Hoàn thành OKR, Tích hợp storybook vào happy-connect (100%) demo vào ngày 23.3 \n KhánhTV21: Chrome extension (100%) demo vào ngày 23.3\n TàiVP: Hoàn thành OKR quý 1 \nThànhNV97: Triển khai tool cho đội Dịch vụ (100%) \n II. Hoàn thành khó học, chứng chỉ: \n PhiLK: Khóa học mobile flutter: 100%, Demo Flutter: (100%) \n III. Hoàn thành tool: \n Nghiên cứu xây dựng tool thống kê KPI, OKR: 100% đã xây dựng api fproject lấy được các thông tin project, task. Đồng bộ task từ taiga sang fproject",
+      "date": 1680228506785,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "KPI",
+      "text": "I. Hoàn thành docs tính năng API (Flow, data schema, swimlane logic) trên mỗi task được nhận (trừ trường hợp được SA-BA confirm không cần làm) : Đạt. \nII. Hoàn thành update đủ thông tin task trên taiga \n 1. Mô tả task (input-output) \n 2. Bằng chứng hoàn thành khi chuyển từ inprogress sang ready to test - FE screenshot UI trên mt dev, merge request; BE screenshot Postman API trên mt dev, merge request. \n 3. Integration test/unit test \n Đạt. \n III. Có số bugs được report trong mỗi tính năng của 1 sprint dự án <= 2 (Bug tính theo miss logic, miss require, miss task, miss communication): Đạt \n IV: Đảm bảo số lần CBQL nhắc nhở, khiển trách về công việc, thái độ trách nhiệm của bản thân = 0 lần: Đạt",
+      "date": 1680228506785,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Vấn đề phát sinh khác",
+      "text": "I. Phong trào RND \n - 100% thành viên trong team tham gia phong trào SCC Happy Race 2023 \n II. Trao đổi BPMN với đội VH \n - Đã họp trao đổi với team VH đề xuất timeline thực hiện trong Q2 \n III. Kế hoạch bàn giao công việc \n Đã lên KH bàn giao công việc ThanhNV9, TaiVP, HuyHG3 \n IV. Đề thi tuyển và đề ôn tập SVTT \n - Họp trao đổi với CBQL vào 31.1 lên KH thực hiện và gửi lại trước 7.4.2023",
+      "date": 1680228506785,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Công việc tuần tới",
+      "text": "I. Dự án \n - OnCX \n + Sprint planning 31, breakdown task \n + Thực hiện các task trong sprint 31 \n + Deploy CRM mới \n + Fix bug phát sinh (nếu có) \n - SOP: Fix bug trên stg nếu có, tích hợp Cypress, nghiên cứu webview mobile. \n - Dialo: Thực hiện sprint 23 \n Hệ thống giám sát mới: Phát triển, test api tích hợp với ISC \n II. Nghiên cứu xây dựng tool thống kê KPI, OKR: \n Lên KH bàn giao và timeline phát triển tiếp trong Q2 \n III. Đề thi tuyển và đề ôn tập SVTT: Hoàn thành đề và tài liệu ôn tập SVTT",
+      "date": 1680228506785,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Năng suất nhân sự",
+      "text": "- Tất cả các nhân sự có NSNS từ 100% trở lên ",
+      "date": 1680228506785,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    }
+  ],
+  "diff_work_07_04_2023": [
+    {
+      "title": "OKR",
+      "text": "I. Nghiên cứu công nghệ: \n ĐứcNC10 - Nghiên cứu n8n (80%) và zapier (10%)   \n LộcNTX: Bản mô tả và đề xuất tính năng đánh giá nhân sự (40%) \n HuyHQ29: Nhận bàn giao dự án Dialo(80%), tool KHĐ (80%) \n KhánhTV21: Nghiên cứu webview trên mobile (60%) \n SangTT9: Kế hoạch đo kiểm hiệu suất api (20%) \n II. Hoàn thành khó học, chứng chỉ: \n \n III. Hoàn thành tool: \n - Nghiên cứu xây dựng tool thống kê KPI, OKR: 100% đã xây dựng api fproject lấy được các thông tin project, task. Đồng bộ task từ taiga sang fproject",
+      "date": 1682037346000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "KPI",
+      "text": "I. Hoàn thành docs tính năng API (Flow, data schema, swimlane logic) trên mỗi task được nhận (trừ trường hợp được SA-BA confirm không cần làm) : Đạt. \nII. Hoàn thành update đủ thông tin task trên taiga \n 1. Mô tả task (input-output) \n 2. Bằng chứng hoàn thành khi chuyển từ inprogress sang ready to test - FE screenshot UI trên mt dev, merge request; BE screenshot Postman API trên mt dev, merge request. \n 3. Integration test/unit test \n Đạt. \n III. Có số bugs được report trong mỗi tính năng của 1 sprint dự án <= 2 (Bug tính theo miss logic, miss require, miss task, miss communication): Đạt \n IV: Đảm bảo số lần CBQL nhắc nhở, khiển trách về công việc, thái độ trách nhiệm của bản thân = 0 lần: Đạt",
+      "date": 1682037346000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Vấn đề phát sinh khác",
+      "text": "I. Phong trào RND \n - 100% thành viên trong team tham gia phong trào SCC Happy Race 2023 \n II. Kế hoạch bàn giao công việc \n -ThanhNV9: đã hoàn thành docs đang bàn giao tool KHĐ cho HuyHQ29 \n - TaiVP, HuyHG3: đang thực hiện viết docs bàn giao \n III. Update luồng verify ticket \n - Họp với CADS và ISC vào 7/4 clear nội trao đổi. a DươngLQ đang viết mô tả \n IV. Đề thi tuyển và đề ôn tập SVTT \n - Đã hoàn thành đề ôn và thi cho SVCNTS",
+      "date": 1682037346000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Công việc tuần tới",
+      "text": "I. Dự án \n - OnCX \n + Sprint planning 32, breakdown task \n + Thực hiện các task trong sprint 32 \n + Deploy CRM mới \n + Danh sách câu trả lời mẫu \n + Fix bug phát sinh (nếu có) \n - SOP: Fix bug trên stg, bắt đầu sprint 14 \n - Dialo: Thực hiện sprint 23 \n Hệ thống giám sát mới: Phát triển, test api tích hợp với ISC \n II. Update luồng verify ticket \n Đánh giá mô tả, xem xét KH thực hiện update",
+      "date": 1682037346000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Hoàn thành khoá học, chứng chỉ",
+      "text": "- LocNTX, HuyHQ29, PhiLK hoàn thành MOOC \n - SangTT9: 10% \n - KhanhTV21: 75%  \n - DucNC10: 63% ",
+      "date": 1682037346000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    }
+  ],
+  "diff_work_14_04_2023": [
+    {
+      "title": "OKR",
+      "text": "I. Nghiên cứu công nghệ: \n - ĐứcNC10 - Nghiên cứu n8n (80%) và zapier (10%)   \n - LộcNTX: Bản mô tả và đề xuất tính năng đánh giá nhân sự (40%) \n - HuyHQ29: Nhận bàn giao dự án Dialo(80%), tool KHĐ (80%) \n - KhánhTV21: Nghiên cứu webview trên mobile (60%) \n - SangTT9: Kế hoạch đo kiểm hiệu suất api (20%) \n II. Hoàn thành khó học, chứng chỉ: \n \n III. Hoàn thành tool: \n - Nghiên cứu xây dựng tool thống kê KPI, OKR: 100% đã xây dựng api fproject lấy được các thông tin project, task. Đồng bộ task từ taiga sang fproject",
+      "date": 1682037346000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "KPI",
+      "text": "I. Hoàn thành docs tính năng API (Flow, data schema, swimlane logic) trên mỗi task được nhận (trừ trường hợp được SA-BA confirm không cần làm) : Đạt. \nII. Hoàn thành update đủ thông tin task trên taiga \n 1. Mô tả task (input-output) \n 2. Bằng chứng hoàn thành khi chuyển từ inprogress sang ready to test - FE screenshot UI trên mt dev, merge request; BE screenshot Postman API trên mt dev, merge request. \n 3. Integration test/unit test \n Đạt. \n III. Có số bugs được report trong mỗi tính năng của 1 sprint dự án <= 2 (Bug tính theo miss logic, miss require, miss task, miss communication): Đạt \n IV: Đảm bảo số lần CBQL nhắc nhở, khiển trách về công việc, thái độ trách nhiệm của bản thân = 0 lần: Đạt",
+      "date": 1682037346000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Vấn đề phát sinh khác",
+      "text": "I. Phong trào RND \n - <span style='color: green'> 100% </span> thành viên trong team tham gia phong trào SCC Happy Race 2023 \n II. Kế hoạch bàn giao công việc \n - Đã lên KH bàn giao công việc  \n - ThanhNV9: đã hoàn thành docs đang bàn giao tool KHĐ cho HuyHQ29. Training bàn giao vào tuần sau \n - TaiVP, HuyHG3: đã hoàn thành viết docs bàn giao. Training bàn giao vào tuần sau \n III. Update luồng verify ticket \n - a DươngLQ tuần sau gửi lại tài liệu mô tả. Dự kiến start vào 18.4",
+      "date": 1682037346000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Công việc tuần tới",
+      "text": "I. Dự án \n - OnCX \n + Sprint planning 32, breakdown task \n + Thực hiện các task trong sprint 32 \n + Deploy CRM mới \n + Danh sách câu trả lời mẫu \n + Fix bug phát sinh (nếu có) \n - SOP: Fix bug trên stg, bắt đầu sprint 14 \n - Dialo: Thực hiện sprint 23 \n Hệ thống giám sát mới: Phát triển, test api tích hợp với ISC \n II. Update luồng verify ticket \n Đánh giá mô tả, xem xét KH thực hiện update",
+      "date": 1682037346000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Hoàn thành khoá học, chứng chỉ",
+      "text": "- LocNTX, HuyHQ29, PhiLK, KhanhTV21 hoàn thành MOOC \n - SangTT9: 20%  \n - DucNC10: 90% ",
+      "date": 1682037346000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    }
+  ],
+  "diff_work_21_04_2023": [
+    {
+      "title": "OKR",
+      "text": "I. Nghiên cứu công nghệ: \n - ĐứcNC10 - Nghiên cứu n8n  <span style='color: green'>80%</span> và zapier <span style='color: red'>10%</span>   \n - Bản mô tả và đề xuất tính năng đánh giá nhân sự <span style='color: green'>40%</span>. Đã họp trao đổi ngày 19.4 \n - HuyHQ29: Nhận bàn giao dự án Dialo <span style='color: green'>100%</span>, tool KHĐ <span style='color: green'>100%</span> \n - KhánhTV21: Nghiên cứu webview trên mobile <span style='color: green'>60%</span> \n - SangTT9: Kế hoạch đo kiểm hiệu suất api <span style='color: green'>60%</span>  ",
+      "date": 1682037346000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "KPI",
+      "text": "I. Hoàn thành docs tính năng API (Flow, data schema, swimlane logic) trên mỗi task được nhận (trừ trường hợp được SA-BA confirm không cần làm) : Đạt. \nII. Hoàn thành update đủ thông tin task trên taiga \n 1. Mô tả task (input-output) \n 2. Bằng chứng hoàn thành khi chuyển từ inprogress sang ready to test - FE screenshot UI trên mt dev, merge request; BE screenshot Postman API trên mt dev, merge request. \n 3. Integration test/unit test \n Đạt. \n III. Có số bugs được report trong mỗi tính năng của 1 sprint dự án <= 2 (Bug tính theo miss logic, miss require, miss task, miss communication): Đạt \n IV: Đảm bảo số lần CBQL nhắc nhở, khiển trách về công việc, thái độ trách nhiệm của bản thân = 0 lần: Đạt",
+      "date": 1682037346000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Vấn đề phát sinh khác",
+      "text": "I. Kế hoạch bàn giao công việc \n - Đã lên KH bàn giao công việc  \n - ThanhNV9, TaiVP, HuyHG3: đã hoàn thành docs và thực hiện training bàn giao \n II. Nghiên cứu công nghệ BPMN cho đội VH \n - Đã trao đổi với a NhânDD thông nhất sử dụng Spiff Workflow. Lên KH thực hiện vào tuần sau",
+      "date": 1682037346000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Công việc tuần tới",
+      "text": "I. Dự án \n - OnCX \n + Deploy CRM mới \n + Hoàn thành danh sách câu trả lời mẫu \n + Hoàn thành ảnh hưởng của câu trả lời mẫu \n + Danh sách câu trả lời mẫu \n + Sprint 33 planning, breakdown task \n - Fix bug phát sinh (nếu có) \n - Dialo: Thực hiện sprint 24 \n Hệ thống giám sát mới: Fix issue phát sinh khi pentest nếu có \n Happy-connect: thực hiện sprint 5 \nII. Update luồng verify ticket \n Đánh giá mô tả, xem xét KH thực hiện update",
+      "date": 1682037346000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Hoàn thành khoá học, chứng chỉ",
+      "text": "- LocNTX, HuyHQ29, PhiLK, KhanhTV21 hoàn thành MOOC \n - SangTT9: <span style='color: red'>20%</span>  \n - DucNC10: <span style='color: green'>90%</span> ",
+      "date": 1682037346000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    }
+  ],
+  "diff_work_28_04_2023": [
+    {
+      "title": "OKR",
+      "text": "I. Nghiên cứu công nghệ: \n Đã tổng hợp và gửi mail thông tin nghiên cứu, đánh giá công nghệ, xây dựng tool:\nPhi, Đức: Cypress cho dự án\nLộcNTX: Tool nhân sự\nSangTT9: Webview, call \n Kế hoạch bàn giao công việc: Đã hoàn tất KH bàn giao công việc của ThànhNV97, HuyHG3, TàiVP \n Nghiên cứu công nghệ BPMN cho đội VH: Đã gửi mail thông tin tới HuyềnLM. Huyền đang lên mô tả flow timeline sẽ gửi lại qua luồng mail",
+      "date": 1682643049000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Vấn đề phát sinh khác",
+      "text": "I. Kế hoạch bàn giao công việc \n - Đã lên KH bàn giao công việc  \n - ThanhNV9, TaiVP, HuyHG3: đã hoàn thành docs và thực hiện training bàn giao \n II. Nghiên cứu công nghệ BPMN cho đội VH \n - Đã trao đổi với a NhânDD thông nhất sử dụng Spiff Workflow. Lên KH thực hiện vào tuần sau",
+      "date": 1682643049000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Công việc tuần tới",
+      "text": "I. Dự án \n OnCX:\n- Deploy CRM mới lên longchau-uat\n- Hoàn thành ảnh hưởng của câu trả lời mẫu\n- Hoàn thành Zoom ảnh trong bóng chat ở Web\n- Fix bug phát sinh (nếu có)\nSOP: Thực hiện sprint 15\nDialo: Thực hiện sprint 24\nHệ thống giám sát mới: Fix issue phát sinh khi pentest nếu có\nHappy-connect: thực hiện sprint 5 \n II.Trực lễ 30.4 1.5: Thông tin lại với nhân sự có tham gia trực lễ ",
+      "date": 1682643049000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Hoàn thành khoá học, chứng chỉ",
+      "text": "- LocNTX, HuyHQ29, PhiLK, KhanhTV21 hoàn thành MOOC \n - SangTT9: <span style='color: red'>50%</span>  \n - DucNC10: <span style='color: green'>99%</span> ",
+      "date": 1682643049000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    }
+  ],
+  "diff_work_05_05_2023": [
+    {
+      "title": "OKR",
+      "text": "Nghiên cứu công nghệ: \n I. <span style='color: yellow'>Tool nhân sự</span>: LocNTX trao đổi với TaiLM về timeline để thực hiện dev\nII. <span style='color: yellow'>Storybook-package</span>: Hoàn thành cấu hình môi trường, pushlish lên npm, HuyHQ29 trao đổi DucNC10 về timeline, task để thực hiện dev, 12/5 hoàn thành tạo Button, Avatar, Card, Alert  \n III. <span style='color: yellow'>Webview call</span>: Đã setup xong môi trường đang tích hợp library call dự kiến 15.05 hoàn thành \n",
+      "date": 1683259144000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Vấn đề phát sinh khác",
+      "text": "I. Chuyển đổi mail sang domain fpt.com \n - <span style='color: yellow'>có 5/6</span> nhân sự đã chuyển đổi xong. KhánhTV21 <span style='color: yellow'>chưa chuyển đổi</span> do đang <span style='color: yellow'>off</span> bận việc gia đình. Trao đổi với KhánhTV21 chuyển đổi trong <span style='color: yellow'>chưa chuyển đổi</span> do đang <span style='color: yellow'>trước ngày 8.5</span>   \n II. Trực lễ \n -Team hoàn thành trực lễ không có vấn đề phát sinh",
+      "date": 1683259144000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Công việc tuần tới",
+      "text": "OnCX:\n- Hoàn thành Zoom ảnh trong bóng chat ở Web\n- Fix bug phát sinh (nếu có)\nSOP:\n- Tích hợp các api trên webview\nHTGSM:\n- Trao đổi kế hoạch và nhu cầu triển khai với CADS, NOC và INF để triển khai netconf và telemetry...\n- Dialo:\nTest và Fix issue nếu nó, thực hiện task sprint 25\n- Happy connect:\nTest và Fix issue nếu nó, thực hiện task sprint 6",
+      "date": 1683259144000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Hoàn thành khoá học, chứng chỉ",
+      "text": "- LocNTX, HuyHQ29, PhiLK, KhanhTV21, DucNC10 hoàn thành MOOC \n - SangTT9: <span style='color: yellow'>85%</span>",
+      "date": 1683259144000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    }
+  ],
+  "diff_work_12_05_2023": [
+    {
+      "title": "OKR",
+      "text": "Tool nhân sự: Đã hoàn thành giao diện Login, Danh sách nhân sự, trao đổi với TaiLM xây dựng database cho phần User, OKR\nStorybook-package: Hoàn thành tạo Alert, Button, Checkbox, DatePicker, Dropdown, Input, InputNumber, Radio, Rate, Spin, 19/5 hoàn thành tạo Alert, Breadcrumbs, Filter Date\nWebview call: Đã setup xong môi trường đang tích hợp library call dự kiến 15.05 hoàn thành\nFigma: hoàn thành bản nghiên cứu về tài chính và timeline cho dự án, tích hợp authen (30%)",
+      "date": 1683860419000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Vấn đề phát sinh khác",
+      "text": "I. Chuyển đổi mail sang domain fpt.com \n Đã  hoàn thành chuyển đổi 6/6 nhân sự\nVấn đề: Gmail PhiLK không auto sync mail từ outlook sang gmail mới. Đã liên hệ HR hỗ trợ nhưng chưa giải quyết xong   \n II. Nghiên cứu lowcode \n Deadline 15.05. Đã draft nội dung nghiên cứu lowcode, cần nghiên cứu bổ sung việc áp dụng low-code trong FTEL và FPT",
+      "date": 1683860419000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Tuyên dương & nhắc nhở",
+      "text": "ĐứcNC10, HuyHQ29 xung phong làm BTC du lịch hè\nSangTT9 xung phong làm phần nghiên cứu low-code",
+      "date": 1683860419000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Công việc tuần tới",
+      "text": "OnCX:\n- Sprint 34 planning\n- Hoàn thành Zoom ảnh trong bóng chat ở Web\n- Fix bug phát sinh\nSOP:\n- Thực hiện sprint 16 và đẩy code tồn của sprint 15\nHTGSM:\n- Triển khai tích hợp vào SCCD và EM, Xây dựng tool quản lý config và db cho checkMK á\n- Dialo:\n Thực hiện task sprint 25\n- Happy connect:\nThực hiện task sprint 6\n- Chuẩn bị KH phỏng vấn và mentor SVCNTS",
+      "date": 1683860419000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Hoàn thành khoá học, chứng chỉ",
+      "text": "- LocNTX, HuyHQ29, PhiLK, KhanhTV21, DucNC10 hoàn thành MOOC \n - SangTT9: <span style='color: yellow'>95%</span>",
+      "date": 1683860419000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    }
+  ],
+  "diff_work_18_05_2023": [
+    {
+      "title": "KPI",
+      "text": "I. Hoàn thành docs về tính năng - API (Flow, data schema, swimlane logic) trên mỗi task được nhận (trừ trường hợp được SA-BA confirm không cần làm): <span style='color: yellow'>Đạt</span>\n II. Hoàn thành update đủ thông tin task trên taiga 1. Mô tả task (input-output), 2. bằng chứng hoàn thành khi chuyển từ ingrogress sang ready to test - FE screenshot UI trên mt dev, merge request; BE screenshot Postman API trên mt dev, merge request; 3.integration test/ unit test: <span style='color: red'>Còn task/issue chưa comment khi đã ready for test</span>\n III. Có số bugs được report trong mỗi tính năng của 1 sprint dự án <= 2 (Bug tính theo miss logic, miss require, miss task, miss communication): <span style='color: yellow'>Đạt</span> \n IV. Đảm bảo số lần CBQL nhắc nhở, khiển trách về công việc, thái độ trách nhiệm của bản thân = 0 lần: <span style='color: yellow'>Đạt</span>",
+      "date": 1684458077000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "OKR",
+      "text": "<span style='color: yellow'>Tool nhân sự</span>: Đã giao diện OKR cá nhân, tạo dự án trên taiga\n<span style='color: yellow'>Storybook-package</span>: Lên kế hoạch sử dụng storybook vào figma để tự động render code reactjs \n <span style='color: yellow'>Webview call</span>: Đã setup xong môi trường đang tích hợp library call dự kiến 15.05 hoàn thành\n<span style='color: yellow'>Figma</span>: Đã setup server đang test thử chạy trên môi trường server",
+      "date": 1684458077000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Vấn đề phát sinh khác",
+      "text": "I. Chuyển đổi mail sang domain fpt.com \n<span style='color: red'>PhiLK đã gửi ticket nhờ IT hỗ trợ </span>  \n II. Nghiên cứu lowcode \n Đã họp trao đổi vào sáng 19/5",
+      "date": 1684458077000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Công việc tuần tới",
+      "text": "Gửi kết quả OKR tháng 5, lên OKR tháng 6\nOnCX:\n- Fix bug phát sinh\nSOP:\n- Hoàn thành sprint 16, planning sprint 17\nHTGSM:\n- Triển khai tích hợp vào SCCD và EM\n- Dialo:\n Thực hiện task sprint 25\n- Happy connect:\nThực hiện task sprint 6\n- Thực hiện phỏng vấn SVCNTS vào 20/5",
+      "date": 1684458077000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Hoàn thành khoá học, chứng chỉ",
+      "text": "Team hoàn thành khoá học \n <span style='color: yellow'>SangTT9 đã submitted đang đợi confirm</span>",
+      "date": 1684458077000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    }
+  ],
+  "diff_work_26_05_2023": [
+    {
+      "title": "KPI",
+      "text": "I. Hoàn thành docs về tính năng - API (Flow, data schema, swimlane logic) trên mỗi task được nhận (trừ trường hợp được SA-BA confirm không cần làm): <span style='color: yellow'>Đạt</span>\n II. Hoàn thành update đủ thông tin task trên taiga 1. Mô tả task (input-output), 2. bằng chứng hoàn thành khi chuyển từ ingrogress sang ready to test - FE screenshot UI trên mt dev, merge request; BE screenshot Postman API trên mt dev, merge request; 3.integration test/ unit test: <span style='color: red'>Còn task/issue chưa comment khi đã ready for test</span>\n III. Có số bugs được report trong mỗi tính năng của 1 sprint dự án <= 2 (Bug tính theo miss logic, miss require, miss task, miss communication): <span style='color: yellow'>Đạt</span> \n IV. Đảm bảo số lần CBQL nhắc nhở, khiển trách về công việc, thái độ trách nhiệm của bản thân = 0 lần: <span style='color: yellow'>Đạt</span>",
+      "date": 1685061734000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "OKR",
+      "text": "<span style='color: yellow'>Tool nhân sự</span>: Đã giao diện OKR cá nhân, tạo dự án trên taiga\n<span style='color: yellow'>Storybook-package</span>: Lên kế hoạch sử dụng storybook vào figma để tự động render code reactjs \n <span style='color: yellow'>Webview call</span>: Đã setup xong môi trường đang tích hợp library call dự kiến 15.05 hoàn thành\n<span style='color: yellow'>Figma</span>: Đã setup server đang test thử chạy trên môi trường server",
+      "date": 1685061734000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Vấn đề phát sinh khác",
+      "text": "<span style='color: red'>I. Nhiều mục KR trong tháng 5 bị fail</span> \n Team còn nhiều thành viên fail OKR trong tháng 5\nNguyên nhân: chưa có giải pháp tối ưu để vượt tiến độ task trong sprint vì nhân sự khá mỏng, chưa sắp xếp thời gian hợp lý để thực hiện OKR\nGiải pháp: Đánh giá kỹ độ ưu tiên từng hạn mục công việc, có nhân sự bổ sung ít nhất 1 SVCNTS để hỗ trợ team thực hiện  \n II. Nghiên cứu lowcode \n Xây dựng kiến trúc cho tool lowcode, trình bày vào chiều 26.05",
+      "date": 1685061734000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Công việc tuần tới",
+      "text": "Gửi kết quả OKR tháng 5, lên OKR tháng 6\nOnCX:\n- Fix bug phát sinh\nSOP:\n- Hoàn thành sprint 16, planning sprint 17\nHTGSM:\n- Triển khai tích hợp vào SCCD và EM\n- Dialo:\n Lên task sprint 26\n- Happy connect:\nThực hiện task sprint 6\n- Thực hiện phỏng vấn SVCNTS vào 20/5",
+      "date": 1685061734000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Hoàn thành khoá học, chứng chỉ",
+      "text": "<span style='color: green'>100% thành viên đã được approved MOOCs</span>",
+      "date": 1685061734000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    }
+  ],
+  "diff_work_02_06_2023": [
+    {
+      "title": "KPI",
+      "text": "I. Hoàn thành docs về tính năng - API (Flow, data schema, swimlane logic) trên mỗi task được nhận (trừ trường hợp được SA-BA confirm không cần làm): <span style='color: yellow'>Đạt</span>\n II. Hoàn thành update đủ thông tin task trên taiga 1. Mô tả task (input-output), 2. bằng chứng hoàn thành khi chuyển từ ingrogress sang ready to test - FE screenshot UI trên mt dev, merge request; BE screenshot Postman API trên mt dev, merge request; 3.integration test/ unit test: <span style='color: yellow'>Đạt</span>\n III. Có số bugs được report trong mỗi tính năng của 1 sprint dự án <= 2 (Bug tính theo miss logic, miss require, miss task, miss communication): <span style='color: yellow'>Đạt</span> \n IV. Đảm bảo số lần CBQL nhắc nhở, khiển trách về công việc, thái độ trách nhiệm của bản thân = 0 lần: <span style='color: yellow'>Đạt</span>",
+      "date": 1685671551000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "OKR",
+      "text": "<span style='color: yellow'>Tool nhân sự</span>: Đã họp để chỉnh sửa và chốt schema, vẽ mindmap phát triển tool\n<span style='color: yellow'>Storybook-package</span>: DucNC10, HuyHQ29, SangTT9 xây dựng timeline lowcode\n<span style='color: yellow'>Figma</span>: Thực hiện dev phần collaboration dự kiến demo vào 13/06 \n<span style='color: yellow'>Lowcode</span>: Đang thực hiện demo test tính năng kết hợp update taiga",
+      "date": 1685671551000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Vấn đề phát sinh khác",
+      "text": "<span style='color: yellow'>I. Tiếp nhận SVCNTS</span>:  Chào mừng SVCNTS vào ngày 01/06. Trao đổi các thông tin, lên syllabus cho nhân sự\n",
+      "date": 1685671551000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Công việc tuần tới",
+      "text": "Demo với BGĐ lowcode\nChuẩn bị nội dung báo cáo phòng 1H\nOnCX:\n- Triển khai cho khách hàng DKSH\n- Fix bug phát sinh\nSOP:\n- Thực hiện sprint 17, fix bug sprint 14,15,16\nHTGSM:\n- Lên timeline nghiên cứu tối ưu scan service check. Nghiên cứu lấy các chỉ số của host và service check\n- Dialo:\n Thực hiện task sprint 26\n- Happy connect:\nThực hiện task sprint 7",
+      "date": 1685671551000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    }
+  ],
+  "diff_work_16_06_2023": [
+    {
+      "title": "KPI",
+      "text": "I. Hoàn thành docs về tính năng - API (Flow, data schema, swimlane logic) trên mỗi task được nhận (trừ trường hợp được SA-BA confirm không cần làm): <span style='color: yellow'>Đạt</span>\n II. Hoàn thành update đủ thông tin task trên taiga 1. Mô tả task (input-output), 2. bằng chứng hoàn thành khi chuyển từ ingrogress sang ready to test - FE screenshot UI trên mt dev, merge request; BE screenshot Postman API trên mt dev, merge request; 3.integration test/ unit test: <span style='color: yellow'>Đạt</span>\n III. Có số bugs được report trong mỗi tính năng của 1 sprint dự án <= 2 (Bug tính theo miss logic, miss require, miss task, miss communication): <span style='color: yellow'>Đạt</span> \n IV. Đảm bảo số lần CBQL nhắc nhở, khiển trách về công việc, thái độ trách nhiệm của bản thân = 0 lần: <span style='color: yellow'>Đạt</span>",
+      "date": 1685671551000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "OKR",
+      "text": "<span style='color: yellow'>Tool nhân sự</span>: Hoàn thành giao diện KPI cá nhân, report KPI cá nhân, danh sách KPI nhân viên (site CBQL)\n<span style='color: yellow'>Storybook-package</span>: Hoàn thành xuất ra html từ giao diện có sẵn trên figma, tiến hành tạo plugin figma để tự động lấy thông tin mà không cần nhập tay. Nghiên cứu tích hợp AI chuyển từ html sang react\n<span style='color: yellow'>Figma</span>: Dash board quản lý cho tools (80%), tính năng version control cho tool( 30%) \n<span style='color: yellow'>Lowcode</span>: Thực hiện test performance khi run nhiều workflow",
+      "date": 1685671551000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Vấn đề phát sinh khác",
+      "text": "<span style='color: yellow'> Tiếp nhận SVCNTS</span>: \n Đi làm đúng giờ và làm đủ 5/5  \n Nhân sự học theo syllabus, đang nghiên cứu generate html từ figma (70%)\n Nắm được kiến thức cơ bản của umi như config router, cấu hình webpack\nThực hành sử dụng và thao tác figma dựa trên ant design\nThực hành export figma to html sử dụng công nghệ reactjs, typescript, react query, giao diện ant design \n<span style='color: yellow'>Kết quả</span> \n Đã generate file HTML từ figma có độ chính xác so với design là 70% \n <span style='color: yellow'>Điểm chưa tốt, cần cải thiện:</span> \nVẫn còn chưa chủ động giao lưu với mọi người trong Phòng",
+      "date": 1685671551000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Công việc tuần tới",
+      "text": "CFR Quý 2 2023\nTham gia tổng kết 1H\nGửi kết quả OKR tháng 6 team FE vào 22/6 \nTeam thực hiện CFR vào 19/6\nOnCX:\n- Sprint 36 planning\n- Breakdown task\n- Thực hiện các task trong sprint 36\n- Fix bug phát sinh\nSOP:\n- Thực hiện sprint 18, fix bug sprint 14,15,16\nHTGSM:\n- Nghiên cứu api khi apply plugin\n- Dialo:\n Fix issue sprint 26 nếu có, lên task thực hiện sprint 27\n- Happy connect:\nThực hiện task sprint 8",
+      "date": 1685671551000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    }
+  ]
+}

@@ -730,5 +730,39 @@
       "avatarUrl": "avatar1",
       "author": "Dr. Dan Reed"
     }
+  ],
+  "diff_work_23_06_2023": [
+    {
+      "title": "KPI",
+      "text": "I. Hoàn thành docs về tính năng - API (Flow, data schema, swimlane logic) trên mỗi task được nhận (trừ trường hợp được SA-BA confirm không cần làm): <span style='color: yellow'>Đạt</span>\n II. Hoàn thành update đủ thông tin task trên taiga 1. Mô tả task (input-output), 2. bằng chứng hoàn thành khi chuyển từ ingrogress sang ready to test - FE screenshot UI trên mt dev, merge request; BE screenshot Postman API trên mt dev, merge request; 3.integration test/ unit test: <span style='color: yellow'>Đạt</span>\n III. Có số bugs được report trong mỗi tính năng của 1 sprint dự án <= 2 (Bug tính theo miss logic, miss require, miss task, miss communication): <span style='color: yellow'>Đạt</span> \n IV. Đảm bảo số lần CBQL nhắc nhở, khiển trách về công việc, thái độ trách nhiệm của bản thân = 0 lần: <span style='color: yellow'>Đạt</span>",
+      "date": 1687481684000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "OKR",
+      "text": "Đã hoàn update OKR quý 2 và lên OKR quý 3\nBáo cáo OKR tháng 6",
+      "date": 1687481684000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Vấn đề phát sinh khác",
+      "text": "<span style='color: yellow'> I. Tiếp nhận SVCNTS</span>: \n Đi làm đúng giờ và làm đủ 5/5  \n Hoàn thành generate html từ figma (100%)\n Đã add vào project Happy-connect để tìm hiểu code, và tiến thành thực hiện task\n<span style='color: yellow'> II. Smart routing</span> \n Đã hoàn thành test. Update production vào tuần tới ",
+      "date": 1687481684000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Công việc tuần tới",
+      "text": "Tham gia tổng kết 1H\nOnCX:\n- Thực hiện các task trong sprint 36\n- Fix bug phát sinh\nSOP:\n- Thực hiện sprint 19\nHTGSM:\n- Test với a DươngLQ và team system api plugin\n- Dialo:\n thực hiện sprint 27, mục tiêu kết thúc sprint vào 30/6\n- Happy connect:\nHoàn thành task sprint 8, fix issue nếu có\n- Đánh giá chéo SVCNTS với các phòng: 30/6",
+      "date": 1687481684000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    }
   ]
 }

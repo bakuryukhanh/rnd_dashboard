@@ -754,5 +754,47 @@
             "avatarUrl": "avatar1",
             "author": "Dr. Dan Reed"
         }
+    ],
+    "project_23_06_2023": [
+        {
+            "title": "Sale Online Platform",
+            "text": "<span style='color: red'>Trễ tiến độ.</span>\n Công việc:\n- Thực hiện sprint review 18, sprint planning sprint 19\n2. Bug:\nKhánh: New: 2, Ready for test: 7, Needs Info: 9 (6 block), Reopen: 1\nDucNC10: New: 3, Needs Info: 4 (0 block), Reopen: 1\nsangtt9: Needs Info: 2 (2 block), Reopen: 1\nlocntx: \n2. Root cause:\nKhánh: \n- 9. Thiếu sót/gặp lỗi do chủ quan: 2,\n- enhance: 2,\n- 6. Gặp lỗi khi triển khai: 1,\n- cần ISC support : 1,\n- Cần ISC support: 3,\n- 1. Hiểu sai yêu cầu: 1,\n- Thư viện không hỗ trợ: 1,\n- Cần ISC support phần overlap khi màn hình bị resize khi bàn phím của thiết bị hiện lên: 1\nDucNC10: \n- 1. Hiểu sai yêu cầu: 1\nsangtt9: \n- can ISC support: 1,\n- ISC chua fix duoc tren app saleclub => auto focus keyboard se k popup dc: 1,\n- 9. Thiếu sót/gặp lỗi do chủ quan: 1\n3.Workload:\n- SangTT9(24h)\n- KhanhTV21(32h)\n- DucNC10(40h)\n- LocNTX (20h)\n- PhiLK (12h)\n4.Khó khăn:\n- Không\n5. Đề xuất:\n- Không",
+            "date": 1687481684000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Dialo",
+            "text": "Đúng tiến độ.\n1. Nội dung\n- Hoàn thành review, retro sprint 26, thực hiện planning sprint 27 và hoàn thành sprint 27 trước 30/6\n2. Workload: \nHuyHQ29: 12h\n3. Số lượng task Sprint 26: 7\n4. Số lượng task hoàn thành: 7 (done)\n5. Số lượng issue: 0 \n6. Root cause: 0\n7. Số lượng issue fix: 0\n8. Khó khăn: Không\n9. Đề xuất: không",
+            "date": 1687481684000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Happy Connect",
+            "text": "Đúng tiến độ\n1. Nội dung:\nĐang thực hiện sprint 8\n2. Workload:\nHuyHQ29: 12h\n3. Số lượng task Sprint 8: 8\n4. Số lượng task hoàn thành:  6 (ready for dev), 2 (need info)\n5. Số lượng issue: 0\n6. Root cause: không\n7. Số lượng issue fix: 0\n8. Khó khăn: không\n9. Đề xuất: không",
+            "date": 1687481684000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "Hệ thống giám sát mới",
+            "text": "Đúng tiến độ\nNghiên cứu api khi apply plugins đã mapping được label của host device (tiến độ 70%) \nWorkload:\n- SangTT9: 4h\nKhó khăn: không\nĐề xuất: không",
+            "date": 1687481684000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        },
+        {
+            "title": "OnCX",
+            "text": "1. Công việc: \n- #8247 [Ver1.5.0 + FRT] Chọn câu trả lời mẫu bằng phím di chuyển (25%)\n- #8231 [Ver1.5.0 + FRT] - Hiển thị được biến @Tên trang cho các room livechat (100%)\n- Fix bug phát sinh\n2. Workload:\n- PhiLK: 8h\n- LocNTX: 12h\n- SangTT: 0h\n3. Số lượng task/sprint: 2\n4. Số lượng task hoàn thành: 1 (50%)\n5. Số lượng issue: 2\n6. Root cause:\n7. Số lượng issue fix: 0\n8. Khó khăn: Không\n9. Đề xuất: Không",
+            "date": 1687481684000,
+            "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+            "avatarUrl": "avatar1",
+            "author": "Dr. Dan Reed"
+        }
     ]
 }

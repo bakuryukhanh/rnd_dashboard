@@ -17,6 +17,7 @@ import {
   getStatistics_26_05_2023,
   getStatistics_02_06_2023,
   getStatistics_16_06_2023,
+  getStatistics_23_06_2023,
 } from 'api/statistics.api';
 import { statistics as configStatistics } from 'constants/config/statistics';
 import { BaseCol } from '@app/components/common/BaseCol/BaseCol';
@@ -56,6 +57,8 @@ export const StatisticsCards: React.FC<Props> = (props) => {
       getStatistics_02_06_2023().then((res) => setStatistics(res));
     } else if (date === '12/06/2023 - 16/06/2023') {
       getStatistics_16_06_2023().then((res) => setStatistics(res));
+    } else if (date === '19/06/2023 - 23/06/2023') {
+      getStatistics_23_06_2023().then((res) => setStatistics(res));
     } else {
       getStatisticsBefore().then((res) => setStatistics(res));
     }

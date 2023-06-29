@@ -459,6 +459,41 @@ export const getStatistics_16_06_2023 = (): Promise<Statistic[]> => {
     }, 0);
   });
 };
+export const getStatistics_23_06_2023 = (): Promise<Statistic[]> => {
+  return new Promise((res) => {
+    setTimeout(() => {
+      res([
+        {
+          id: 1,
+          value: 7,
+          prevValue: 7,
+          unit: 'người',
+          off: `Chính thức: 6, SVCNTS: 1 `,
+        },
+        {
+          id: 2,
+          value: 7,
+          prevValue: 7,
+          unit: 'người',
+          // off: 'SangTT9 off 25.5 bệnh',
+        },
+        {
+          id: 3,
+          value: 0,
+          prevValue: 0,
+          unit: 'người',
+          // off: `Chính thức: 6`,
+        },
+        {
+          id: 4,
+          value: 0,
+          prevValue: 0,
+          unit: 'người',
+        },
+      ]);
+    }, 0);
+  });
+};
 export const getStatisticsBefore = (): Promise<Statistic[]> => {
   return new Promise((res) => {
     setTimeout(() => {

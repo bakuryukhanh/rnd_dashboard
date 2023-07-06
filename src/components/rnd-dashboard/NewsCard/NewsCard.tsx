@@ -12,7 +12,7 @@ type Props = {
 
 export const NewsCard: React.FC<Props> = (props) => {
   const { t } = useTranslation();
-  const data = useMemo(() => {
+  const data: any = useMemo(() => {
     switch (props.week) {
       case '06/02/2023 - 24/02/2023':
         return project.project_24_02_2023;
@@ -66,9 +66,28 @@ export const NewsCard: React.FC<Props> = (props) => {
   return (
     <DashboardCard title={t('rnd-dashboard.project')}>
       <S.Wrapper>
-        {data.map((advice, index) => (
-          <BaseArticle key={index} title={advice.title} date={advice.date} description={advice.text} />
-        ))}
+        {data.map(
+          (
+            advice: {
+              title: string;
+              text: string;
+              date: number;
+              img: string;
+              avatarUrl: string;
+              author: string;
+              chart: { name: string; task: number; issue: number }[];
+            },
+            index: number,
+          ) => (
+            <BaseArticle
+              key={index}
+              title={advice.title}
+              date={advice.date}
+              description={advice.text}
+              chart={advice.chart}
+            />
+          ),
+        )}
       </S.Wrapper>
     </DashboardCard>
   );

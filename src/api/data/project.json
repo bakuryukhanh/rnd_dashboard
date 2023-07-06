@@ -484,7 +484,17 @@
             "date": 1682643049000,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
             "avatarUrl": "avatar1",
-            "author": "Dr. Dan Reed"
+            "author": "Dr. Dan Reed",
+            "chart": {
+                "sangpt21": {
+                    "task": 1,
+                    "bug": 2
+                },
+                "huyhq29": {
+                    "task": 1,
+                    "bug": 2
+                }
+            }
         },
         {
             "title": "Hệ thống giám sát mới",
@@ -636,7 +646,34 @@
             "date": 1685061734000,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
             "avatarUrl": "avatar1",
-            "author": "Dr. Dan Reed"
+            "author": "Dr. Dan Reed",
+            "chart": [
+                {
+                    "name": "KhanhTV21",
+                    "task": 5,
+                    "issue": 1
+                },
+                {
+                    "name": "DucNC10",
+                    "task": 4,
+                    "issue": 1
+                },
+                {
+                    "name": "PhiLK",
+                    "task": 8,
+                    "issue": 1
+                },
+                {
+                    "name": "LocNTX",
+                    "task": 4,
+                    "issue": 1
+                },
+                {
+                    "name": "SangTT9",
+                    "task": 2,
+                    "issue": 1
+                }
+            ]
         },
         {
             "title": "Dialo",
@@ -644,7 +681,19 @@
             "date": 1685061734000,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
             "avatarUrl": "avatar1",
-            "author": "Dr. Dan Reed"
+            "author": "Dr. Dan Reed",
+            "chart": [
+                {
+                    "name": "HuyHQ29",
+                    "task": 1,
+                    "issue": 1
+                },
+                {
+                    "name": "PhiLK",
+                    "task": 1,
+                    "issue": 1
+                }
+            ]
         },
         {
             "title": "Happy Connect",
@@ -652,7 +701,19 @@
             "date": 1685061734000,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
             "avatarUrl": "avatar1",
-            "author": "Dr. Dan Reed"
+            "author": "Dr. Dan Reed",
+            "chart": [
+                {
+                    "name": "HuyHQ29",
+                    "task": 7,
+                    "issue": 1
+                },
+                {
+                    "name": "SangPT23",
+                    "task": 2,
+                    "issue": 1
+                }
+            ]
         },
         {
             "title": "Hệ thống giám sát mới",
@@ -660,7 +721,14 @@
             "date": 1685061734000,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
             "avatarUrl": "avatar1",
-            "author": "Dr. Dan Reed"
+            "author": "Dr. Dan Reed",
+            "chart": [
+                {
+                    "name": "SangTT9",
+                    "task": 0,
+                    "issue": 0
+                }
+            ]
         },
         {
             "title": "OnCX",
@@ -668,7 +736,19 @@
             "date": 1685061734000,
             "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
             "avatarUrl": "avatar1",
-            "author": "Dr. Dan Reed"
+            "author": "Dr. Dan Reed",
+            "chart": [
+                {
+                    "name": "LocNTX",
+                    "task": 10,
+                    "issue": 2
+                },
+                {
+                    "name": "PhiLK",
+                    "task": 8,
+                    "issue": 1
+                }
+            ]
         }
     ]
 }

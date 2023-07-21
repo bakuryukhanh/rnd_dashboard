@@ -624,7 +624,7 @@
   "diff_work_26_05_2023": [
     {
       "title": "KPI",
-      "text": "I. Hoàn thành docs về tính năng - API (Flow, data schema, swimlane logic) trên mỗi task được nhận (trừ trường hợp được SA-BA confirm không cần làm): <span style='color: yellow'>Đạt</span>\n II. Hoàn thành update đủ thông tin task trên taiga 1. Mô tả task (input-output), 2. bằng chứng hoàn thành khi chuyển từ ingrogress sang ready to test - FE screenshot UI trên mt dev, merge request; BE screenshot Postman API trên mt dev, merge request; 3.integration test/ unit test: <span style='color: red'>Còn task/issue chưa comment khi đã ready for test</span>\n III. Có số bugs được report trong mỗi tính năng của 1 sprint dự án <= 2 (Bug tính theo miss logic, miss require, miss task, miss communication): <span style='color: yellow'>Đạt</span> \n IV. Đảm bảo số lần CBQL nhắc nhở, khiển trách về công việc, thái độ trách nhiệm của bản thân = 0 lần: <span style='color: yellow'>Đạt</span>",
+      "text": "I. Hoàn thành docs về tính năng - API (Flow, data schema, swimlane logic) trên mỗi task được nhận (trừ trường hợp được SA-BA confirm không cần làm): <span style='color: yellow'>Đạt</span>\n II. Hoàn thành update đủ thông tin task trên taiga 1. Mô tả task (input-output), 2. bằng chứng hoàn thành khi chuyển từ ingrogress sang ready to test - FE screenshot UI trên mt dev, merge request; BE screenshot Postman API trên mt dev, merge request; 3.integration test/ unit test: đạt\n III. Có số bugs được report trong mỗi tính năng của 1 sprint dự án <= 2 (Bug tính theo miss logic, miss require, miss task, miss communication): <span style='color: yellow'>Đạt</span> \n IV. Đảm bảo số lần CBQL nhắc nhở, khiển trách về công việc, thái độ trách nhiệm của bản thân = 0 lần: <span style='color: yellow'>Đạt</span>",
       "date": 1685061734000,
       "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
       "avatarUrl": "avatar1",
@@ -658,6 +658,108 @@
       "title": "Hoàn thành khoá học, chứng chỉ",
       "text": "<span style='color: green'>100% thành viên đã được approved MOOCs</span>",
       "date": 1685061734000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    }
+  ],
+  "diff_work_07_07_2023": [
+    {
+      "title": "KPI",
+      "text": "I. Hoàn thành docs về tính năng - API (Flow, data schema, swimlane logic) trên mỗi task được nhận (trừ trường hợp được SA-BA confirm không cần làm): <span style='color: yellow'>Đạt</span>\n II. Hoàn thành update đủ thông tin task trên taiga 1. Mô tả task (input-output), 2. bằng chứng hoàn thành khi chuyển từ ingrogress sang ready to test - FE screenshot UI trên mt dev, merge request; BE screenshot Postman API trên mt dev, merge request; 3.integration test/ unit test: đạt\n III. Có số bugs được report trong mỗi tính năng của 1 sprint dự án <= 2 (Bug tính theo miss logic, miss require, miss task, miss communication): <span style='color: yellow'>Đạt</span> \n IV. Đảm bảo số lần CBQL nhắc nhở, khiển trách về công việc, thái độ trách nhiệm của bản thân = 0 lần: <span style='color: yellow'>Đạt</span>",
+      "date": 1688698027000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "OKR",
+      "text": "<span style='color: yellow'>Tool nhân sự</span>: hoàn thành chức năng danh sách OKR nhân viên (site CBQL), đánh giá OKR\n<span style='color: yellow'>Storybook-package</span>: Demo Tool figma to Reactjs cho team FE \n<span style='color: yellow'>Figma</span>: Demo HDSD cho team FE tool figma\n<span style='color: yellow'>Lowcode</span>:  Áp dụng workflow sync task taiga sang fproject, thống kê report taiga",
+      "date": 1688698027000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Vấn đề phát sinh khác",
+      "text": "<span style='color: yellow'>I. Tiếp nhận SVCNTS</span> \n Lên task và làm task cho sprint 9 Happy-connect\nNghiên cứu khai thác ứng dụng AI vào lập trình",
+      "date": 1688698027000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Công việc tuần tới",
+      "text": "OnCX:\n- Nghiên cứu các user story sprint 38\n- Fix bug tồn, phát sinh\nSOP:\n- Retro review sprint 19, planning sprint 20\nHTGSM:\n- Tối ưu luồng xử lý device bị delay, tối ưu resource\n- Dialo:\nThực hiện sprint 28\n- Happy connect:\nThực hiện sprint 9",
+      "date": 1688698027000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    }
+  ],
+  "diff_work_14_07_2023": [
+    {
+      "title": "KPI",
+      "text": "I. Hoàn thành docs về tính năng - API (Flow, data schema, swimlane logic) trên mỗi task được nhận (trừ trường hợp được SA-BA confirm không cần làm): <span style='color: yellow'>Đạt</span>\n II. Hoàn thành update đủ thông tin task trên taiga 1. Mô tả task (input-output), 2. bằng chứng hoàn thành khi chuyển từ ingrogress sang ready to test - FE screenshot UI trên mt dev, merge request; BE screenshot Postman API trên mt dev, merge request; 3.integration test/ unit test: đạt\n III. Có số bugs được report trong mỗi tính năng của 1 sprint dự án <= 2 (Bug tính theo miss logic, miss require, miss task, miss communication): <span style='color: yellow'>Đạt</span> \n IV. Đảm bảo số lần CBQL nhắc nhở, khiển trách về công việc, thái độ trách nhiệm của bản thân = 0 lần: <span style='color: yellow'>Đạt</span>",
+      "date": 1689300878000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "OKR",
+      "text": "<span style='color: yellow'>Tool nhân sự</span>: cập nhật UI tool, trao đổi luồng với BE (Giang)\n<span style='color: yellow'>Storybook-package</span>: hoàn thành build tool storybook, tiến hành add các component thư viện để sử dụng \n<span style='color: yellow'>Figma</span>: Soạn nội dung slide giới thiệu (70%)\n<span style='color: yellow'>Lowcode</span>:  Đã áp dụng chạy thử vào dự án checkmk, sẽ triển khai cho các dự án còn lại vào tuần sau.",
+      "date": 1689300878000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Vấn đề phát sinh khác",
+      "text": "<span style='color: yellow'>I. Tiếp nhận SVCNTS</span> Thực hiện task intergrate api cho sprint 9 Happy-connect\nThực hiện task tool cải tiến\nHoàn thiện tool figma to html",
+      "date": 1689300878000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Công việc tuần tới",
+      "text": "OnCX:\n- Sprint 38 planning\n- Thực hiện các task trong sprint 38\n- Fix bug tồn, phát sinh\nSOP:\n- Retro review sprint 19, planning sprint 20\nHTGSM:\n- Tối ưu luồng xử lý device bị delay, tối ưu resource\n- Dialo:\nThực hiện sprint 28\n- Happy connect:\nThực hiện sprint 9\n- Đánh giá chéo SVCNTS \n Start lại với a Dương, a Quang cho hệ thống giám sát mới",
+      "date": 1689300878000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    }
+  ],
+  "diff_work_21_07_2023": [
+    {
+      "title": "KPI",
+      "text": "I. Hoàn thành docs về tính năng - API (Flow, data schema, swimlane logic) trên mỗi task được nhận (trừ trường hợp được SA-BA confirm không cần làm): <span style='color: yellow'>Đạt</span>\n II. Hoàn thành update đủ thông tin task trên taiga 1. Mô tả task (input-output), 2. bằng chứng hoàn thành khi chuyển từ ingrogress sang ready to test - FE screenshot UI trên mt dev, merge request; BE screenshot Postman API trên mt dev, merge request; 3.integration test/ unit test: <span style='color: yellow'>Đạt</span>\n III. Có số bugs được report trong mỗi tính năng của 1 sprint dự án <= 2 (Bug tính theo miss logic, miss require, miss task, miss communication): <span style='color: yellow'>Đạt</span> \n IV. Đảm bảo số lần CBQL nhắc nhở, khiển trách về công việc, thái độ trách nhiệm của bản thân = 0 lần: <span style='color: yellow'>Đạt</span>",
+      "date": 1689902478000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "OKR",
+      "text": "<span style='color: yellow'>Tool nhân sự</span>: hoàn thành 3 tính năng quản lý team, quản lý nhóm kĩ năng, quản lý kĩ năng\n<span style='color: yellow'>Storybook-package</span>: Chuẩn bị cho tuần tới trình bày với CBQL\n<span style='color: yellow'>Figma</span>: Chỉnh sửa slide trình bày. Chuẩn bị cho tuần tới trình bày với BGD\n<span style='color: yellow'>Lowcode</span>:  Demo automation test kết hợp low code. Áp dụng flow đồng bộ task taiga fproject",
+      "date": 1689902478000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Vấn đề phát sinh khác",
+      "text": "<span style='color: yellow'>I. Tiếp nhận SVCNTS</span> Hoàn thành chỉnh sửa tool cải tiến đúng hạn ",
+      "date": 1689902478000,
+      "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
+      "avatarUrl": "avatar1",
+      "author": "Dr. Dan Reed"
+    },
+    {
+      "title": "Công việc tuần tới",
+      "text": "Tổng hợp kết quả OKR\nDựng server test Langchain\nOnCX:\n- Thực hiện các task trong sprint 38\n- Fix bug tồn, phát sinh\n- Sprint 39 backlog refinement\n- Review, retro sprint 38\nSOP:\n- phanning sprint 21, bắt đầu thực hiện sprint\nHTGSM:\n- Tối ưu luồng xử lý device bị delay, tối ưu resource\n- Dialo:\nReview, retro sprint 28\n- Happy connect:\nReview, retro sprint 9\n- SVCNTS:\n24/07/2023 làm bài test phòng Vận hành\n26/07/2023 đánh giá chéo",
+      "date": 1689902478000,
       "img": "process.env.REACT_APP_ASSETS_BUCKET + '/med-news/Rectangle_440_1_ayb6yf.webp'",
       "avatarUrl": "avatar1",
       "author": "Dr. Dan Reed"

@@ -359,17 +359,124 @@ export const getStatistics_26_05_2023 = (): Promise<Statistic[]> => {
       res([
         {
           id: 1,
-          value: 6,
-          prevValue: 6,
+          value: 7,
+          prevValue: 7,
           unit: 'người',
-          off: `Chính thức: 6 \n SangTT9 off 25.05 bị sốt <span style='color: red'>(còn 11 ngày)</span>`,
+          off: `Chính thức: 6 \nSVCNTS: 1 \n  PhiLK off 03/07 bị sốt <span style='color: red'>(còn 10 ngày)</span>`,
         },
         {
           id: 2,
           value: 5,
           prevValue: 6,
           unit: 'người',
-          off: 'SangTT9 off 25.5 bệnh',
+          off: 'PhiLK off 03/07 bệnh',
+        },
+        {
+          id: 3,
+          value: 0,
+          prevValue: 0,
+          unit: 'người',
+          // off: `Chính thức: 6`,
+        },
+        {
+          id: 4,
+          value: 0,
+          prevValue: 0,
+          unit: 'người',
+        },
+      ]);
+    }, 0);
+  });
+};
+export const getStatistics_07_07_2023 = (): Promise<Statistic[]> => {
+  return new Promise((res) => {
+    setTimeout(() => {
+      res([
+        {
+          id: 1,
+          value: 7,
+          prevValue: 7,
+          unit: 'người',
+          off: `Chính thức: 6 \nSVCNTS: 1 \n  PhiLK off 03/07 bị sốt <span style='color: red'>(còn 10 ngày)</span>`,
+        },
+        {
+          id: 2,
+          value: 6,
+          prevValue: 7,
+          unit: 'người',
+          off: `PhiLK off 03/07 bị sốt`,
+        },
+        {
+          id: 3,
+          value: 0,
+          prevValue: 0,
+          unit: 'người',
+          // off: `Chính thức: 6`,
+        },
+        {
+          id: 4,
+          value: 0,
+          prevValue: 0,
+          unit: 'người',
+        },
+      ]);
+    }, 0);
+  });
+};
+
+export const getStatistics_14_07_2023 = (): Promise<Statistic[]> => {
+  return new Promise((res) => {
+    setTimeout(() => {
+      res([
+        {
+          id: 1,
+          value: 7,
+          prevValue: 7,
+          unit: 'người',
+          off: `Chính thức: 6 \nSVCNTS: 1 \n  SangTT9 off 10-11/07  <span style='color: red'>(còn 8.5 ngày)</span>\n  SangPT23 off nửa buổi 12/07`,
+        },
+        {
+          id: 2,
+          value: 7,
+          prevValue: 7,
+          unit: 'người',
+          // off: `PhiLK off 03/07 bị sốt`,
+        },
+        {
+          id: 3,
+          value: 0,
+          prevValue: 0,
+          unit: 'người',
+          // off: `Chính thức: 6`,
+        },
+        {
+          id: 4,
+          value: 0,
+          prevValue: 0,
+          unit: 'người',
+        },
+      ]);
+    }, 0);
+  });
+};
+
+export const getStatistics_21_07_2023 = (): Promise<Statistic[]> => {
+  return new Promise((res) => {
+    setTimeout(() => {
+      res([
+        {
+          id: 1,
+          value: 7,
+          prevValue: 7,
+          unit: 'người',
+          off: `Chính thức: 6 \nSVCNTS: 1 \n  LocNTX off 19/07 sốt  <span style='color: red'>(còn 11 ngày phép)</span>`,
+        },
+        {
+          id: 2,
+          value: 6,
+          prevValue: 6,
+          unit: 'người',
+          off: `LocNTX off 19/07 bị sốt`,
         },
         {
           id: 3,
